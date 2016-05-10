@@ -5,1099 +5,1260 @@
       "address": "Loja 308-A | Av Com. Gustavo Paiva, 2990 - Mangabeiras",
       "phone": "(82) 3436-9009",
       "latitude": -9.64788,
-      "longitude": -35.71569
+      "longitude": -35.71569,
+      "addressType": "Loja"
     },
     {
       "title": "Maragogi",
       "address": "Av. Senador Rui Palmeira, 705 - Litoraneo",
       "phone": "(82) 3296-2528",
       "latitude": -9.01037,
-      "longitude": -35.22083
+      "longitude": -35.22083,
+      "addressType": "Loja"
     },
     {
       "title": "Manauara Shopping",
       "address": "Loja 253 - Piso Castanheiras | Av. Mário Ypiranga, 1300 - Adrianópolis",
       "phone": "(92) 3236-6318",
       "latitude": -3.10412,
-      "longitude": -60.01179
+      "longitude": -60.01179,
+      "addressType": "Loja"
     },
     {
       "title": "Amazonas Shopping",
       "address": "Lojas 233 | Av. Djalma Batista, 482 - Parque 10",
       "phone": "(92) 3236-0963",
       "latitude": -3.09437,
-      "longitude": -60.0227
+      "longitude": -60.0227,
+      "addressType": "Loja"
     },
     {
       "title": "Barreiras Centro",
       "address": "Praça Castro Alves, 297 - Vila Brasil",
       "phone": "(77) 3611-2155",
       "latitude": -12.1487,
-      "longitude": -44.9984
+      "longitude": -44.9984,
+      "addressType": "Loja"
     },
     {
       "title": "Shopping Jequitibá",
       "address": "Loja N36 |Av. Aziz Maron, S/N - Goes Calmon",
       "phone": "(73) 3215-6054",
       "latitude": -14.79541,
-      "longitude": -39.27440 
+      "longitude": -39.27440 ,
+      "addressType": "Loja"
     },
     {
       "title": "Shopping Terrazzo Villas",
       "address": "Loja 2 | Av. Praia de Itapoan, 514  - Vilas do Atlantico",
       "phone": "(71) 3508-1744",
       "latitude": -12.88348,
-      "longitude": -38.30243
+      "longitude": -38.30243,
+      "addressType": "Loja"
     },
     {
       "title": "Luis Eduardo Magalhães",
       "address": "Sala 2 | Rua Paraná, 279 - Mimoso do Oeste",
       "phone": "(77) 3628-6569",
       "latitude": -12.08861,
-      "longitude": -45.79896
+      "longitude": -45.79896,
+      "addressType": "Loja"
     },
     {
       "title": "Boulevard Shopping",
       "address": "Loja 242 | Av. João Durval Carneiro, 3665 - São João",
       "phone": "(75) 3223-1016",
       "latitude": -12.24227,
-      "longitude": -38.94889
+      "longitude": -38.94889,
+      "addressType": "Loja"
     },
     {
       "title": "Salvador Shopping",
       "address": "Piso L1 - Loja 1009 | Av. Tancredo Neves, 2915 - Caminho das Árvores",
       "phone": "(71) 3019-3305",
       "latitude": -12.978,
-      "longitude": -38.45474
+      "longitude": -38.45474,
+      "addressType": "Loja"
     },
     {
       "title": "Shopping Barra",
       "address": "Piso L2 - Loja 235 | Av. Centenário, 2992 - Chame-Chame",
       "phone": "(71) 3033-9427",
       "latitude": -13.00686,
-      "longitude": -38.52451
+      "longitude": -38.52451,
+      "addressType": "Loja"
     },
     {
       "title": "Shopping Iguatemi",
       "address": "3º Piso - Loja S-17 | Av. Tancredo Neves, 148 - Caminho das Árvores",
       "phone": "(71) 3450-1626",
       "latitude": -12.97883,
-      "longitude": -38.45378
+      "longitude": -38.45378,
+      "addressType": "Loja"
     },
     {
       "title": "Shopping Paralela",
       "address": "Quadra F - Loja 215 | Av. Luiz Viana Filho, 8544 - Alphaville 1",
       "phone": "(71) 3414-2476",
       "latitude": -12.7304,
-      "longitude": -38.50230
+      "longitude": -38.50230,
+      "addressType": "Loja"
     },
     {
       "title": "Santo Antonio de Jesus - Centro",
       "address": "Casa A | Rua Landulfo Alves, 154 - Centro",
       "phone": "(75) 3631-0182",
       "latitude": -12.96985,
-      "longitude": -39.26174
+      "longitude": -39.26174,
+      "addressType": "Loja"
     },
     {
       "title": "Shopping Iguatemi",
       "address": "Piso Térreo - Loja A 429 | Av. Washington Soares, 85 - Edson Quieroz",
       "phone": "(85) 3241-1868",
       "latitude": -12.97304,
-      "longitude": -38.50230
+      "longitude": -38.50230,
+      "addressType": "Loja"
     },
     {
       "title": "North Shopping",
       "address": "2º piso - Loja 2010 | Av. Bezerra de Meneses, 2450 - São Geraldo",
       "phone": "(85) 3217-2811",
       "latitude": -3.73554,
-      "longitude": -38.56594
+      "longitude": -38.56594,
+      "addressType": "Loja"
     },
     {
       "title": "Shopping Aldeota",
       "address": "2º Piso - Loja 224 | Av. Dom Luis, 500 - Meireles",
       "phone": "(85) 3458-1580",
       "latitude": -3.73365,
-      "longitude": -38.49678
+      "longitude": -38.49678,
+      "addressType": "Loja"
     },
     {
       "title": "Via Sul Shopping",
       "address": "Piso Térreo - Loja 132 | Av. Washington Soares, 4335 - Sapiranga",
       "phone": "(85) 3278-5981",
       "latitude": -3.79461,
-      "longitude": -38.47956
+      "longitude": -38.47956,
+      "addressType": "Loja"
     },
     {
       "title": "Shopping Riomar",
       "address": "Piso L2 - Loja 2090 | Rua Desembargador Lauro Nogueira, 1500 - Papicu",
       "phone": "(85) 3221-6281",
       "latitude": -3.74112,
-      "longitude": -38.47213
+      "longitude": -38.47213,
+      "addressType": "Loja"
     },
     {
       "title": "Cariri Garden Shopping",
       "address": "Loja 190 | Av. Padre Cícero, 2555 - Triângulo",
       "phone": "(88) 3571-3723",
       "latitude": -7.22364,
-      "longitude": -39.32462
+      "longitude": -39.32462,
+      "addressType": "Loja"
     },
     {
       "title": "Shopping Conjunto Nacional",
       "address": "2º Piso - Loja 2138 A | Set. Diversões Norte Cj. A1 - Asa Norte",
       "phone": "(61) 3327-4058",
       "latitude": -15.79423,
-      "longitude": -47.88217
+      "longitude": -47.88217,
+      "addressType": "Loja"
     },
     {
       "title": "Shopping Pátio Brasil",
       "address": "1º Piso - Loja 276 | Set. Comercial Sul, Qd. 07 - Asa Sul",
       "phone": "(61) 3322-8626",
       "latitude": -15.80431,
-      "longitude": -47.89957
+      "longitude": -47.89957,
+      "addressType": "Loja"
     },
     {
       "title": "ParkShopping",
       "address": "Loja 248 | Set. Areas Isoladas / Sudoeste - Area, 6580 - F. Guara",
       "phone": "(61) 3047-5600",
       "latitude": -15.82669,
-      "longitude": -47.92182
+      "longitude": -47.92182,
+      "addressType": "Loja"
     },
     {
       "title": "Boulevard Vila Velha",
       "address": "Loja 1038 | Rodovia do Sol, 5000 - Jockey de Itaparica",
       "phone": "(27) 3535-3395",
       "latitude": -20.39207,
-      "longitude": -40.31821
+      "longitude": -40.31821,
+      "addressType": "Loja"
     },
     {
       "title": "Shopping Praia da Costa",
       "address": "3º Piso - Loja 302 | Av. Dr. Olívio Lira, 353 - Praia da Costa",
       "phone": "(27) 3320-8435",
       "latitude": -20.3421,
-      "longitude": -40.28967
+      "longitude": -40.28967,
+      "addressType": "Loja"
     },
     {
       "title": "Shopping Vitória",
       "address": "2º Piso - Loja 250 | Av. Américo Buaiz, 200 - Enseada do Suá ",
       "phone": "(27) 3345-1566",
       "latitude": -20.31264,
-      "longitude": -40.28816
+      "longitude": -40.28816,
+      "addressType": "Loja"
     },
     {
       "title": "Araguaia Shopping",
       "address": "1º Piso - Loja 3093-1010 | Rua 44, 399 - Setor Central",
       "phone": "(62) 3942-2144",
       "latitude": -16.65938,
-      "longitude": -49.25796
+      "longitude": -49.25796,
+      "addressType": "Loja"
     },
     {
       "title": "Shopping Imperial",
       "address": "Piso Térreo - Loja E-102 | Rod. BR 010, 48 - Centro",
       "phone": "(99) 3528-3613",
       "latitude": -5.53034,
-      "longitude": -47.4565
+      "longitude": -47.4565,
+      "addressType": "Loja"
     },
     {
       "title": "São Luis Shopping Center",
       "address": "Loja 135 | Av. Euclides Figueiredo, 1000 - Calhau",
       "phone": "(98) 3251-3766",
       "latitude": -2.5138,
-      "longitude": -44.28965
+      "longitude": -44.28965,
+      "addressType": "Loja"
     },
     {
       "title": "Shopping da Ilha",
       "address": "Piso L2 - Loja 211O | Av. Daniel de la Touche, 987 - Cohama",
       "phone": "(98) 3311-8216",
       "latitude": -2.52755,
-      "longitude": -44.25492
+      "longitude": -44.25492,
+      "addressType": "Loja"
     },
     {
       "title": "Colider - Centro",
       "address": "Av. Marechal Rondon, 965 - Centro",
       "phone": "(66) 3541-2248",
       "latitude": -10.81405,
-      "longitude": -55.45341
+      "longitude": -55.45341,
+      "addressType": "Loja"
     },
     {
       "title": "Pantanal Shopping",
       "address": "2º piso - Loja 2065 | Av. Historiador Rubens de Mendonça, 3300 - Jd. Aclimação",
       "phone": "(65) 3644-4628",
       "latitude": -15.57657,
-      "longitude": -56.07212
+      "longitude": -56.07212,
+      "addressType": "Loja"
     },
     {
       "title": "Rondonópólis - Centro",
       "address": "Av. Duque de Caxias, 801 - Vila Aurora I",
       "phone": "(66) 3022-8774",
       "latitude": -16.47314,
-      "longitude": -54.62035
+      "longitude": -54.62035,
+      "addressType": "Loja"
     },
     {
       "title": "Shopping Tangará da Serra",
       "address": "Setor W - Sala 69 | Av. Vereador Nilo Torres, 751-W - Parque Leblon",
       "phone": "(62) 3326-2169",
       "latitude": -14.61973,
-      "longitude": -57.48752
+      "longitude": -57.48752,
+      "addressType": "Loja"
     },
     {
       "title": "Shopping Várzea Grande",
       "address": "1º Piso - Loja 58A |Rua Presidente Arthur Bernardes, S/N - Jardim Aeroporto",
       "phone": "(65) 3026-2129",
       "latitude": -15.65643,
-      "longitude": -56.12278
+      "longitude": -56.12278,
+      "addressType": "Loja"
     },
     {
       "title": "Norte Sul Plaza Shopping",
       "address": "Loja 42 B | Av. Presidente Ernesto Geisel, 2300 - Joquei Club",
       "phone": "(67) 3342-9006",
       "latitude": -20.48015,
-      "longitude": -54.62656
+      "longitude": -54.62656,
+      "addressType": "Loja"
     },
     {
       "title": "Boulevard Shopping",
       "address": "2º Piso - Loja 2048 | Av. dos Andradas, 3000 - Santa Efigênia",
       "phone": "(31) 2512-6576",
       "latitude": -19.9208,
-      "longitude": -43.92029
+      "longitude": -43.92029,
+      "addressType": "Loja"
     },
     {
       "title": "Mister Shopping",
       "address": "Loja 114 | Rua Mister Moore, 72 - Centro",
       "phone": "(32) 3211-3659",
       "latitude": -21.7594,
-      "longitude": -43.34875
+      "longitude": -43.34875,
+      "addressType": "Loja"
     },
     {
       "title": "Griff Shopping",
       "address": "3º Piso - Loja 117 | Av. Governador Rondon Pacheco, 2300 - Vigilato Pereira",
       "phone": "(34) 3234-1215",
       "latitude": -18.92547,
-      "longitude": -48.27229
+      "longitude": -48.27229,
+      "addressType": "Loja"
     },
     {
       "title": "Montes Claros Shopping",
       "address": "Loja E 177 |R.  Donato Quintino, 90 - Cidade Nova",
       "phone": "(38) 9-9916-1020",      
       "latitude": -16.74194,
-      "longitude": -43.87061 
+      "longitude": -43.87061 ,
+      "addressType": "Loja"
     },
     {
       "title": "Boulevard Shopping",
       "address": "2º Piso - Loja 253 | Av. Visconde de Souza Franco, 776 - Reduto",
       "phone": "(91) 3345-3160 / 3223-4697",
       "latitude": -1.44634,
-      "longitude": -48.48973
+      "longitude": -48.48973,
+      "addressType": "Loja"
     },
     {
       "title": "Castanheira Shopping Center",
       "address": "2º Piso - Loja 310 | Rod. BR 316, Km 1, s/nº - Castanheira",
       "phone": "(91) 3250-4207",
       "latitude": -1.41186,
-      "longitude": -48.47007
+      "longitude": -48.47007,
+      "addressType": "Loja"
     },
     {
       "title": "Parque Shopping",
       "address": "Loja 1022 | Rod. Augusto Montenegro, Km 4, 4300 - Parque Verde",
       "phone": "(91) 3232-1161",
       "latitude": -1.40232,
-      "longitude": -48.44481
+      "longitude": -48.44481,
+      "addressType": "Loja"
     },
     {
       "title": "Shopping Pátio Belém - Quiosque",
       "address": "3º Piso | Tv. Padre Eutíquio, 1078 - Batista Campos",
       "phone": "(91) 8723-3070",
       "latitude": -1.45806,
-      "longitude": -48.49539
+      "longitude": -48.49539,
+      "addressType": "Loja"
     },
     {
       "title": "Shopping Grão Pará",
       "address": "2º Piso - Loja 1084 |Rod. Trabalhadores, S/N - Parque Verde",
       "phone": "(91) 3231-8646",
       "latitude": -1.34757,
-      "longitude": -48.471091 
+      "longitude": -48.471091 ,
+      "addressType": "Loja"
     },
     {
       "title": "Shopping Pátio Marabá",
       "address": "Quiosque 38 | ARE Folha 30 – Qd 15 – LT 10, s/nº - nova Marabá",
       "phone": "",
       "latitude": -5.38114,
-      "longitude": -49.1331
+      "longitude": -49.1331,
+      "addressType": "Loja"
     },
     {
       "title": "Rio Tapajós Shopping",
       "address": "Quiosque 020 |Av. Engenheiro Fernando Guilhon, Km 03, S/N - Santarezinho",
       "phone": "(93) 9-9156-2230",
       "latitude": -2.44353,
-      "longitude": -54.74088 
+      "longitude": -54.74088 ,
+      "addressType": "Loja"
     },
     {
       "title": "Partage Shopping",
       "address": "1º Piso - Loja 80 | Av. Severino Bezerra Cabral, 1057 - Catole",
       "phone": "(83) 3337-7824",
       "latitude": -7.23471,
-      "longitude": -35.86890
+      "longitude": -35.86890,
+      "addressType": "Loja"
     },
     {
       "title": "Manaíra Shopping",
       "address": "1º Piso - Loja S-0439 | Av. Flávio Ribeiro Coutinho, 220 - Manaíra",
       "phone": "(83) 2106-6466",
       "latitude": -7.098,
-      "longitude": -34.84527
+      "longitude": -34.84527,
+      "addressType": "Loja"
     },
     {
       "title": "Mangabeira Shopping",
       "address": "Piso Térreo - Loja P1 - 156 | Av. Hilton Souto Maior, 3901 - Mangabeira",
       "phone": "(83) 3565-8288",
       "latitude": -7.16242,
-      "longitude": -34.8304
+      "longitude": -34.8304,
+      "addressType": "Loja"
     },
     {
       "title": "Shopping Tambiá",
       "address": "2º Piso - Loja 125 |Av. Deputado Odon Bezerra, 184 - Tambiá",
       "phone": "(83) 3221-4426",
       "latitude": -7.11596,
-      "longitude": -34.88000 
+      "longitude": -34.88000 ,
+      "addressType": "Loja"
     },
     {
       "title": "Guedes Shopping",
       "address": "2º Piso - Loja 12 | Rua Pedro Firmino, 470 - Centro",
       "phone": "(83) 3423-0615",
       "latitude": -7.02844,
-      "longitude": -37.28139
+      "longitude": -37.28139,
+      "addressType": "Loja"
     },
     {
       "title": "Cascavel JL Shopping",
       "address": "Piso L2 - Loja 210 | Av. Toledo, 432 - Centro",
       "phone": "(45) 3039-3501",
       "latitude": -24.95019,
-      "longitude": -53.47729
+      "longitude": -53.47729,
+      "addressType": "Loja"
     },
     {
       "title": "Shopping Curitiba",
       "address": "Piso L2 - Loja 215 | R. Brigadeiro Franco, 2300 - Batel",
       "phone": "(41) 3077-8593",
       "latitude": -25.44098,
-      "longitude": -49.27739
+      "longitude": -49.27739,
+      "addressType": "Loja"
     },
     {
       "title": "Catuaí Shopping Londrina",
       "address": "Loja E52 | Rua Edwy Taques de Araujo, 600 - Jd. Burle Marx",
       "phone": "(43) 3336-7600",
       "latitude": -23.30445,
-      "longitude": -51.16958
+      "longitude": -51.16958,
+      "addressType": "Loja"
     },
     {
       "title": "Catuaí Shopping Maringá",
       "address": "Loja 19 | Av. Colombo, 9161 - parque Industrial Bandeirantes",
       "phone": "(44) 3224-8600",
       "latitude": -23.42017,
-      "longitude": -51.96955
+      "longitude": -51.96955,
+      "addressType": "Loja"
     },
     {
       "title": "Shopping Difusora",
       "address": "1º Piso - Loja 95 | Av. Agamenon Magalhães, 444 - Maurício de Nassau",
       "phone": "(81) 3721-0235",
       "latitude": -8.2778,
-      "longitude": -35.97159
+      "longitude": -35.97159,
+      "addressType": "Loja"
     },
     {
       "title": "Caruaru Shopping",
       "address": "Loja 57A |Av. Adjar da Silva Case, 800 - Indianópolis",
       "phone": "(81) 2104-1611",
       "latitude": -8.29522,
-      "longitude": -35.95195 
+      "longitude": -35.95195 ,
+      "addressType": "Loja"
     },
     {
       "title": "Shopping Guararapes",
       "address": "Loja 165 | Av. Barreto de Menezes, 800 - Piedade",
       "phone": "(81) 3305-7304",
       "latitude": -8.16776,
-      "longitude": -34.91904
+      "longitude": -34.91904,
+      "addressType": "Loja"
     },
     {
       "title": "River Shopping",
       "address": "Loja 19-B | Av. Monsenhor Angelo Sampaio, 100 - Centro",
       "phone": "(87) 3861-6453",
       "latitude": -9.39397,
-      "longitude": -40.4928
+      "longitude": -40.4928,
+      "addressType": "Loja"
     },
     {
       "title": "Plaza Shopping",
       "address": "2º Piso - Loja 159 | R. Dr. João Santos Filho, 255 - Casa Forte",
       "phone": "(81) 3268-3197",
       "latitude": -8.03697,
-      "longitude": -34.91267
+      "longitude": -34.91267,
+      "addressType": "Loja"
     },
     {
       "title": "Shopping Recife",
       "address": "Piso Térreo - Loja PC 64 | R. Padre Carapuceiro, 777 - Boa Viagem",
       "phone": "(81) 3326-5531",
       "latitude": -8.12007,
-      "longitude": -34.90504
+      "longitude": -34.90504,
+      "addressType": "Loja"
     },
     {
       "title": "Shopping Tacaruna",
       "address": "2º Piso - Loja 330 | Av. Gov. Agamenon Magalhães, 153 - Santo Amaro",
       "phone": "(81) 3221-0144",
       "latitude": -8.03795,
-      "longitude": -34.87152
+      "longitude": -34.87152,
+      "addressType": "Loja"
     },
     {
       "title": "Shopping Boa Vista",
       "address": "Loja 217 C | Av. Conde da Boa Vista, 610 - Boa Vista",
       "phone": "(81) 3125-2655",
       "latitude": -8.05904,
-      "longitude": -34.88657
+      "longitude": -34.88657,
+      "addressType": "Loja"
     },
     {
       "title": "Shopping RioMar",
       "address": "Loja 1151 | Av. República do Líbano, 251 - Pina",
       "phone": "(81) 3033-3266",
       "latitude": -8.08681,
-      "longitude": -34.89113
+      "longitude": -34.89113,
+      "addressType": "Loja"
     },
     {
       "title": "Santa Cruz do Capibaribe - Centro",
       "address": "Av. José Moraes da Silva, 49 - Centro",
       "phone": "(81) 3705-1990",
       "latitude": -7.95661,
-      "longitude": -36.20268
+      "longitude": -36.20268,
+      "addressType": "Loja"
     },
     {
       "title": "Teresina Shopping",
       "address": "Loja 142 | Av. Raul Lopes, 1000 - Dos Noivos",
       "phone": "(86) 3215-0447",
       "latitude": -5.08668,
-      "longitude": -42.78423
+      "longitude": -42.78423,
+      "addressType": "Loja"
     },
     {
       "title": "Teresina - Centro",
       "address": "Rua Simplício Mendes, 72 - Centro",
       "phone": "(86) 3221-6817",
       "latitude": -5.09269,
-      "longitude": -42.81456
+      "longitude": -42.81456,
+      "addressType": "Loja"
     },
     {
       "title": "Cabo Frio - Centro",
       "address": "Loja 1 | Av. Teixeira e Souza, 58 - Centro",
       "phone": "(22) 2643-8688",
       "latitude": -22.892,
-      "longitude": -42.03603
+      "longitude": -42.03603,
+      "addressType": "Loja"
     },
     {
       "title": "Boulevard Shopping Campos",
       "address": "Loja 109 E | Av. Dr. Sílvio Bastos Tavares, 330 - Parque dos Rodoviários",
       "phone": "(22) 2737-9050",
       "latitude": -21.75524,
-      "longitude": -41.34848
+      "longitude": -41.34848,
+      "addressType": "Loja"
     },
     {
       "title": "Centro Comercial Jorge Nunes",
       "address": "Loja 1 | Av. Cardoso Moreira, 431 - Centro",
       "phone": "(22) 3824-3868",
       "latitude": -21.20653,
-      "longitude": -41.88939
+      "longitude": -41.88939,
+      "addressType": "Loja"
     },
     {
       "title": "Macaé - Centro",
       "address": "Loja 2 | Av. Rui Barbosa, 660 - Centro",
       "phone": "(22) 2762-1617",
       "latitude": -22.37586,
-      "longitude": -41.77733
+      "longitude": -41.77733,
+      "addressType": "Loja"
     },
     {
       "title": "Shopping Icaraí",
       "address": "Loja 134 | R. Moreira Cesar, 229 - Icaraí",
       "phone": "(21) 2610-9066",
       "latitude": -22.90662,
-      "longitude": -43.1106
+      "longitude": -43.1106,
+      "addressType": "Loja"
     },
     {
       "title": "Plaza Shopping",
       "address": "3º Piso - Loja 369 | Rua XV de Novembro, 8 - Centro",
       "phone": "(21) 3628-1247 / 3628-1248",
       "latitude": -22.89694,
-      "longitude": -43.12387
+      "longitude": -43.12387,
+      "addressType": "Loja"
     },
     {
       "title": "Niterói Shopping",
       "address": "Quiosque 4 | Rua da Conceição, 188 - Centro",
       "phone": "(21) 3500-7253",
       "latitude": -22.89448,
-      "longitude": -43.11881
+      "longitude": -43.11881,
+      "addressType": "Loja"
     },
     {
       "title": "Resende Shopping",
       "address": "Loja 2 - Quiosque 6 | Av. Saturnino Braga, 369 - Centro",
       "phone": "(24) 3321-5780",
       "latitude": -22.46616,
-      "longitude": -44.45164
+      "longitude": -44.45164,
+      "addressType": "Loja"
     },
     {
       "title": "Rua México",
       "address": "Loja B | Rua México, 107 - Centro",
       "phone": "(21) 3199-1888",
       "latitude": -22.90746,
-      "longitude": -43.17583
+      "longitude": -43.17583,
+      "addressType": "Loja"
     },
     {
       "title": "Barra Shopping",
       "address": "Piso Lagoa - Loja 112D | Av. das Américas, 4666 - Barra da Tijuca",
       "phone": "(21) 3089-1392",
       "latitude": -22.99761,
-      "longitude": -43.35818
+      "longitude": -43.35818,
+      "addressType": "Loja"
     },
     {
       "title": "Botafogo Praia Shopping",
       "address": "1º Piso - Loja 116 | Praia de Botafogo, 400 - Botafogo",
       "phone": "(21) 2237-9158",
       "latitude": -22.94748,
-      "longitude": -43.18342
+      "longitude": -43.18342,
+      "addressType": "Loja"
     },
     {
       "title": "Boulevard Cidade Nova",
       "address": "Quiosque 8 | R. Neri Pinheiro, 267 - Cidade Nova",
       "phone": "(21) 2293-9472",
       "latitude": -22.91172,
-      "longitude": -43.20265
+      "longitude": -43.20265,
+      "addressType": "Loja"
     },
     {
       "title": "Copacabana",
       "address": "Loja F | R. Figueiredo Magalhães, 219 - Copacabana",
       "phone": "(21) 2549-2975",
       "latitude": -22.97019,
-      "longitude": -43.1862
+      "longitude": -43.1862,
+      "addressType": "Loja"
     },
     {
       "title": "Ilha Plaza Shopping",
       "address": "3º Piso - Loja 374C | Av. Maestro Paulo Silva, 400 - Ilha do Governador",
       "phone": "(21) 2463-1634",
       "latitude": -22.80173,
-      "longitude": -43.2019
+      "longitude": -43.2019,
+      "addressType": "Loja"
     },
     {
       "title": "Ipanema",
       "address": "Rua Vinícius de Moraes, 74B - Ipanema",
       "phone": "(21) 2513-3289",
       "latitude": -22.98468,
-      "longitude": -43.2028
+      "longitude": -43.2028,
+      "addressType": "Loja"
     },
     {
       "title": "Largo do Machado",
       "address": "Loja 4 |  Largo do Machado, 29 - Catete",
       "phone": "(21) 2205-1505",
       "latitude": -22.93146,
-      "longitude": -43.17871
+      "longitude": -43.17871,
+      "addressType": "Loja"
     },
     {
       "title": "Norte Shopping",
       "address": "2º Piso - Loja 3402 | Av. Dom Helder Câmara, 5332 - Cachambi",
       "phone": "(21) 2593-5788",
       "latitude": -22.88622,
-      "longitude": -43.28281
+      "longitude": -43.28281,
+      "addressType": "Loja"
     },
     {
       "title": "Shopping Nova América",
       "address": "2º Piso - Loja 202 | Av. Pastor Martin Luther King Jr., 126 - Del Castilho",
       "phone": "(21) 3083-1611",
       "latitude": -22.87799,
-      "longitude": -43.27194
+      "longitude": -43.27194,
+      "addressType": "Loja"
     },
     {
       "title": "Recreio Shopping",
       "address": "1º Piso - Loja 104E - Av. das Américas, 19019 - Recreio dos Bandeirantes",
       "phone": "(21) 2490-4139",
       "latitude": -23.0213,
-      "longitude": -43.48841
+      "longitude": -43.48841,
+      "addressType": "Loja"
     },
     {
       "title": "Shopping Rio Sul",
       "address": "3º Piso - Loja 301 C14i | Av. Lauro Müller, 116 - Botafogo",
       "phone": "(21) 2275-2743",
       "latitude": -22.95723,
-      "longitude": -43.17617
+      "longitude": -43.17617,
+      "addressType": "Loja"
     },
     {
       "title": "Shopping Tijuca",
       "address": "2º Piso - Loja 2092 | Av. Maracanã, 987 - Tijuca",
       "phone": "(21) 3176-0270",
       "latitude": -22.92197,
-      "longitude": -43.23499
+      "longitude": -43.23499,
+      "addressType": "Loja"
     },
     {
       "title": "Via Parque Shopping",
       "address": "1º Piso - Loja 1102 | Av. Ayrton Senna, 3000 - Barra da Tijuca",
       "phone": "(21) 2421-8669",
       "latitude": -22.98269,
-      "longitude": -43.36294
+      "longitude": -43.36294,
+      "addressType": "Loja"
     },
     {
       "title": "Américas Shopping",
       "address": "Loja 134 | Av. das Américas, 15500 - Recreio dos Bandeirantes",
       "phone": "(21) 2442–9639",
       "latitude": -23.01257,
-      "longitude": -43.46168
+      "longitude": -43.46168,
+      "addressType": "Loja"
     },
     {
       "title": "Parque Shopping Sulacap",
       "address": "Loja 221 | Av. Marechal Fontenelle, 3455 - Jardim Sulacap",
       "phone": "(21) 3500-8600",
       "latitude": -22.88483,
-      "longitude": -43.40377
+      "longitude": -43.40377,
+      "addressType": "Loja"
     },
     {
       "title": "Carioca Shopping",
       "address": "1º Piso, Loja 120 |Av. Vicente de Carvalho, 909 - Vila da Penha",
       "phone": "(21) 3688-2584",
       "latitude": -22.85037,
-      "longitude": -43.30906
+      "longitude": -43.30906,
+      "addressType": "Loja"
     },
     {
       "title": "Shopping Grande Rio",
       "address": "Loja 439 | Estr. Municipal São João de Meriti, 111 - Centro",
       "phone": "(21) 2117-2417",
       "latitude": -22.80343,
-      "longitude": -43.36762
+      "longitude": -43.36762,
+      "addressType": "Loja"
     },
     {
       "title": "Galeria Teresópolis",
       "address": "Loja 11 | R. Francisco Sá, 185 - Várzea",
       "phone": "(21) 2742-2978",
       "latitude": -22.41088,
-      "longitude": -42.96767
+      "longitude": -42.96767,
+      "addressType": "Loja"
     },
     {
       "title": "Shopping Americo Silva",
       "address": "Loja 26 A | R. Barão do Rio Branco, 303 - Centro",
       "phone": "(24) 2251-1187",
       "latitude": -22.11563,
-      "longitude": -43.21009
+      "longitude": -43.21009,
+      "addressType": "Loja"
     },
     {
       "title": "Volta Redonda",
       "address": "Rua 25, 169 - Vila Santa Cecília",
       "phone": "(24) 3348-2211",
       "latitude": -22.54631,
-      "longitude": -44.07118
+      "longitude": -44.07118,
+      "addressType": "Loja"
     },
     {
       "title": "Partage Shopping Mossoró",
       "address": "Loja 72 | Av. Joao da Escossia, 1515 - Doze Anos",
       "phone": "(84) 3314-0390",
       "latitude": -5.17215,
-      "longitude": -37.37681
+      "longitude": -37.37681,
+      "addressType": "Loja"
     },
     {
       "title": "Midway Mall",
       "address": "Piso L1 - Loja 130A | Av. Bernardo Vieira, 3775 - Tirol",
       "phone": "(84) 3222-2117",
       "latitude": -5.81129,
-      "longitude": -35.20623
+      "longitude": -35.20623,
+      "addressType": "Loja"
     },
     {
       "title": "Natal Shopping",
       "address": "Loja 375 | Av. Senador Salgado Filho, 2234 - Candelaria",
       "phone": "(84) 3025-9965",
       "latitude": -5.84214,
-      "longitude": -35.21171
+      "longitude": -35.21171,
+      "addressType": "Loja"
     },
     {
       "title": "Pau dos Ferros",
       "address": "Rua Maria Fernandes de Aquino, 49 - Centro",
       "phone": "(84) 3351-5684",
       "latitude": -6.11233,
-      "longitude": -38.2052
+      "longitude": -38.2052,
+      "addressType": "Loja"
     },
     {
       "title": "Ji-Paraná",
       "address": "Av. Brasil, 654 - Nova Brasília",
       "phone": "(69) 3423-2485",
       "latitude": -10.88780,
-      "longitude": -61.92437 
+      "longitude": -61.92437 ,
+      "addressType": "Loja"
     },
     {
       "title": "Shopping da Praça",
       "address": "Loja 4 A | Rua Morom, 1559 - Centro",
       "phone": "(54) 3601-5157",
       "latitude": -28.26182,
-      "longitude": -52.4065
+      "longitude": -52.4065,
+      "addressType": "Loja"
     },
     {
       "title": "Shopping Pelotas",
       "address": "Quiosque 20 | Av. Ferreira Viana, 1526 - Areal",
       "phone": "(53) 9105-5252",
       "latitude": -31.76135,
-      "longitude": -52.31817
+      "longitude": -52.31817,
+      "addressType": "Loja"
     },
     {
       "title": "Barra Shopping Sul",
       "address": "Piso Guaíba - Loja 2090 | Av. Diário de Notícias, 300 - Cristal",
       "phone": "(51) 3267-1520",
       "latitude": -30.08449,
-      "longitude": -51.2453
+      "longitude": -51.2453,
+      "addressType": "Loja"
     },
     {
       "title": "Bourbon Shopping Ipiranga",
       "address": "2º Piso - Loja 211 | Av. Ipiranga, 5200 - Azenha",
       "phone": "(51) 3352-2198",
       "latitude": -30.05514,
-      "longitude": -51.18692
+      "longitude": -51.18692,
+      "addressType": "Loja"
     },
     {
       "title": "Shopping Iguatemi",
       "address": "2º Piso - Loja 2244 | Av. João Wallig, 1800 - Passo D'Areia",
       "phone": "(51) 3273-1294",
       "latitude": -30.02767,
-      "longitude": -51.16327
+      "longitude": -51.16327,
+      "addressType": "Loja"
     },
     {
       "title": "Bourbon Shopping Wallig",
       "address": "Loja 257 | Av. Assis Brasil, 2611 - Cristo Redentor",
       "phone": "(51) 3329-6316",
       "latitude": -30.01196,
-      "longitude": -51.16079
+      "longitude": -51.16079,
+      "addressType": "Loja"
     },
     {
       "title": "Shopping Rio Grande",
       "address": "Loja 56 | Rua Jockey Clube, 155 - São Miguel",
       "phone": "(53) 3036-2141",
       "latitude": -32.05192,
-      "longitude": -52.14872
+      "longitude": -52.14872,
+      "addressType": "Loja"
     },
     {
       "title": "Santa Maria",
       "address": "Loja 2 | Rua Enersto Marques da Rocha, 10 - Centro",
       "phone": "(55) 3317-3117",
       "latitude": -29.68765,
-      "longitude": -53.81214
+      "longitude": -53.81214,
+      "addressType": "Loja"
     },
     {
       "title": "Porto Velho Shopping",
       "address": "Piso Térreo - Loja 105 | Av. Rio Madeira, 3288 - Floroaldo Pontes Pinto",
       "phone": "(69) 3218-8070",
       "latitude": -8.74814,
-      "longitude": -63.87577
+      "longitude": -63.87577,
+      "addressType": "Loja"
     },
     {
       "title": "Shopping Neumarkt",
       "address": "Loja 93 | R. Sete de Setembro, 1213 - Centro",
       "phone": "(47) 3324-0089",
       "latitude": -26.92064,
-      "longitude": -49.06991
+      "longitude": -49.06991,
+      "addressType": "Loja"
     },
     {
       "title": "Floripa Shopping",
       "address": "2º Piso - Loja 270 | Rod. Virgílio Várzea, 587 - Saco Grande",
       "phone": "(48) 3338-2412",
       "latitude": -27.55361,
-      "longitude": -48.49889
+      "longitude": -48.49889,
+      "addressType": "Loja"
     },
     {
       "title": "Itapema",
       "address": "Avenida Nereu Ramos, 3285 - Meia Praia",
       "phone": "(47) 3366-5916",
       "latitude": -27.12677,
-      "longitude": -48.60283
+      "longitude": -48.60283,
+      "addressType": "Loja"
     },
     {
       "title": "Shopping Jardins",
       "address": "Loja E-36 | Av. Min. Geraldo B. Sobral, 215 - Jardins",
       "phone": "(79) 3231-9700",
       "latitude": -10.94323,
-      "longitude": -37.06072
+      "longitude": -37.06072,
+      "addressType": "Loja"
     },
     {
       "title": "Araguaina - Centro",
       "address": "Sala 1 | R. das Mangueiras, 1232 -Centro",
       "phone": "(63) 3411-6329",
       "latitude": -7.18772,
-      "longitude": -48.20763
+      "longitude": -48.20763,
+      "addressType": "Loja"
     },
     {
       "title": "Capim Dourado Shopping",
       "address": "Piso Térreo - LUC 65 | Q Av 107 Norte Av. Juscelino Kubitschek, s/n - Plano Diretor Norte",
       "phone": "(63) 3215-2221",
       "latitude": -10.18324,
-      "longitude": -48.33717
+      "longitude": -48.33717,
+      "addressType": "Loja"
     },
     {
       "title": "Araras - Centro",
       "address": "R. Tiradentes, 270 - Centro",
       "phone": "(19) 3351-4003",
       "latitude": -22.35521,
-      "longitude": -47.38287
+      "longitude": -47.38287,
+      "addressType": "Loja"
     },
     {
       "title": "Artur Nogueira",
       "address": "Av. Dr. Fernando Arens, 267 - Centro",
       "phone": "(19) 3877-1770",
       "latitude": -22.5747,
-      "longitude": -47.17037
+      "longitude": -47.17037,
+      "addressType": "Loja"
     },
     {
       "title": "Assis",
       "address": "R Floriano Peixoto, 392 - Centro",
       "phone": "(18) 3322-5416",
       "latitude": -22.66238,
-      "longitude": -50.41638
+      "longitude": -50.41638,
+      "addressType": "Loja"
     },
     {
       "title": "Shopping Tamboré",
       "address": "Piso Térreo - Loja 84 | Av. Piracema, 669 - Tamboré",
       "phone": "(11) 2166-9798",
       "latitude": -23.5043,
-      "longitude": -46.8325
+      "longitude": -46.8325,
+      "addressType": "Loja"
     },
     {
       "title": "Bauru - Centro",
       "address": "R. Batista de Carvalho, 7 - 29 - Centro",
       "phone": " (14) 3202-8067",
       "latitude": -22.32063,
-      "longitude": -49.06462
+      "longitude": -49.06462,
+      "addressType": "Loja"
     },
     {
       "title": "Bauru Shopping",
       "address": "Loja 5 - R. Henrique Savi, 15-55 - Jardim Infante Dom Henrique",
       "phone": "(14) 3206-9425",
       "latitude": -22.34281,
-      "longitude": -49.04972
+      "longitude": -49.04972,
+      "addressType": "Loja"
     },
     {
       "title": "Shopping das Nações",
       "address": "2º Piso - Loja 256 |  Rua General Marcondes Salgado, 11-39 - Chácara das Flores",
       "phone": "(14) 3212-5247",
       "latitude": -22.31446,
-      "longitude": -49.0587
+      "longitude": -49.0587,
+      "addressType": "Loja"
     },
     {
       "title": "Campinas Shopping",
       "address": "Piso Intermediário - Loja 213 | R. Jacy Teixeira de Carmargo, 940 - Jardim do Lago",
       "phone": "(19) 3229-4189",
       "latitude": -22.93247,
-      "longitude": -47.07803
+      "longitude": -47.07803,
+      "addressType": "Loja"
     },
     {
       "title": "Parque Dom Pedro Shopping",
       "address": "Loja 426 | Av. Guilherme Campos, 500 - Jardim Santa Genebra",
       "phone": "(19) 3756-7436",
       "latitude": -22.84793,
-      "longitude": -47.06328
+      "longitude": -47.06328,
+      "addressType": "Loja"
     },
     {
       "title": "Itapetininga - Centro",
       "address": "Rua Silva Jardim, 604 -  Centro",
       "phone": "(15) 3537-6061",
       "latitude": -23.58821,
-      "longitude": -48.0495
+      "longitude": -48.0495,
+      "addressType": "Loja"
     },
     {
       "title": "Itatiba - Centro",
       "address": "Rua Rangel Pestana, 197 - Centro",
       "phone": "(11) 4538-4523",
       "latitude": -23.00518,
-      "longitude": -46.8416
+      "longitude": -46.8416,
+      "addressType": "Loja"
     },
     {
       "title": "Pátio Limeira Shopping",
       "address": "Piso Térreo - Loja 216 |  R. Carlos Gomes, 1321 - Centro",
       "phone": "(19) 3442-3964",
       "latitude": -22.57095,
-      "longitude": -47.40797
+      "longitude": -47.40797,
+      "addressType": "Loja"
     },
     {
       "title": "Lençóis Paulista - Centro",
       "address": "Rua Coronel Joaquim Anselmo Martins, 696 - Centro",
       "phone": "(11) 3263-1108",
       "latitude": -22.59779,
-      "longitude": -48.79774 
+      "longitude": -48.79774 ,
+      "addressType": "Loja"
     },
     {
       "title": "Marília Shopping",
       "address": "Piso Térreo - Loja 20 | R. Tucunarés, 500 - Jardim Maria Martha",
       "phone": "(14) 3301-9895",
       "latitude": -22.18629,
-      "longitude": -49.96701
+      "longitude": -49.96701,
+      "addressType": "Loja"
     },
     {
       "title": "Shopping União de Osasco",
       "address": "Piso Voegeli - Loja 194 | Av. dos Autonomistas, 1400 - Vila Yara",
       "phone": "(11) 3184-4330",
       "latitude": -23.53901,
-      "longitude": -46.76545
+      "longitude": -46.76545,
+      "addressType": "Loja"
     },
     {
       "title": "Piracicaba Shopping",
       "address": "Piso Térreo - Loja 143 | Av. Limeira 722 - Vila Resende",
       "phone": "(19) 3412-5466",
       "latitude": -22.70401,
-      "longitude": -47.64976
+      "longitude": -47.64976,
+      "addressType": "Loja"
     },
     {
       "title": "Grand Plaza Shopping",
       "address": "Loja 516 | Av. Industrial, 600 - Jardim",
       "phone": "(11) 2534-3716",
       "latitude": -23.64674,
-      "longitude": -46.53379
+      "longitude": -46.53379,
+      "addressType": "Loja"
     },
     {
       "title": "Praiamar Shopping",
       "address": "Piso Térreo - Loja 156 | R. Alexandre Martins, 80 - Aparecida",
       "phone": "(13) 3231-4385",
       "latitude": -23.97687,
-      "longitude": -46.31058
+      "longitude": -46.31058,
+      "addressType": "Loja"
     },
     {
       "title": "Shopping Metrópole",
       "address": "Loja N08 | Praça Samuel Sabatini, 200 - Centro",
       "phone": "(11) 4123-1221",
       "latitude": -23.6927,
-      "longitude": -46.55111
+      "longitude": -46.55111,
+      "addressType": "Loja"
     },
     {
       "title": "Park Shopping São Caetano",
       "address": "1º Piso - Loja 2037 | Al. Terracota, 545 - Santo Antonio",
       "phone": " (11) 4233-8533",
       "latitude": -23.61937,
-      "longitude": -46.57526
+      "longitude": -46.57526,
+      "addressType": "Loja"
     },
     {
       "title": "São José do Rio Preto - Centro",
       "address": "Rua General Glicério, 3045 - Centro",
       "phone": "(17) 3222-3890",
       "latitude": -20.81119,
-      "longitude": -49.3819
+      "longitude": -49.3819,
+      "addressType": "Loja"
     },
     {
       "title": "Shopping Center Vale",
       "address": "Piso Dutra - Loja S-607 | Av. Deputado Benedito Matarazzo, 9403 - Jardim Oswaldo Cruz",
       "phone": "(12) 3911-8628",
       "latitude": -23.20082,
-      "longitude": -45.88035
+      "longitude": -45.88035,
+      "addressType": "Loja"
     },
     {
       "title": "Shopping Brisamar",
       "address": "2º Piso - Loja 234 | Rua Frei Gaspar, 365 - Centro",
       "phone": "(13) 3467-9979",
       "latitude": -23.96761,
-      "longitude": -46.38394
+      "longitude": -46.38394,
+      "addressType": "Loja"
     },
     {
       "title": "Santana Parque Shopping",
       "address": "2 Piso - Loja 2012-B | R. Conselheiro Moreira de Barros, 2780 - Lauzane",
       "phone": "(11) 2208-2578",
       "latitude": -23.48311,
-      "longitude": -46.64524
+      "longitude": -46.64524,
+      "addressType": "Loja"
     },
     {
       "title": "Shopping Anália Franco",
       "address": "Piso Tulipa - Loja 92 | Av. Regente Feijó, 1739 - Água Rasa",
       "phone": "(11) 2076-0120",
       "latitude": -23.56151,
-      "longitude": -46.56044
+      "longitude": -46.56044,
+      "addressType": "Loja"
     },
     {
       "title": "Shopping Butantã",
       "address": "Piso G2 - Loja 213 | Av. Professor Francisco Morato, 2718 - Butantã",
       "phone": "(11) 3721-6981",
       "latitude": -23.58461,
-      "longitude": -46.72503
+      "longitude": -46.72503,
+      "addressType": "Loja"
     },
     {
       "title": "Shopping Center Norte",
       "address": "Loja 714 | Travessa Casalbuono, 120 - Vila Guilherme",
       "phone": "(11) 2089-0400",
       "latitude": -23.51546,
-      "longitude": -46.61789
+      "longitude": -46.61789,
+      "addressType": "Loja"
     },
     {
       "title": "Shopping Eldorado",
       "address": "Piso Térreo - Loja 138 | Av. Rebouças, 3970 - Pinheiros",
       "phone": "(11) 2197-6068",
       "latitude": -23.57257,
-      "longitude": -46.69573
+      "longitude": -46.69573,
+      "addressType": "Loja"
     },
     {
       "title": "Shopping Ibirapuera",
       "address": "Piso Moema - Loja 85 | Av. Ibirapuera, 3103 - Moema",
       "phone": "(11) 5533-4793",
       "latitude": -23.61547,
-      "longitude": -46.6621
+      "longitude": -46.6621,
+      "addressType": "Loja"
     },
     {
       "title": "Shopping Metrô Santa Cruz",
       "address": "Piso Passarela - Loja 12 | R. Domingos de Moraes, 2564 - VIla Mariana",
       "phone": "(11) 3471-8034",
       "latitude": -23.59908,
-      "longitude": -46.63719
+      "longitude": -46.63719,
+      "addressType": "Loja"
     },
     {
       "title": "Shopping Metrô Tatuapé",
       "address": "Piso Superior - Loja S27 | R. Domingos Agostim, 91 - Cidade Mãe do Céu",
       "phone": "(11) 2090-7482",
       "latitude": -23.5417,
-      "longitude": -46.57673
+      "longitude": -46.57673,
+      "addressType": "Loja"
     },
     {
       "title": "Shopping Boulevard Tatuapé",
       "address": "Box Área 47 | R. Ribeiro Lacerda, 940 - Bosque da Saúde",
       "phone": "",
       "latitude": -23.61793,
-      "longitude": -46.62676
+      "longitude": -46.62676,
+      "addressType": "Loja"
     },
     {
       "title": "Mooca",
       "address": "Rua da Mooca, 2509 - Mooca",
       "phone": "(11) 2292-1065",
       "latitude": -23.55537,
-      "longitude": -46.60077
+      "longitude": -46.60077,
+      "addressType": "Loja"
     },
     {
       "title": "Mooca Plaza Shopping",
       "address": "Piso L1 - Loja 1108 | R. Cap. Pacheco E Chaves, 313 - Vila Prudente",
       "phone": "(11) 2219-0513",
       "latitude": -23.57976,
-      "longitude": -46.59442
+      "longitude": -46.59442,
+      "addressType": "Loja"
     },
     {
       "title": "Shopping Plaza Sul",
       "address": "2º Piso - Loja 261 | Praça Leonor Kaupa - Bosque da Saúde",
       "phone": "(11) 5058-3863",
       "latitude": -23.6198,
-      "longitude": -46.62744
+      "longitude": -46.62744,
+      "addressType": "Loja"
     },
     {
       "title": "Shopping SP Market",
       "address": "Piso Térreo - Loja A 4-19 | Av. Nações Unidas, 22540 - Jurubatuba",
       "phone": "(11) 5541-2081",
       "latitude": -23.67802,
-      "longitude": -46.69801
+      "longitude": -46.69801,
+      "addressType": "Loja"
     },
     {
       "title": "Shopping West Plaza",
       "address": "Piso Térreo - Loja 1107 - Bl. A | Av. Antártica, 380 - Água Branca",
       "phone": "(11) 3803-8407",
       "latitude": -23.52692,
-      "longitude": -46.67465
+      "longitude": -46.67465,
+      "addressType": "Loja"
     },
     {
       "title": "Esplanada Shopping",
       "address": "Loja 228 | Av. Gisele Constantino, 1870 - Parque Morumbi",
       "phone": "(15) 3211-1928",
       "latitude": -23.54598,
-      "longitude": -47.46708
+      "longitude": -47.46708,
+      "addressType": "Loja"
     },
     {
       "title": "Taubaté - Centro",
       "address": "R. Duque de Caxias, 189 - Centro",
       "phone": "(12) 3631-1292",
       "latitude": -23.02394,
-      "longitude": -45.55314
+      "longitude": -45.55314,
+      "addressType": "Loja"
     },
     {
       "title": "Galeria Anfíbio",
       "address": "Box 02 | Av. Tamoios, 826 - Centro",
       "phone": "(14) 3722-1160",
       "latitude": -21.92948,
-      "longitude": -50.51363 
-    }
+      "longitude": -50.51363 ,
+      "addressType": "Loja"
+    },
+
+   
+
+ {"title":"RA JANE EYRE LEMPE AGUILAR MELOTE","address":"Avenida Brasil, Colatina - ES","phone":"2795201251","latitude":-19.5170395,"longitude":-40.6208737,"addressType":"Revendedor"},{"title":"RA GERMANO MARCOS DE OREQUIO","address":"RUA ÁTILA VIVACQUA, Presidente Kennedy - ES","phone":"2899455189","latitude":-21.1010673,"longitude":-41.045155,"addressType":"Revendedor"},{"title":"RA Salete Colassiol","address":"Dr Carlos Barbosa, Carlos Barbosa - RS","phone":"5434613192","latitude":-29.2973651,"longitude":-51.49932219999999,"addressType":"Revendedor"},{"title":"RA Anne Jaqueline Galvão De Carvalho","address":"Avenida Brasília, Resende - RJ","phone":"2433545486","latitude":-22.4739941,"longitude":-44.46467089999999,"addressType":"Revendedor"},{"title":"RA Debora Barefknecht","address":"Dr. Montauri, Flores da Cunha - RS","phone":"5432923405","latitude":-29.0304667,"longitude":-51.1913973,"addressType":"Revendedor"},{"title":"RA ANTONIA ANADY DOS SANTOS DE LIMA","address":"RUA PROFESSOR JOAQUIM ANTONIO, Fortaleza - CE","phone":"8586288744","latitude":-3.7238257,"longitude":-38.5649123,"addressType":"Revendedor"},{"title":"RA MARISA DE ANDRADE RIBEIRO","address":"Rua Darke de Matos, Rio de Janeiro - RJ","phone":"2138889261","latitude":-22.8732876,"longitude":-43.2636116,"addressType":"Revendedor"},{"title":"RA IONE MAGDA SILVERIO DE SOUSA","address":"Avenida das Castanholeiras, Fortaleza - CE","phone":"#null","latitude":-3.7542097,"longitude":-38.4689226,"addressType":"Revendedor"},{"title":"RA Danuza Vendramin Comunello","address":"Rua Felix Engel, Nova Prata - RS","phone":"5499249729","latitude":-28.7825295,"longitude":-51.60939,"addressType":"Revendedor"},{"title":"RA DELVANA FIORI RODRIGUES FIUZA","address":"RUA ASTROGILDO ROMÃO DOS ANJOS, Barra de São Francisco - ES","phone":"2797462228","latitude":-18.7553213,"longitude":-40.8968398,"addressType":"Revendedor"},{"title":"RA Nadiane Marcolan Michielin","address":"Rua Arminio da Silva, Sarandi - RS","phone":"5499170108","latitude":-27.9422995,"longitude":-52.9219,"addressType":"Revendedor"},{"title":"RA Juliane Raquel Steffler","address":"Avenida 10 de novembro, Travesseiro - RS","phone":"5199940816","latitude":-29.3194903,"longitude":-52.0646061,"addressType":"Revendedor"},{"title":"RA Jucinez Fornari da Silva","address":"Ernesto Lorenzetti, Concórdia - SC","phone":"4934421573","latitude":-27.2220257,"longitude":-52.0087918,"addressType":"Revendedor"},{"title":"RA LUCIANA BRAVOS SANTARELLI BELOT","address":"MADRE ELIDI PARZIANELI, Marília - SP","phone":"1496479664","latitude":-22.2175846,"longitude":-49.9505291,"addressType":"Revendedor"},{"title":"RA TALITA CRISTINA DA SILVA LUIZ","address":"PRUDENTE DE MORAES, Marília - SP","phone":"1433061325","latitude":-22.2189048,"longitude":-49.9555546,"addressType":"Revendedor"},{"title":"RA VERA LUCIA DE SOUZA","address":"Rua Milton Forin, Marília - SP","phone":"1434131574","latitude":-22.2175846,"longitude":-49.9505291,"addressType":"Revendedor"},{"title":"RA NADIA CAPELACE","address":"Avenida Costa Machado, Praia Grande - SP","phone":"1333029591","latitude":-24.0120969,"longitude":-46.3979401,"addressType":"Revendedor"},{"title":"RA CAIO EDUARDO GOMES","address":"Rua Olga Coli, Praia Grande - SP","phone":"1334815803","latitude":-24.0080321,"longitude":-46.4414656,"addressType":"Revendedor"},{"title":"RA ANA PAULA OLIVEIRA PRATES","address":"Avenida Marechal Floriano Peixoto, Santos - SP","phone":"1332894774","latitude":-23.966771,"longitude":-46.3396494,"addressType":"Revendedor"},{"title":"RA ELIANA PRATES COSTA NOVO","address":"Rua Antônio Conceição Filho, São Vicente - SP","phone":"1334063224","latitude":-23.9484906,"longitude":-46.4562283,"addressType":"Revendedor"},{"title":"RA Maria da Graça Costa da Silva","address":"Leoberto Led, Passo Fundo - RS","phone":"5433133808","latitude":-28.2580547,"longitude":-52.4096248,"addressType":"Revendedor"},{"title":"Ra Suzana Cristina Ferrão","address":"Rua Camilo Ribeiro, Passo Fundo - RS","phone":"5496098779","latitude":-28.2714973,"longitude":-52.3778613,"addressType":"Revendedor"},{"title":"RA MARIA ELVENIA NIEWINSKI","address":"Avenida do Comercio, Santo Augusto - RS","phone":"5537811256","latitude":-27.8571021,"longitude":-53.7791194,"addressType":"Revendedor"},{"title":"RA ANA PAULA VALIM","address":"RUA JOSÉ BONIFACIO, São Vicente - SP","phone":"1388162328","latitude":-23.9685904,"longitude":-46.3853752,"addressType":"Revendedor"},{"title":"RA ARIELE TALITA MACIEL","address":"Rua São Lourenço, Bragança Paulista - SP","phone":"1171766728","latitude":-22.9573781,"longitude":-46.53265409999999,"addressType":"Revendedor"},{"title":"RA ANA CLAUDIA BENINI SIQUEIRA","address":"Sítio tropical cx postal 133, Holambra - SP","phone":"1999782250","latitude":-22.6409997,"longitude":-47.0491411,"addressType":"Revendedor"},{"title":"RA DAIANE FERNANDA MARASSAPO","address":"ALAMEDA CAETANO E ZAIRA, Itatiba - SP","phone":"1198340612","latitude":-23.0000126,"longitude":-46.8204745,"addressType":"Revendedor"},{"title":"RA MARIA MADALENA FERREIRA DE LIMA","address":"Avenida Japão, Itatiba - SP","phone":"1144877786","latitude":-23.0063878,"longitude":-46.8686187,"addressType":"Revendedor"},{"title":"RA GLAUCIA HELENA BIZO","address":"RUA PALMYRA POLESSI SESTE, Itatiba - SP","phone":"1198536050","latitude":-23.0182141,"longitude":-46.8156363,"addressType":"Revendedor"},{"title":"RA CARLINA SANTOS","address":"Rua Antônio Gallo, Itatiba - SP","phone":"1145345887","latitude":-23.011161,"longitude":-46.8459565,"addressType":"Revendedor"},{"title":"RA LILIAN GOMES DE OLIVEIRA","address":"Rua Armando Salles de Oliveira, Itatiba - SP","phone":"1172565761","latitude":-23.0021609,"longitude":-46.8378911,"addressType":"Revendedor"},{"title":"RA VIVIANE CRISTINA MENDES DE SOUZA","address":"Rua Benedito Ubinha, Itatiba - SP","phone":"1198768823","latitude":-23.008608,"longitude":-46.8125341,"addressType":"Revendedor"},{"title":"RA EDNA APARECIDA TORSO","address":"Rua João Vicino, Itatiba - SP","phone":"1145243806","latitude":-23.0035799,"longitude":-46.824777,"addressType":"Revendedor"},{"title":"RA TANIA DE FATIMA FUZEL GERALDI","address":"Rua Pelegrino Sabatini Neto, Itatiba - SP","phone":"1173178810","latitude":-23.0039859,"longitude":-46.8467996,"addressType":"Revendedor"},{"title":"RA MARIA CICERA DE SOUZA","address":"Rua Tacílio Ama, Itatiba - SP","phone":"1174185606","latitude":-23.0084607,"longitude":-46.8259704,"addressType":"Revendedor"},{"title":"RA MARIA DE FATIMA ARANTES AUTRAN","address":"Rua Messina, Jundiaí - SP","phone":"1133783157","latitude":-23.2032853,"longitude":-46.88921329999999,"addressType":"Revendedor"},{"title":"RA DORACI FERRETTI","address":"Rua Reynaldo Porcari, Jundiaí - SP","phone":"1198054886","latitude":-23.1789921,"longitude":-46.9972299,"addressType":"Revendedor"},{"title":"RA NEUZA APARECIDA DE GODOY","address":"rua valentim gesuato, Morungaba - SP","phone":"1199773234","latitude":-22.8833037,"longitude":-46.7964268,"addressType":"Revendedor"},{"title":"RA ROSINEIDE MARIA DOS SANTOS SILVA","address":"CJ TARCISIO DE HOLANDA, Maceió - AL","phone":"8233751265","latitude":-9.6498487,"longitude":-35.7089492,"addressType":"Revendedor"},{"title":"RA MARILEIDE DA SILVA","address":"COND. RESID. RECANTO DOS CONTOS, RUA B, Maceió - AL","phone":"8291012238","latitude":-9.6498487,"longitude":-35.7089492,"addressType":"Revendedor"},{"title":"RA PATRICIA DE MELO SARAIVA","address":"TRAV BOA ESPERANCA, Maceió - AL","phone":"8233177309","latitude":-9.6669565,"longitude":-35.7558317,"addressType":"Revendedor"},{"title":"RA RAIMUNDO FERNANDES DA SILVA","address":"Rua Aracaju, Paulo Afonso - BA","phone":"7599683032","latitude":-9.402638300000001,"longitude":-38.2092314,"addressType":"Revendedor"},{"title":"RA DIVINA APARECIDA FERREIRA SILVA","address":"AVENIDA JACINTA MARTO, Angical - BA","phone":"7799425697","latitude":-12.0067465,"longitude":-44.7006753,"addressType":"Revendedor"},{"title":"RA JULIETTE  DOS PASSOS PINTO MOURA","address":"AVENIDA ANTONIO CARLOS MAGALHAES, Baianópolis - BA","phone":"7799644745","latitude":-12.3045562,"longitude":-44.5373392,"addressType":"Revendedor"},{"title":"RA ELISANGELA FONSECA SCHIMITT","address":"MORADA NOBRE, Barreiras - BA","phone":"77999164261","latitude":-12.1461035,"longitude":-45.010291,"addressType":"Revendedor"},{"title":"RA JULIETE RODRIGUES DA SILVA","address":"RUA 2 DEJULHO, Barreiras - BA","phone":"7791045378","latitude":-12.1420407,"longitude":-44.98971479999999,"addressType":"Revendedor"},{"title":"RA DEIVACIR DA SILVA BATISTA","address":"RUA DR° ABILIO FARIA, Barreiras - BA","phone":"77991359632","latitude":-12.1494544,"longitude":-44.99774290000001,"addressType":"Revendedor"},{"title":"RA  TAYRINE DE SOUZA ORMOND","address":"RUA ESTRELA DALVA, Barreiras - BA","phone":"7799186063","latitude":-12.1315902,"longitude":-44.9683565,"addressType":"Revendedor"},{"title":"RA ADRIANA GOMES RODRIGUES","address":"RUA J, Barreiras - BA","phone":"77999765610","latitude":-12.1601093,"longitude":-44.9976368,"addressType":"Revendedor"},{"title":"RA MONALIZA ARAUJO DA SILVA","address":"RUA JK N° 487C BANDEIRANTES, Barreiras - BA","phone":"75992316068","latitude":-12.1477483,"longitude":-44.9953475,"addressType":"Revendedor"},{"title":"RA ROSANGÊLA PAULO DE MELO","address":"RUA PARAIBA N°1412, Barreiras - BA","phone":"77998501876","latitude":-12.1402809,"longitude":-45.0108727,"addressType":"Revendedor"},{"title":"RA DEiVACIR DA SILVA BATISTA","address":"RUA PRINCESA LEOPOLDINA, Barreiras - BA","phone":"7736114699","latitude":-12.1529228,"longitude":-44.9893754,"addressType":"Revendedor"},{"title":"RA LUCIANA FERREIRA  SOARES","address":"RUA SR DOS AFLITOS, Barreiras - BA","phone":"77","latitude":-12.1383948,"longitude":-45.0084571,"addressType":"Revendedor"},{"title":"RA  JOCASTRA RODRIGUES CALVACANTE","address":"rua belo horizonte, Barreiras - BA","phone":"7781291709","latitude":-12.138079,"longitude":-44.9797383,"addressType":"Revendedor"},{"title":"RA ANA  MARIA RIBEIRO DOS SANTOS","address":"RUA ANTONIO CARLOS MAGALHAES, Paratinga - BA","phone":"77999848100","latitude":-12.6866186,"longitude":-43.1794671,"addressType":"Revendedor"},{"title":"RA ARLENE SOARES DE SOUZA LUCIO","address":"RUA B, Salvador - BA","phone":"7799771388","latitude":-12.8480347,"longitude":-38.4489897,"addressType":"Revendedor"},{"title":"RA LUDMILLA SANTOS QUEIROZ","address":"RUA LIBANO, Salvador - BA","phone":"7781057561","latitude":-13.0058636,"longitude":-38.4810936,"addressType":"Revendedor"},{"title":"RA ANA CRISTINA ALVES DA SILVA","address":"AVENIDA GOIAS, São Desidério - BA","phone":"7799389135","latitude":-12.3652034,"longitude":-44.977027,"addressType":"Revendedor"},{"title":"RA NEURA BARBOSA DE SANTANA","address":"RUA DAS MANGUEIRAS, São Desidério - BA","phone":"7799536855","latitude":-12.3630689,"longitude":-44.9769489,"addressType":"Revendedor"},{"title":"RA IVANILDE DO CARMO ABREU DOS SANTOS","address":"RUA JAILDA BARBOSA OLIVEIRA, São Desidério - BA","phone":"7799245695","latitude":-12.3576313,"longitude":-44.9772871,"addressType":"Revendedor"},{"title":"RA CRISTINA CARDOSO","address":"RUA L CASA, Vitória da Conquista - BA","phone":"7791210215","latitude":-14.8975233,"longitude":-40.8383263,"addressType":"Revendedor"},{"title":"RA SUZANE SANTOS DOS ANJOS","address":"RUA FRANÇALISA RODRIGUES LOPES, Wanderley - BA","phone":"99511142","latitude":-12.1148104,"longitude":-43.8961839,"addressType":"Revendedor"},{"title":"RA MARIA DA ASSUNÇÃO DA ROCHA LEÃO(2)","address":"CONJUNTO GRACILIANO RAMOS, Maceió - AL","phone":"8296614848","latitude":-9.6498487,"longitude":-35.7089492,"addressType":"Revendedor"},{"title":"RA MARILENE SOUZA SANTOS(62)","address":"RUA PHOC DE ABRANTES QUADRA K, Abrantes - BA","phone":"71982414102","latitude":-12.8262315,"longitude":-38.2653566,"addressType":"Revendedor"},{"title":"RA BARBARA LIMA FULCO SILVA BASTOS(06)","address":"CONJ SNOCOOP II RUA QUATRO, Alagoinhas - BA","phone":"75998006782","latitude":-12.1372076,"longitude":-38.4076616,"addressType":"Revendedor"},{"title":"RA EROEMIA GOMES RABELO(6)","address":"IV TRAVESSA SEVERINO VIEIRA, Alagoinhas - BA","phone":"75999972902","latitude":-12.1476139,"longitude":-38.4165612,"addressType":"Revendedor"},{"title":"RA MARIANI SOUZA DA COSTA(2)","address":"RUA CONSELHEIRO DANTAS, Alagoinhas - BA","phone":"75998178282","latitude":-12.126524,"longitude":-38.4109439,"addressType":"Revendedor"},{"title":"RA CLIVIA PATRICIA DA SILVA BITENCOUT(3)","address":"RUA CONSELHEIRO MOURA, Alagoinhas - BA","phone":"75999903441","latitude":-12.1373692,"longitude":-38.4215937,"addressType":"Revendedor"},{"title":"RA CARLA SANTANA SILVA(11)","address":"RUA DA GLORIA, Andaraí - BA","phone":"75988857497","latitude":-12.8092213,"longitude":-41.3316745,"addressType":"Revendedor"},{"title":"RA JANELICE MENDES ALMEIDA E ALMEIDA(11)","address":"RUA AILZA MACEDO DOS SANTOS, Boa Vista do Tupim - BA","phone":"75988487546","latitude":-12.6623005,"longitude":-40.60260299999999,"addressType":"Revendedor"},{"title":"RA VILMA PINTO DE CARVALHO  (02)","address":"RUA BARAO DE CAITITE, Caetité - BA","phone":"77999561609","latitude":-14.0697667,"longitude":-42.4880009,"addressType":"Revendedor"},{"title":"RA EULALIA MOREIRA DA SILVA(02)","address":"RUA ORLANDO ALVES DA SILVA, Caetité - BA","phone":"77999998973","latitude":-14.0698291,"longitude":-42.4806464,"addressType":"Revendedor"},{"title":"RA ROSINEIDE DOS SANTOS PEREIRA(5)","address":"2ª TRAVESSA DA RODAGEM, Camaçari - BA","phone":"7187978766","latitude":-12.8322937,"longitude":-38.2663848,"addressType":"Revendedor"},{"title":"RA JESANA BRITO DE MEIRA(61)","address":"ESTRADA DO COCO, Camaçari - BA","phone":"71991812716","latitude":-12.8619572,"longitude":-38.2899407,"addressType":"Revendedor"},{"title":"RA MARIA DE FATIMA FERREIRA ALVES","address":"ESTRADA DO COCO COND VILAS DO JOANES, Camaçari - BA","phone":"71991916191","latitude":-12.6971776,"longitude":-38.3331983,"addressType":"Revendedor"},{"title":"RA LUISA MARES NASCIMENTO VIANA(61)","address":"ESTRADA DO COCO COND VILAS JOANES, Camaçari - BA","phone":"71993650477","latitude":-12.6971776,"longitude":-38.3331983,"addressType":"Revendedor"},{"title":"RA MIRIAN CRISTINA PINTO","address":"ESTRADA DO COCO KM 8,5, Camaçari - BA","phone":"71993339286","latitude":-12.7098869,"longitude":-38.3424988,"addressType":"Revendedor"},{"title":"RA ANA PAULA DE ALMEIDA SILVA VIDAL(61)","address":"LOT SUCUPIO C DE ABRANTES, Camaçari - BA","phone":"71988339324","latitude":-12.8262315,"longitude":-38.2653566,"addressType":"Revendedor"},{"title":"RA CYNARA LESSA SILVA(03)","address":"RUA DR TIMOTEO MACIEL, Andaraí - BA","phone":"75982961819","latitude":-12.805257,"longitude":-41.3341164,"addressType":"Revendedor"},{"title":"RA NUBIA DA SILVA CARDOSO(06)","address":"RUA SALDANHA DA GAMA, Belmonte - BA","phone":"73999895859","latitude":-15.8599955,"longitude":-38.8785034,"addressType":"Revendedor"},{"title":"RA MARISA BONFIM RIBEIRO(4)","address":"RUA B CONDOMINIO RECANTO DE ABRANTES, Camaçari - BA","phone":"71999746801","latitude":-12.8262315,"longitude":-38.2653566,"addressType":"Revendedor"},{"title":"RA CARLA VIRGINIA LOPES SANTOS (11)","address":"AVENIDA DEZOITO DE FEVEREIRO, Boa Vista do Tupim - BA","phone":"75988535826","latitude":-12.6607749,"longitude":-40.6047549,"addressType":"Revendedor"},{"title":"RA ROSILEICA MARI BRAZ SILVA(40)","address":"RUA BOA UNIAO, Camaçari - BA","phone":"71988937472","latitude":-12.7091201,"longitude":-38.33087039999999,"addressType":"Revendedor"},{"title":"RA MARIA DO SOCORRO DOS SANTOS NAVARRO62","address":"RUA BOA UNIAO QUADRA D BLOCO BROMELIA, Camaçari - BA","phone":"71992363762","latitude":-12.6971776,"longitude":-38.3331983,"addressType":"Revendedor"},{"title":"RA CELSO  LUIS CARVALHO DA COSTA(05)","address":"RUA DA FONTE, Camaçari - BA","phone":"7186393804","latitude":-12.7218528,"longitude":-38.3297737,"addressType":"Revendedor"},{"title":"RA GEDALIA JESUS DOS SANTOS(5)","address":"RUA DO PAU SUL, Camaçari - BA","phone":"7181307034","latitude":-12.8331239,"longitude":-38.2720438,"addressType":"Revendedor"},{"title":"RA LUCIA DE OLIVEIRA CAMPOS(05)","address":"RUA ESTIVA DE BURIS, Camaçari - BA","phone":"7196363924","latitude":-12.6971776,"longitude":-38.3331983,"addressType":"Revendedor"},{"title":"RA OZINEIDE DE OLIVEIRA(5)","address":"RUA QUEIRA DEUS, Camaçari - BA","phone":"7191624381","latitude":-12.8645215,"longitude":-38.3056238,"addressType":"Revendedor"},{"title":"RA ITAMAR DE JESUS CESAR(6)","address":"RUA 03 DE OUTUBRO, Candeias - BA","phone":"71992845251","latitude":-12.6720125,"longitude":-38.5475041,"addressType":"Revendedor"},{"title":"RA LUCMAR DE SOUZA COELHO(3)","address":"RUA DO POCO MENINO JESUS, Candeias - BA","phone":"71992814361","latitude":-12.6720125,"longitude":-38.5475041,"addressType":"Revendedor"},{"title":"RA VANDERLEA DOS SANTOS BISPO(13)","address":"AVENIDA TACREDO NEVES, Capim Grosso - BA","phone":"74981287136","latitude":-11.3823482,"longitude":-40.01242149999999,"addressType":"Revendedor"},{"title":"RA MARTA CRISPINA NASC MAGALHAES(2)","address":"RUA 15 DE NOVEMBRO, Catu - BA","phone":"7188319203","latitude":-12.354352,"longitude":-38.3783182,"addressType":"Revendedor"},{"title":"RA MIRAILDA BASTOS DE FRANCA(03)","address":"RUA DOIS SETOR VISTA VERDE, Cotegipe - BA","phone":"77988846110","latitude":-12.0231953,"longitude":-44.2569588,"addressType":"Revendedor"},{"title":"RA TANIA LIMA MERCES GALVAO(02)","address":"RUA DONA SANTA, Dias dÁvila - BA","phone":"71991031530","latitude":-12.6092487,"longitude":-38.30547300000001,"addressType":"Revendedor"},{"title":"RA MARIA MARGARETH ANDRADE MENEZES(6)","address":"RUA NOVA ESPERANÇA, Dias dÁvila - BA","phone":"71991071812","latitude":-12.6057692,"longitude":-38.30948739999999,"addressType":"Revendedor"},{"title":"RA ROSARIA CRISPINA GOMES DOS SANTOS(2)","address":"RUA SAO SALVADOR, Dias dÁvila - BA","phone":"71991054595","latitude":-12.6116253,"longitude":-38.2922514,"addressType":"Revendedor"},{"title":"RA ELIANE RIBEIRA DE SOUZA(13)","address":"BOTICARIO MUNCORVO, Feira de Santana - BA","phone":"7591581841","latitude":-12.2537764,"longitude":-38.9569294,"addressType":"Revendedor"},{"title":"RA DANIELA SANTOS DE ASSIS OLIVEIRA 3","address":"RUA DOIS IRMÃOS, Feira de Santana - BA","phone":"7588147536","latitude":-12.2115945,"longitude":-38.9912842,"addressType":"Revendedor"},{"title":"RA CELINA DE CASTRO ANDRADE(4)","address":"RUA CAMERINO NEVES, Guanambi - BA","phone":"7791396513","latitude":-14.2266975,"longitude":-42.7836327,"addressType":"Revendedor"},{"title":"RA SILENE CASTRO(2)","address":"RUA CAMRINO NEVES, Guanambi - BA","phone":"7791365598","latitude":-14.2266975,"longitude":-42.7836327,"addressType":"Revendedor"},{"title":"RA CLEUDES MARTINS(3)","address":"RUA JESULINO ALVES, Guanambi - BA","phone":"77999366927","latitude":-14.2193381,"longitude":-42.7796907,"addressType":"Revendedor"},{"title":"RA DIEGO MARTINS DE SOUZA(5)","address":"RUA LIMA BARRETO, Guanambi - BA","phone":"7791314375","latitude":-14.2173469,"longitude":-42.7665567,"addressType":"Revendedor"},{"title":"RA ELMA CRISTINA PARAGUASSU(11)","address":"RUA JOEL PRESIDIO, Itaberaba - BA","phone":"7532515589","latitude":-12.5358981,"longitude":-40.2992456,"addressType":"Revendedor"},{"title":"RA EUNICE PARAGUASSU CORREIA(11)","address":"RUA JOEL PRESIDIO, Itaberaba - BA","phone":"7581733081","latitude":-12.5358981,"longitude":-40.2992456,"addressType":"Revendedor"},{"title":"RA ELIENE SOUZA(5)","address":"RUA OTACILIO LOPES, Guanambi - BA","phone":"7791184327","latitude":-14.2193381,"longitude":-42.7796907,"addressType":"Revendedor"},{"title":"RA BRUNO DO VAL OLIVEIRA11","address":"RUA JOEL PRESIDIO, Itaberaba - BA","phone":"7532515589","latitude":-12.5358981,"longitude":-40.2992456,"addressType":"Revendedor"},{"title":"RA LARISSA BEZERRA(2)","address":"RUA SILVA JARDIM, Guanambi - BA","phone":"7191261871","latitude":-14.2277593,"longitude":-42.7840748,"addressType":"Revendedor"},{"title":"RA DARLENE GOMES DA SILVA SANTOS(06)","address":"RUA DR. CESAR CABRAL, Ipirá - BA","phone":"7591276826","latitude":-12.159452,"longitude":-39.73938589999999,"addressType":"Revendedor"},{"title":"RA EDILMA  FREITAS DO NASCIMENTO(4)","address":"RUA ANTONIO OTAVIANO DOURADO, Irecê - BA","phone":"74999196363","latitude":-11.3045415,"longitude":-41.84800560000001,"addressType":"Revendedor"},{"title":"RA MARILEIDE GOMES MENDES(3)","address":"AV MANOEL CARNEIRO, Itabela - BA","phone":"7399857157","latitude":-16.5770104,"longitude":-39.5574315,"addressType":"Revendedor"},{"title":"RA TISSIANA JOSE LEAL(11)","address":"AV RUY BARBOSA, Itaberaba - BA","phone":"75991830613","latitude":-12.5283652,"longitude":-40.3073597,"addressType":"Revendedor"},{"title":"RA LUCINEIDE  MASCARENHAS OLIVEIRA(11)","address":"AVENIDA RIO BRANCO, Itaberaba - BA","phone":"7591635964","latitude":-12.5319173,"longitude":-40.3042136,"addressType":"Revendedor"},{"title":"RA FERNANDA GONÇALVES DE OLIVEIRA(11)","address":"AVENIDA RUY BARBOSA, Itaberaba - BA","phone":"7591572015","latitude":-12.5283652,"longitude":-40.3073597,"addressType":"Revendedor"},{"title":"RA VIVIANE OLIVEIRA TANAN(11)","address":"RUA AMADO CARVALHO, Itaberaba - BA","phone":"75991760970","latitude":-12.5285301,"longitude":-40.3045044,"addressType":"Revendedor"},{"title":"RA VALNEIDE DAMACENA DA SILVA(11)","address":"RUA FLAVIOSILVANY, Itaberaba - BA","phone":"7591979613","latitude":-12.5245795,"longitude":-40.3062038,"addressType":"Revendedor"},{"title":"RA ANA CAROLINA MASCARENHAS S AMARAL(11)","address":"RUA FRANCISCO GIL, Itaberaba - BA","phone":"75991152567","latitude":-12.5245795,"longitude":-40.3062038,"addressType":"Revendedor"},{"title":"RA ELIDINALVA MENDES SAMPAIO(11)","address":"RUA JOAO BRAGA, Itaberaba - BA","phone":"75992159985","latitude":-12.523083,"longitude":-40.2913639,"addressType":"Revendedor"},{"title":"RA LUANA PAULA CARNEIRO C. CERQUEIRA(11)","address":"RUA JOSE MUNIZ CASA, Itaberaba - BA","phone":"7591155411","latitude":-12.5245795,"longitude":-40.3062038,"addressType":"Revendedor"},{"title":"RA JOELMA NUNES DA SILVA(11)","address":"RUA JULIO ARAUJO, Itaberaba - BA","phone":"71992343253","latitude":-12.523419,"longitude":-40.31144889999999,"addressType":"Revendedor"},{"title":"RA MARIA OLIVIA ANDRADE DE BRITO(11)","address":"RUA MEDEIROS NETO, Itaberaba - BA","phone":"7591990090","latitude":-12.5302337,"longitude":-40.3113935,"addressType":"Revendedor"},{"title":"RA ANA CLAUDIA DE JESUS S. DE ALMEIDA(11","address":"RUA ODUFO BRITO CASA, Itaberaba - BA","phone":"7591130359","latitude":-12.5245795,"longitude":-40.3062038,"addressType":"Revendedor"},{"title":"RA CINTIA DE SOUZA SAMPAIO DAMASCENO(3)","address":"RUA RIO GRANDE DO NORTE, Itaberaba - BA","phone":"7591865513","latitude":-12.5146576,"longitude":-40.3022278,"addressType":"Revendedor"},{"title":"RA ELIENE FREIRE PEREIRA(13)","address":"RUA ARTUR DINIZ VELOSO, Jacobina - BA","phone":"7488050715","latitude":-11.1852846,"longitude":-40.5143758,"addressType":"Revendedor"},{"title":"RA LIVIA GUALBERTO DA SILVA 13","address":"RUA DESEMBARGADOR SOUZA DIAS, Jacobina - BA","phone":"7499629266","latitude":-11.1816506,"longitude":-40.5120603,"addressType":"Revendedor"},{"title":"RA LENIRA GUALBERTO(13)","address":"RUA DESEMBARGADOR SOUZA DIAS, Jacobina - BA","phone":"74991104099","latitude":-11.1816506,"longitude":-40.5120603,"addressType":"Revendedor"},{"title":"RA VALQUIRIA VILELLA(13)","address":"RUA DESEMBARGADOU SOUZA DIAS, Jacobina - BA","phone":"7499649618","latitude":-11.1816506,"longitude":-40.5120603,"addressType":"Revendedor"},{"title":"RA AURELINDA CONCEICAO DE AGUIAR SILVA11","address":"RUA ROQUE FAGUNDES, Itaberaba - BA","phone":"331848034","latitude":-12.5325852,"longitude":-40.3010615,"addressType":"Revendedor"},{"title":"RA MARCIA EVANGELISTA SILVA SHAHIMA(11)","address":"RUA RUBENS RIBEIRO, Itaberaba - BA","phone":"75991900478","latitude":-12.5312352,"longitude":-40.3056727,"addressType":"Revendedor"},{"title":"RA CLAUDIA REGINA SOUSA(11)","address":"RUA SETE DE ABRIL, Itaberaba - BA","phone":"75991506575","latitude":-12.5376277,"longitude":-40.2991455,"addressType":"Revendedor"},{"title":"RA RENATA QUEIROZ SOUZA BARBOSA(11)","address":"RUA WENCESLAU BRAS 293, Itaberaba - BA","phone":"75991659231","latitude":-12.5325518,"longitude":-40.30169970000001,"addressType":"Revendedor"},{"title":"RA NAIANE FREIRE(13)","address":"RUA DESEMBARGADOU SOUZA DIAS, Jacobina - BA","phone":"74991106425","latitude":-11.1816506,"longitude":-40.5120603,"addressType":"Revendedor"},{"title":"RA SELMA CARDOSO ALVES(3)","address":"AVENIDA JS PINHEIRO, Itabuna - BA","phone":"73988640017","latitude":-14.7940091,"longitude":-39.2846052,"addressType":"Revendedor"},{"title":"RA JACQUELINE DOS REIS MORAIS KISAKI(06)","address":"RUA DR ANTONIO MUNIZ, Ituberá - BA","phone":"73981412575","latitude":-13.7365098,"longitude":-39.1479627,"addressType":"Revendedor"},{"title":"RA FLORISVALDO CARDOSO DE OLIVEIRA(13)","address":"LOT PAULO DE TANSO RUA DOIS, Jacobina - BA","phone":"71749883731","latitude":-11.1879287,"longitude":-40.5184743,"addressType":"Revendedor"},{"title":"RA LIGERDANDIA MENDES(13)","address":"LOT PAULO DE TORSO RUA DOIS, Jacobina - BA","phone":"74988296054","latitude":-11.1879287,"longitude":-40.5184743,"addressType":"Revendedor"},{"title":"RA LENISIA GUALBERTO DA SILVA MATOS(13","address":"LOTEAMENTO PAULO DE TARSO RUA 02, Jacobina - BA","phone":"7499644513","latitude":-11.1816506,"longitude":-40.5120603,"addressType":"Revendedor"},{"title":"RA FRANCINEIDE SOUZA FERREIRA DA CRUZ(13","address":"MORADA DO SOL RUA 6, Jacobina - BA","phone":"7491185811","latitude":-11.1816506,"longitude":-40.5120603,"addressType":"Revendedor"},{"title":"RA ENY CORDEIRO LIMA SANTOS 13","address":"RUA COSTA E SILVA, Jacobina - BA","phone":"7491000885","latitude":-11.1924354,"longitude":-40.5167753,"addressType":"Revendedor"},{"title":"RA DANIELE SANTOS SOBRINHO(13)","address":"RUA ERNESTINO PIRES, Jacobina - BA","phone":"7491417441","latitude":-11.1902921,"longitude":-40.5173817,"addressType":"Revendedor"},{"title":"RA MARIA CONCEIÇÃO EVANGELISTA SANTOS(13","address":"RUA OTACILIO MORENO BARRETO, Jacobina - BA","phone":"74981311731","latitude":-11.1816506,"longitude":-40.5120603,"addressType":"Revendedor"},{"title":"RA MICHELE ALMEIDA VILAS BOAS(2)","address":"RUA SENADOR PEDRO LAGO, Jacobina - BA","phone":"7481021405","latitude":-11.1833425,"longitude":-40.5102786,"addressType":"Revendedor"},{"title":"RA MAXILIANO JOSE CARVALHO VARJAO(01)","address":"RUA DA ALEGRIA, Jeremoabo - BA","phone":"71998178508","latitude":-10.0679226,"longitude":-38.3542247,"addressType":"Revendedor"},{"title":"RA JULIANA ARAUJO(13)","address":"RUA ANTONIO DOMINGOS, Miguel Calmon - BA","phone":"7499231729","latitude":-11.4303262,"longitude":-40.60345239999999,"addressType":"Revendedor"},{"title":"RA RENATA DE BRITO NETO DANTAS(2)","address":"RUA HELIO VALOIS COUTINHO, Miguel Calmon - BA","phone":"7499690256","latitude":-11.4303262,"longitude":-40.60345239999999,"addressType":"Revendedor"},{"title":"RA MARIA TEREZA DOURADO LIMA VIENA(2)","address":"RUA EDGAR SIMOES, Morro do Chapéu - BA","phone":"7436531043","latitude":-11.5487023,"longitude":-41.1527336,"addressType":"Revendedor"},{"title":"RA ANA LIVIA FERNANDES SANTOS(3)","address":"TRAVESSA DOUTOR JONAS DE CARVALHO GOMES, Jeremoabo - BA","phone":"7598145939","latitude":-10.0689082,"longitude":-38.3474442,"addressType":"Revendedor"},{"title":"RA MARLENE CARDOSO COUTO(2)","address":"AVENIDA PRAIA DE ITAPUA, Lauro de Freitas - BA","phone":"71996112288","latitude":-12.8872501,"longitude":-38.299205,"addressType":"Revendedor"},{"title":"RA CELIA LOPES DA SILVA(5)","address":"JD SANTA JULIA, Lauro de Freitas - BA","phone":"#null","latitude":-12.8820575,"longitude":-38.3148204,"addressType":"Revendedor"},{"title":"RA MONICA SUELLY SILVA LOURES(03)","address":"RUA NOVA VIÇOSA, Mucuri - BA","phone":"73999613595","latitude":-18.0803749,"longitude":-39.5473057,"addressType":"Revendedor"},{"title":"RA DIOGO SANTANA DOS SANTOS(62)","address":"LOTEAMENTO PEDRITA VIA A, Lauro de Freitas - BA","phone":"71986010885","latitude":-12.8820575,"longitude":-38.3148204,"addressType":"Revendedor"},{"title":"RA LUIZA ANGELICA DE JESUS(5)","address":"PRAIA DE ORANGE QUADRA 18 LOTE 16, Lauro de Freitas - BA","phone":"7181244324","latitude":-12.8899398,"longitude":-38.2930569,"addressType":"Revendedor"},{"title":"RA ROSA AMÉLIA BARROSO (5)","address":"QUEIRA DEUS, Lauro de Freitas - BA","phone":"7188020748","latitude":-12.8645215,"longitude":-38.3056238,"addressType":"Revendedor"},{"title":"RA TAMIRES SANTANA DOS SANTOS(27)","address":"RUA GERINO DE SOUZA FILHO CJ RES SUN GARDEN, Lauro de Freitas - BA","phone":"71996666786","latitude":-12.8820575,"longitude":-38.3148204,"addressType":"Revendedor"},{"title":"RA INGRID BARROSO BATISTA(5)","address":"RUA QUEIRA DEUS, Lauro de Freitas - BA","phone":"7133790436","latitude":-12.8645215,"longitude":-38.3056238,"addressType":"Revendedor"},{"title":"RA VANUSA BONFIM FERRAZ PIRES(2)","address":"RUA DURVAL GUIMARAES, Livramento de Nossa Senhora - BA","phone":"7799299659","latitude":-13.6422997,"longitude":-41.8389562,"addressType":"Revendedor"},{"title":"RA ANGELA MARIA LIMA(2)","address":"RUA JORGE AMADO, Luís Eduardo Magalhães - BA","phone":"7792002654","latitude":-12.0822493,"longitude":-45.801634,"addressType":"Revendedor"},{"title":"RA KASSIANNE PETRUCIA ALVES B COSTA(01)","address":"RUA JOSE DE SOUZA REIS, Macururé - BA","phone":"75999188706","latitude":-9.1626788,"longitude":-39.05213639999999,"addressType":"Revendedor"},{"title":"RA SIMONE SANTOS DE AZEVEDO(03)","address":"RUA 24 DE OUTUBRO, Mata de São João - BA","phone":"71991712168","latitude":-12.5316852,"longitude":-38.2917327,"addressType":"Revendedor"},{"title":"RA ANTONIA PAULA CRUZ DOS SANTOS(05)","address":"RUA JOAO LIBANIO, Nova Ibiá - BA","phone":"75999685349","latitude":-13.8108239,"longitude":-39.6261446,"addressType":"Revendedor"},{"title":"RA MARIA GILSA DOS SANTOS(01)","address":"AV JOSE HEMETERIO CARVALHO, Paulo Afonso - BA","phone":"75988680964","latitude":-9.4054559,"longitude":-38.2254268,"addressType":"Revendedor"},{"title":"RA SCHEILA DE CARVALHO GOES(01)","address":"RUA CHICO MENDES, Paulo Afonso - BA","phone":"75999257471","latitude":-9.4448638,"longitude":-38.2132963,"addressType":"Revendedor"},{"title":"RA GLAUCIA PEREIRA DA SILVA(2)","address":"RUA GANGORRA, Paulo Afonso - BA","phone":"7592637769","latitude":-9.4005452,"longitude":-38.2131637,"addressType":"Revendedor"},{"title":"RA MARIA VERONICE NASCIMENTO SANTOS3","address":"RUA LAGO DA PARANOA, Paulo Afonso - BA","phone":"7599653414","latitude":-9.3900951,"longitude":-38.2252192,"addressType":"Revendedor"},{"title":"RA IVANA BELFORT MELO(2)","address":"RUA LAGO HORIZONTE, Paulo Afonso - BA","phone":"75988657277","latitude":-9.3896122,"longitude":-38.22711839999999,"addressType":"Revendedor"},{"title":"RA JOSENILDA MARIA DOS SANTOS(1)","address":"RUA SEMINARISTA HELIO LIMEIRA, Paulo Afonso - BA","phone":"75988017969","latitude":-9.406125099999999,"longitude":-38.2163717,"addressType":"Revendedor"},{"title":"RA MARCIO RIBEIRO LOPES(03)","address":"RUA DAS LARANJEIRAS, Pilão Arcado - BA","phone":"74999678992","latitude":-9.9959996,"longitude":-42.4808744,"addressType":"Revendedor"},{"title":"RA RAILDA LACERDA ROCHA E ROCHA(3)","address":"RUA INACIO LOIOLA, Pilão Arcado - BA","phone":"7499743238","latitude":-10.0015628,"longitude":-42.4804951,"addressType":"Revendedor"},{"title":"RA ILKA GOMES SANTANA LEITE (3)","address":"RUA JOVELINA SAMPAIO, Piritiba - BA","phone":"7499558211","latitude":-11.7277288,"longitude":-40.5670793,"addressType":"Revendedor"},{"title":"RA GILMARA SANTOS CUSTODIO(3)","address":"PRAÇA 29 DE JULHO, Pojuca - BA","phone":"7199036850","latitude":-12.4308263,"longitude":-38.3281873,"addressType":"Revendedor"},{"title":"RA CRISTIANE DA SILVA SANTANA(8)","address":"RUA H QUADRA G, Pojuca - BA","phone":"7196182494","latitude":-12.4262798,"longitude":-38.3330878,"addressType":"Revendedor"},{"title":"RA MILKA PEREIRA COSTA(03)","address":"AV OLIVEIRA BRITO, Ribeira do Pombal - BA","phone":"75998341085","latitude":-10.8363879,"longitude":-38.5421158,"addressType":"Revendedor"},{"title":"RA JULLY ANNA DE CASSIA BARBOSA(2)","address":"RUA JULIO JOSE DA SILVA, Rio do Pires - BA","phone":"77991099523","latitude":-13.127502,"longitude":-42.2949382,"addressType":"Revendedor"},{"title":"RA ANDREZA GUIMARAESSAMPAIO BORGES(11)","address":"TRAVESSA SANTOS DUMOND, Ruy Barbosa - BA","phone":"74999798385","latitude":-12.2848708,"longitude":-40.4947451,"addressType":"Revendedor"},{"title":"RA JAQUELINE BONFIM SILVA(3)","address":"05 DE JANEIRO, Salvador - BA","phone":"7188085668","latitude":-12.9280234,"longitude":-38.482992,"addressType":"Revendedor"},{"title":"RA ANAMAR TEIXEIRA DE SOUZA(02)","address":"1 TRAVESSA DO BISPO AVENIDA DORIVAL CAIMY, Salvador - BA","phone":"71988319780","latitude":-12.9730401,"longitude":-38.502304,"addressType":"Revendedor"},{"title":"RA SONIA MARIA DE JESUS(3)","address":"ALAMEDA, Salvador - BA","phone":"7132155268","latitude":-12.843043,"longitude":-38.4631762,"addressType":"Revendedor"},{"title":"RA CRISTIANO ALCANTARA DOS SANTOS (3)","address":"ALAMEDA 40, Salvador - BA","phone":"7181187488","latitude":-12.842957,"longitude":-38.4631188,"addressType":"Revendedor"},{"title":"RA ANTONIO RAIMUNDO DA SILVA LEAL(2)","address":"ALAMEDA BOSQUE IMPERIAL, Salvador - BA","phone":"7191070040","latitude":-12.9393668,"longitude":-38.4248301,"addressType":"Revendedor"},{"title":"RA SORAIA ROCHA SANTOS FARIAS(3)","address":"ALAMEDA CARRARA EDF ANTONIO, Salvador - BA","phone":"7188419439","latitude":-13.0000428,"longitude":-38.4622469,"addressType":"Revendedor"},{"title":"RA GILZA CARLA CARDOSO DA CONCEIÇÃO(4)","address":"ALAMEDA FLORENÇA EDF MARCELO, Salvador - BA","phone":"71981144705","latitude":-12.9730401,"longitude":-38.502304,"addressType":"Revendedor"},{"title":"RA SIMONE ZELZEMBURG DE CASTRO SILVA(5)","address":"ALAMEDA PAPAGAIO LOT PORTAL AREMBEPE, Salvador - BA","phone":"7191578660","latitude":-12.9730401,"longitude":-38.502304,"addressType":"Revendedor"},{"title":"RA JOSENILDA ROCHA PASSOS SOARES(03)","address":"ALMEDA CARRARA, Salvador - BA","phone":"71987599225","latitude":-12.9998443,"longitude":-38.4615554,"addressType":"Revendedor"},{"title":"RA LAISE FERNANDA BRANDAO NEVE(4)","address":"AV ALAMEDA DE PADUA EDF LUCIO APT 702, Salvador - BA","phone":"7192523014","latitude":-13.0014267,"longitude":-38.4632188,"addressType":"Revendedor"},{"title":"RA GIANA NOVAIS NEVES(3)","address":"AV ALIOMAR BALOEIRO EDF VILA DEL MAR, Salvador - BA","phone":"71981306303","latitude":-12.9730401,"longitude":-38.502304,"addressType":"Revendedor"},{"title":"RA CARLINDA BARROS DE LACERDA(03)","address":"AV CARDEAL DA SILVA CD EDF PAULO II, Salvador - BA","phone":"71991923789","latitude":-12.9730401,"longitude":-38.502304,"addressType":"Revendedor"},{"title":"RA NALDI BASTOS ALENCAR (5)","address":"AV DOM JOAO VI  BLOCO 7B APT 303, Salvador - BA","phone":"7188071055","latitude":-12.9911495,"longitude":-38.4865039,"addressType":"Revendedor"},{"title":"RA SHEILA ALMEIDA FREIRE(12)","address":"AV JOANA ANGELICA EDF CIDADE DE SEVILHA, Salvador - BA","phone":"71991043776","latitude":-12.9760051,"longitude":-38.5031652,"addressType":"Revendedor"},{"title":"RA ELIOMARA DE SOUZA LIMA(5)","address":"AV JORGE AMADO CASA 1 TRAVESSA, Salvador - BA","phone":"7181256660","latitude":-12.9730401,"longitude":-38.502304,"addressType":"Revendedor"},{"title":"RA ANDRESSA SOUSA(06)","address":"AV MAGALHAES NETO, Salvador - BA","phone":"7199154400","latitude":-12.9918402,"longitude":-38.4500092,"addressType":"Revendedor"},{"title":"RA IVONETE GONCALVES DE BRITO(4)","address":"AV PAULO VI CD MANSAO NASCENTE, Salvador - BA","phone":"7188933643","latitude":-12.9730401,"longitude":-38.502304,"addressType":"Revendedor"},{"title":"RA SANDRA REGINA SANTOS DE FARIAS(40)","address":"AV PRINCESA ISABEL, Salvador - BA","phone":"71988656576","latitude":-13.0038845,"longitude":-38.5280219,"addressType":"Revendedor"},{"title":"RA RICARDO ALEXANDRE MASCARENHAS LIMA(11","address":"AV SILVEIRA MARTISNS, Salvador - BA","phone":"71991886277","latitude":-12.9575121,"longitude":-38.45439710000001,"addressType":"Revendedor"},{"title":"RA ANTONIA DE SOUZA(4)","address":"AV TRANCREDO NEVES TORRE SUL SALVADOR TRADE CENTER, Salvador - BA","phone":"7196279743","latitude":-12.9730401,"longitude":-38.502304,"addressType":"Revendedor"},{"title":"RA VIVIANE PEREIRA MATIAS(3)","address":"AV ULISSES GUIMAIS CENTRAL PARK 02 EDF ARUEIRA, Salvador - BA","phone":"7186231977","latitude":-12.9730401,"longitude":-38.502304,"addressType":"Revendedor"},{"title":"RA TERESA CRISTINA DA ROCHA S. E SANTOS8","address":"AV VINTE E QUATRO DE MAIO CS E, Salvador - BA","phone":"7192981890","latitude":-29.4842148,"longitude":-53.2989849,"addressType":"Revendedor"},{"title":"RA KATIA FERNANDA C. SAMPAIO (2)","address":"AV: ARTHUR DE AZEVEDO MACHADO, Salvador - BA","phone":"7187650421","latitude":-12.9901277,"longitude":-38.4478255,"addressType":"Revendedor"},{"title":"RA HUGO LEONARDO VENTURA DA SILVA(6)","address":"AVENIDA ACM, Salvador - BA","phone":"7188977628","latitude":-12.9592364,"longitude":-38.4508907,"addressType":"Revendedor"},{"title":"RA ALANE SOUZA BORGES(22)","address":"AVENIDA ALIOMAR BALEEIRO, Salvador - BA","phone":"71985391371","latitude":-12.918648,"longitude":-38.407886,"addressType":"Revendedor"},{"title":"RA TATIANA ALMEIDA DE MATOS","address":"AVENIDA ALPHAVILLE, Salvador - BA","phone":"71999676265","latitude":-12.9405266,"longitude":-38.4024687,"addressType":"Revendedor"},{"title":"RA JUSCELINA DOS SANTOS(62)","address":"AVENIDA CARDEAL DA SILVA, Salvador - BA","phone":"71988308088","latitude":-13.0047227,"longitude":-38.4992045,"addressType":"Revendedor"},{"title":"RA LUCIANE SANTOS(5)","address":"AVENIDA DILSON JATAHY FONSECA COND PARQUE ATLANTICO, Salvador - BA","phone":"71992053995","latitude":-12.9730401,"longitude":-38.502304,"addressType":"Revendedor"},{"title":"RA MARCIA JOANITA DA CRUZ PINHEIRO(20)","address":"AVENIDA DORIVAL CAYMMI EDF ABAETE, Salvador - BA","phone":"71988041205","latitude":-12.9730401,"longitude":-38.502304,"addressType":"Revendedor"},{"title":"RA SIDCLEI VIEIRA RODRIGUES(8)","address":"AVENIDA ESTADOS UNIDOS EDF CIDADE DE ARACAJU SALA 811, Salvador - BA","phone":"7197292924","latitude":-12.9676324,"longitude":-38.5095801,"addressType":"Revendedor"},{"title":"RA SUZANE MARIA MARTINS FERNANDES(24)","address":"CAMPINAS DE BROTAS, Salvador - BA","phone":"71991405800","latitude":-12.9823353,"longitude":-38.4771324,"addressType":"Revendedor"},{"title":"RA FERNANDA BARRADAS PEREIRA(6)","address":"AVENIDA ESTADOS UNUDOS, Salvador - BA","phone":"7133763483","latitude":-12.969393,"longitude":-38.5114033,"addressType":"Revendedor"},{"title":"RA MARGARIDA MARIA MARTINS FERNANDES(24)","address":"CAMPINAS DE BROTAS, Salvador - BA","phone":"71991405800","latitude":-12.9823353,"longitude":-38.4771324,"addressType":"Revendedor"},{"title":"RA CLENITA M ARAUJO CALDAS CERQUEIRA(04)","address":"AVENIDA PAULO VI PQ DOS FLAMBOY BLOCO  A QD G, Salvador - BA","phone":"71999629231","latitude":-12.9878199,"longitude":-38.4674299,"addressType":"Revendedor"},{"title":"RA DANIELA PHOLIO LIMA(23)","address":"AVENIDA SETE DE SETEMBRO, Salvador - BA","phone":"71999616154","latitude":-12.9215976,"longitude":-38.444126,"addressType":"Revendedor"},{"title":"RA PATRICIA ANTONIA DE OLIVEIRA(3)","address":"BECO DO CANDINHO, Salvador - BA","phone":"7188250693","latitude":-12.9157395,"longitude":-38.4960087,"addressType":"Revendedor"},{"title":"RA DILMA DO ROSARIO SANTOS(2)","address":"CAJAZEIRA FAZENDA GRANDE IV SETOR 2, Salvador - BA","phone":"7187423382","latitude":-12.9028994,"longitude":-38.3848552,"addressType":"Revendedor"},{"title":"RA ADELITA MARIA DE JESUS SANTOS(2)","address":"CAMINHO 28 GLEBA H S/N, Salvador - BA","phone":"7192469156","latitude":-12.9179979,"longitude":-38.3702374,"addressType":"Revendedor"},{"title":"RA GILDEON LIMA SANTOS(22)","address":"CJ CAJAZEIRAS VIII SETOR D, Salvador - BA","phone":"71987128147","latitude":-12.9730401,"longitude":-38.502304,"addressType":"Revendedor"},{"title":"RA TAISE SANTANA FIGUEREDO(5)","address":"CONJ CAJAZEIRA I SETOR C RUA E, Salvador - BA","phone":"71986048529","latitude":-12.9197939,"longitude":-38.3714788,"addressType":"Revendedor"},{"title":"RA VALDIRENE GOMES DE DEUS(3)","address":"CONJUNTO CAJAZEIRAS VIII SETOR A CASA 09 CAMINHO 14, Salvador - BA","phone":"71991691760","latitude":-12.9730401,"longitude":-38.502304,"addressType":"Revendedor"},{"title":"RA JOSELI DA CONCEIÇÃO SANTOS(4)","address":"CONJUNTO JAGUARIPE 1 SETOR B CAMINHO 7 D, Salvador - BA","phone":"7186609178","latitude":-12.8973763,"longitude":-38.4074031,"addressType":"Revendedor"},{"title":"RA FELICIA ARAUJO DE CERQUEIRA(2)","address":"CONJUNTO MUSSURUNGA 1, Salvador - BA","phone":"7187049860","latitude":-12.9163852,"longitude":-38.3710782,"addressType":"Revendedor"},{"title":"RA EDNACIRA BARBARA SANTANA BAHIA(12)","address":"ESTRADA DAS BARREIRAS, Salvador - BA","phone":"71987825005","latitude":-12.9474869,"longitude":-38.4545461,"addressType":"Revendedor"},{"title":"RA IURE RIBEIRO LIMA (22)","address":"ESTRADA DE CAMPINAS TRAVESSA AMOEDO, Salvador - BA","phone":"71987818835","latitude":-12.9238312,"longitude":-38.4700486,"addressType":"Revendedor"},{"title":"RA JOAO ROBERTO DO AMARAL ALVES(61)","address":"ESTRADA DO COCO COND VILAS DO JOANES, Salvador - BA","phone":"71981043194","latitude":-12.9730401,"longitude":-38.502304,"addressType":"Revendedor"},{"title":"RA RAINALVA NASCIMENTO SOUZA(22)","address":"ESTRADA VELHA DE CAMPINOS, Salvador - BA","phone":"71988717019","latitude":-12.9171003,"longitude":-38.4616345,"addressType":"Revendedor"},{"title":"RA NOELMA ODONIO FERREIRA DOS SANTOS(2)","address":"FAZ GRANDE I QUADRA C, Salvador - BA","phone":"7187738270","latitude":-12.8935617,"longitude":-38.4055478,"addressType":"Revendedor"},{"title":"RA LINALVA SILVA SALES(5)","address":"FAZENDA GRANDE 1 QUADRA C, Salvador - BA","phone":"7187226311","latitude":-12.9406741,"longitude":-38.4777934,"addressType":"Revendedor"},{"title":"RA MARIA NEUSA OLIVEIRA DOS SANTOS(2)","address":"FAZENDA GRANDE 3 SETOR C LOTE 10, Salvador - BA","phone":"7199414609","latitude":-12.8996546,"longitude":-38.3898142,"addressType":"Revendedor"},{"title":"RA WALACE MIRANDA FRANÇA(03)","address":"FAZENDA GRANDE I QUADRA C, Salvador - BA","phone":"71988430106","latitude":-12.8935617,"longitude":-38.4055478,"addressType":"Revendedor"},{"title":"RA TAMARA DE JESUS SANTOS PEDREIRA(06)","address":"FAZENDA GRANDE II, Salvador - BA","phone":"71987072559","latitude":-12.9027097,"longitude":-38.4053087,"addressType":"Revendedor"},{"title":"RA KARINA BASTOS PORTO(3)","address":"FAZENDA GRANDE II QUADRA F 2° ETAPA, Salvador - BA","phone":"7185148042","latitude":-12.9730401,"longitude":-38.502304,"addressType":"Revendedor"},{"title":"RA ANDROACY FRANCA SILVA(6)","address":"FAZENDA GRANDE III LOCAL G CASA, Salvador - BA","phone":"71988129870","latitude":-12.9730401,"longitude":-38.502304,"addressType":"Revendedor"},{"title":"RA DARLENE VIEIRA LISBOA(8)","address":"JARDIM SANTO INACIO, Salvador - BA","phone":"7191035843","latitude":-12.9205213,"longitude":-38.46349319999999,"addressType":"Revendedor"},{"title":"RA JOSÉ RODRIGUES SANTOS(6)","address":"JARDIM SANTO INACIO ALAMEDA 40, Salvador - BA","phone":"7191421415","latitude":-12.9303684,"longitude":-38.4644005,"addressType":"Revendedor"},{"title":"RA MARILENE FELICIANA DE CARVALHO(3)","address":"LADEIRA DAS FRADES, Salvador - BA","phone":"#null","latitude":-12.9457647,"longitude":-38.48813639999999,"addressType":"Revendedor"},{"title":"RA ROSEMEIRE SANTOS SILVA (3)","address":"LADEIRA DO CORRIMAO, Salvador - BA","phone":"7186191997","latitude":-12.9858083,"longitude":-38.5039063,"addressType":"Revendedor"},{"title":"RA ELUAN RODRIGO OLIVEIRA SANTOS(3)","address":"LADEIRA DO HOSPITAL, Salvador - BA","phone":"7181142101","latitude":-12.9703407,"longitude":-38.5026474,"addressType":"Revendedor"},{"title":"RA DÉBORA BARBOSA MENDES(6)","address":"LARGO DO PAPAGAIO, Salvador - BA","phone":"71987397318","latitude":-12.9231464,"longitude":-38.5029166,"addressType":"Revendedor"},{"title":"RA CLAUDIA PARANHOS DOS SANTOS(2)","address":"MARTA CENIA, Salvador - BA","phone":"7186723949","latitude":-12.8951428,"longitude":-38.4325684,"addressType":"Revendedor"},{"title":"RA MARIA DAS GRAÇAS PASCOAL DE BRITO(2)","address":"OSVALDO SÁ MENEZES, Salvador - BA","phone":"7188963686","latitude":-12.8939003,"longitude":-38.4069778,"addressType":"Revendedor"},{"title":"RA UESLEI OLIVEIRA VIEIRA(6)","address":"PEDRO CACHOEIRA, Salvador - BA","phone":"7134181885","latitude":-12.9112428,"longitude":-38.3562926,"addressType":"Revendedor"},{"title":"RA HEMILTON HELIODORO GUNCA DOS SANTOS(2","address":"PRACA JOAO GUILHERME ROCHA BARROS, Salvador - BA","phone":"7196331335","latitude":-12.9588894,"longitude":-38.4893223,"addressType":"Revendedor"},{"title":"RA GRAZIELLE PACHECO OLIVEIRA GOMES(06)","address":"PRIMEIRA TRAVESSA GETULIO VARGAS, Salvador - BA","phone":"71991192026","latitude":-12.9730401,"longitude":-38.502304,"addressType":"Revendedor"},{"title":"RA JAILSON SOUZA DE JESUS(40)","address":"PRIMEIRA TRAVESSA GETULIO VERGAS, Salvador - BA","phone":"71987994048","latitude":-12.9730401,"longitude":-38.502304,"addressType":"Revendedor"},{"title":"RA LUZINETE DE JESUS(22)","address":"PRIMEIRA TRAVESSA JURACY MIRANDA, Salvador - BA","phone":"71987325895","latitude":-12.9730401,"longitude":-38.502304,"addressType":"Revendedor"},{"title":"RA ANDREA CAETANA DOS SANTOS(03)","address":"PRIMEIRA TRAVESSA UNIAO PROXIMO A IGREJA ASSEMBLEIA, Salvador - BA","phone":"71986663562","latitude":-12.9730401,"longitude":-38.502304,"addressType":"Revendedor"},{"title":"RA ELBA MARIA VIEIRA SANTOS COSTA(02)","address":"PROF PLINIO GARCEZ DE SERRA RUA A, Salvador - BA","phone":"7187770723","latitude":-12.9730401,"longitude":-38.502304,"addressType":"Revendedor"},{"title":"RA VANJA MARIA DOS SANTOS ROLDAO LIMA(2)","address":"PROFESSORA GUIOMAR FLORENCE, Salvador - BA","phone":"7199983978","latitude":-12.9859065,"longitude":-38.4700316,"addressType":"Revendedor"},{"title":"RA RUANA REGO SOUTO(12)","address":"PUARQUE FLAMENGO CD PORTAL DAS ARVORES, Salvador - BA","phone":"71986686685","latitude":-12.9730401,"longitude":-38.502304,"addressType":"Revendedor"},{"title":"RA CRISTIANO SEARA BACELAR(6)","address":"QUADRA 01 CAMINHO 01, Salvador - BA","phone":"7182058562","latitude":-12.9092857,"longitude":-38.4065665,"addressType":"Revendedor"},{"title":"RA JANETE PEREIRA DA MOTA(06)","address":"QUADRA C CAMINHO 10, Salvador - BA","phone":"7133093576","latitude":-12.8861837,"longitude":-38.4117126,"addressType":"Revendedor"},{"title":"RA DEJANIRA MARIA DA CRUZ QUINTAS (3)","address":"RUA A, Salvador - BA","phone":"7191466018","latitude":-12.9084633,"longitude":-38.303294,"addressType":"Revendedor"},{"title":"RA CLAUDIANE OLIVEIRA CUPERTINO(40)","address":"RUA A, Salvador - BA","phone":"71983897126","latitude":-12.9084633,"longitude":-38.303294,"addressType":"Revendedor"},{"title":"RA MARIA JOSE SANTOS ARAGAO 3","address":"RUA  DR GENESE SALES, Salvador - BA","phone":"7187535241","latitude":-12.9679664,"longitude":-38.4907946,"addressType":"Revendedor"},{"title":"RA NAIR CRISTINA SANTOS LEAL 2","address":"RUA  RIO GRANDE DO SUL, Salvador - BA","phone":"7186265328","latitude":-13.0029707,"longitude":-38.4591904,"addressType":"Revendedor"},{"title":"RA SELMA CRISTINA PEREIRA RAMOS(5)","address":"RUA 20 2ª ETAPA, Salvador - BA","phone":"7187041297","latitude":-12.9016079,"longitude":-38.4350938,"addressType":"Revendedor"},{"title":"RA EDVANIA LOPES DOS SANTOS VIEIRA(40)","address":"RUA 22 DE SETEMBRO, Salvador - BA","phone":"7133127100","latitude":-12.9356705,"longitude":-38.4996026,"addressType":"Revendedor"},{"title":"RA CINTIA TELES DE CERQUEIRA(40)","address":"RUA 25 DE JUNHO, Salvador - BA","phone":"71986934810","latitude":-12.9345258,"longitude":-38.4990493,"addressType":"Revendedor"},{"title":"RA MARIA JOSE CONCEICAO MONTEZUMA(22)","address":"RUA ADELMIRO, Salvador - BA","phone":"71986260021","latitude":-12.8974658,"longitude":-38.4139633,"addressType":"Revendedor"},{"title":"RA MARIA IRANIR MESQUITA LACERDA(2)","address":"RUA AFONSO DE TAUNAY, Salvador - BA","phone":"7192533682","latitude":-12.9777054,"longitude":-38.4975366,"addressType":"Revendedor"},{"title":"RA MARINALVA CONCEIÇAO QUEIROZ VIEIRA(3)","address":"RUA AGUAS DE CHEIRO BLOCO 12, Salvador - BA","phone":"7188113473","latitude":-12.9280018,"longitude":-38.4615456,"addressType":"Revendedor"},{"title":"RA PAULO DANIEL DE FREITAS MACHADO(2)","address":"RUA ALVARO FRANÇA ROCHA, Salvador - BA","phone":"7192875018","latitude":-12.8963719,"longitude":-38.4248565,"addressType":"Revendedor"},{"title":"RA VANUSA CORREIA NETO CUNHA(5)","address":"RUA ALAMEDA DILSON JATAHY FONSECA, Salvador - BA","phone":"71991926707","latitude":-12.9324425,"longitude":-38.3451505,"addressType":"Revendedor"},{"title":"RA MARIA CARLA SILVA DOS SANTOS(25)","address":"RUA ALCIDES BARRETO, Salvador - BA","phone":"71985252224","latitude":-12.9332486,"longitude":-38.4380725,"addressType":"Revendedor"},{"title":"RA ADONES CATARINO SOUSA COSTA(6)","address":"RUA ALIOMAR BALEIRO RESIDENCIAL CD SAO PAULO, Salvador - BA","phone":"71993405436","latitude":-12.9730401,"longitude":-38.502304,"addressType":"Revendedor"},{"title":"RA ALEXANDRA COELHO DOS SANTOS(21)","address":"RUA ALOISIO CONCECAO, Salvador - BA","phone":"7133062194","latitude":-12.9277186,"longitude":-38.4437843,"addressType":"Revendedor"},{"title":"RA ONEIDE LIMA DE JESUS(3)","address":"RUA ALTO DO MOINHO, Salvador - BA","phone":"7132452338","latitude":-12.988639,"longitude":-38.5070709,"addressType":"Revendedor"},{"title":"RA JORGE MOTA CORREIA(12)","address":"RUA ANDRE LUIZ, Salvador - BA","phone":"71987410876","latitude":-12.9715361,"longitude":-38.4634468,"addressType":"Revendedor"},{"title":"RA MARIA JOSE GUSMAO DE OLIVEIRA(06)","address":"RUA ANTONIO BULCAO SOBRINHO, Salvador - BA","phone":"71988213766","latitude":-12.9901243,"longitude":-38.4677454,"addressType":"Revendedor"},{"title":"RA ROSELENE ASSIS DOS SANTOS 4","address":"RUA ANTONIO DA SILVA COELHO, Salvador - BA","phone":"7192237442","latitude":-12.98306,"longitude":-38.4366012,"addressType":"Revendedor"},{"title":"RA LORENA MARGARET ROLON(62)","address":"RUA ARAUJO BASTOS, Salvador - BA","phone":"71988483172","latitude":-12.9710541,"longitude":-38.4169188,"addressType":"Revendedor"},{"title":"RA ELIANA DOS SANTOS ARANDIBA(4)","address":"RUA ARISTIDES MILTON, Salvador - BA","phone":"71986130461","latitude":-12.9499605,"longitude":-38.3648862,"addressType":"Revendedor"},{"title":"RA NAIARA PAIVA NOVAES(4)","address":"RUA ARNALDO LOPES DA SILVA CJ DOS BANCARIOS, Salvador - BA","phone":"7188049138","latitude":-12.9730401,"longitude":-38.502304,"addressType":"Revendedor"},{"title":"RA MARIA TEREZINHA DE NORONHA TRINDADE4","address":"RUA ARNALDO LOPES SILVA, Salvador - BA","phone":"7185148079","latitude":-12.9790378,"longitude":-38.4459452,"addressType":"Revendedor"},{"title":"RA ANTONIO BRANDAO DE JESUS NETO(8)","address":"RUA ARQUIMEDES GONÇALVES, Salvador - BA","phone":"71992717468","latitude":-12.9809874,"longitude":-38.5063771,"addressType":"Revendedor"},{"title":"RA IZAURA IZABEL AYRES REHM(03)","address":"RUA ARTHUR MACHADO, Salvador - BA","phone":"71991525464","latitude":-12.9512705,"longitude":-38.4978639,"addressType":"Revendedor"},{"title":"RA VERONICA SANTOS PEREIRA DAZER(4)","address":"RUA ARTUR DE AZEVEDO MACHADO EDF SAN DIEGO AP 103, Salvador - BA","phone":"7199490636","latitude":-12.9730401,"longitude":-38.502304,"addressType":"Revendedor"},{"title":"RA CACILDA RIBEIRO DE CARVALHO LAGO 4","address":"RUA ARTUR DE COUTO, Salvador - BA","phone":"7196760612","latitude":-12.9693783,"longitude":-38.488974,"addressType":"Revendedor"},{"title":"RA ERONILDES SOUTO SILVA SANTOS(4)","address":"RUA AUSTRALASIA, Salvador - BA","phone":"71986528101","latitude":-12.9305115,"longitude":-38.43719970000001,"addressType":"Revendedor"},{"title":"RA BRUNA BORGES NOVAIS(3)","address":"RUA BARAO DE LORETO, Salvador - BA","phone":"7191025115","latitude":-12.9987705,"longitude":-38.5184096,"addressType":"Revendedor"},{"title":"RA FABIO DE JESUS SANTOS(20)","address":"RUA BELA VISTA DE ITAPUA, Salvador - BA","phone":"71988161923","latitude":-12.939415,"longitude":-38.3730175,"addressType":"Revendedor"},{"title":"RA ANA HELENA GOMES BARROS(4)","address":"RUA BRANDAO LOPES DA SILVA, Salvador - BA","phone":"7194044153","latitude":-12.9730401,"longitude":-38.502304,"addressType":"Revendedor"},{"title":"RA ANTONIA ARAUJO DA SILVA(3)","address":"RUA C  2 ETAPA B, Salvador - BA","phone":"7185019532","latitude":-12.9007135,"longitude":-38.43672919999999,"addressType":"Revendedor"},{"title":"RA CRISTIANE MARIA MARTINS FERNANDES(24)","address":"RUA CAMPINAS DE BROTAS, Salvador - BA","phone":"71991405800","latitude":-12.9848028,"longitude":-38.4780501,"addressType":"Revendedor"},{"title":"RA IRAILDES OLIVEIRA NERY DO CARMO(4)","address":"RUA CAMPO FORMOSO EDF SUZANA, Salvador - BA","phone":"7199454180","latitude":-12.9730401,"longitude":-38.502304,"addressType":"Revendedor"},{"title":"RA ADENILSON AZEVEDO SANTOS(25)","address":"RUA CARLA, Salvador - BA","phone":"71986351135","latitude":-12.9486775,"longitude":-38.4535455,"addressType":"Revendedor"},{"title":"RA MARIA JOSE ALVES OLIVEIRA GONÇALVES(9","address":"RUA CARLOS LINS, Salvador - BA","phone":"71988436361","latitude":-12.9730401,"longitude":-38.502304,"addressType":"Revendedor"},{"title":"RA TANIA REGINA DOS REIS MATOS","address":"RUA CEARA, Salvador - BA","phone":"7188985969","latitude":-13.0032257,"longitude":-38.4601754,"addressType":"Revendedor"},{"title":"RA JUCIARA DOS REIS MATOS(3)","address":"RUA CEARA, Salvador - BA","phone":"7192447938","latitude":-13.0032257,"longitude":-38.4601754,"addressType":"Revendedor"},{"title":"RA LUCAS LIMA OLIVEIRA(3)","address":"RUA CEARA, Salvador - BA","phone":"7188122726","latitude":-13.0032257,"longitude":-38.4601754,"addressType":"Revendedor"},{"title":"RA MARINALVA SOUZA DE JESUS(4)","address":"RUA CASSILANDRO BARBUDA, Salvador - BA","phone":"7191916312","latitude":-12.9918132,"longitude":-38.446625,"addressType":"Revendedor"},{"title":"RA MARIA AUXILIADORA BATISTA MOREIRA 2","address":"RUA CASTRO NEVES, Salvador - BA","phone":"7192356968","latitude":-12.9756571,"longitude":-38.4989879,"addressType":"Revendedor"},{"title":"RA ELISANGELA SOUZA TINOCO  CARVALHO(27)","address":"RUA CEARA EDF CAETANA, Salvador - BA","phone":"71988771266","latitude":-13.0025727,"longitude":-38.4597766,"addressType":"Revendedor"},{"title":"RA JESSICA SOARES FERREIRA(62)","address":"RUA CRISTOVAO FERREIRA, Salvador - BA","phone":"71984184172","latitude":-12.9761199,"longitude":-38.4325263,"addressType":"Revendedor"},{"title":"RA ALIOMAR ROBSON ROMULO PEREIRA(12)","address":"RUA CRISTOVAO FERREIRA, Salvador - BA","phone":"71984030921","latitude":-12.9761199,"longitude":-38.4325263,"addressType":"Revendedor"},{"title":"RA LINDAURA CAVALCANTE OLIVEIRA(3)","address":"RUA CLEDENOR SOARES, Salvador - BA","phone":"7188560529","latitude":-12.9599305,"longitude":-38.4421915,"addressType":"Revendedor"},{"title":"RA ROSANGELA SANTOS DE ANDRADE(40)","address":"RUA CONSELHEIRO ZACARAIS, Salvador - BA","phone":"71987957843","latitude":-12.9384923,"longitude":-38.5026077,"addressType":"Revendedor"},{"title":"RA MARCIA  PAULA RABELLO MENEZES(40)","address":"RUA COPACABANA, Salvador - BA","phone":"7192300614","latitude":-12.9343353,"longitude":-38.497629,"addressType":"Revendedor"},{"title":"RA JAQUELINE BORGES FIGUEREDO(40)","address":"RUA CORANEL PEDRO FERRÃO, Salvador - BA","phone":"71981785542","latitude":-12.941459,"longitude":-38.4935674,"addressType":"Revendedor"},{"title":"RA BRUNA MAGALHAES DOS SANTOS(25)","address":"RUA CORONEL DURVAL DE MATOS EDF MARES DO SUL, Salvador - BA","phone":"71996092274","latitude":-12.9939892,"longitude":-38.4472308,"addressType":"Revendedor"},{"title":"RA AUREA STELLA DE OLIVEIRA DO VALE(62)","address":"RUA COSME DE FARIAS, Salvador - BA","phone":"71997102685","latitude":-12.9802934,"longitude":-38.4913883,"addressType":"Revendedor"},{"title":"RA JUCILENE MENEZES DA SILVA FERREIRA (3","address":"RUA D.RAIMUNDO MESQUITA, Salvador - BA","phone":"7133261541","latitude":-12.9471082,"longitude":-38.4964553,"addressType":"Revendedor"},{"title":"RA NELIJANE CAMPOS(20)","address":"RUA DA ARRUDA, Salvador - BA","phone":"71988932157","latitude":-12.9397994,"longitude":-38.4497466,"addressType":"Revendedor"},{"title":"RA DILMA SANTOS DA SILVA(12)","address":"RUA DA BOLADEIRA, Salvador - BA","phone":"71984137597","latitude":-12.9637706,"longitude":-38.4291961,"addressType":"Revendedor"},{"title":"RA SANDRA NOVAIS DOS SANTO(20)","address":"RUA DA GRATIDÃO EDF ESMERALDA, Salvador - BA","phone":"71987367311","latitude":-12.9730401,"longitude":-38.502304,"addressType":"Revendedor"},{"title":"RA SONIA MARIA OLIVEIRA SILVA (3)","address":"RUA DAS GAIVOTAS AP 101, Salvador - BA","phone":"7188210798","latitude":-12.9721259,"longitude":-38.4351537,"addressType":"Revendedor"},{"title":"RA REBECA CALIXTO DOS SANTOS(03)","address":"RUA DAS LARANJEIRAS, Salvador - BA","phone":"71991226971","latitude":-12.9424438,"longitude":-38.4346349,"addressType":"Revendedor"},{"title":"RA CASERNA REGINA DE OLIVEIRA VENTURA(03","address":"RUA DAS URSULINAS, Salvador - BA","phone":"71988917331","latitude":-12.9019436,"longitude":-38.44488279999999,"addressType":"Revendedor"},{"title":"RA SIMONE MOREIRA SILVA FAISLON(02)","address":"RUA DAVI VELOSO, Salvador - BA","phone":"71999176770","latitude":-12.8939784,"longitude":-38.4812471,"addressType":"Revendedor"},{"title":"RA MARIA DA PAZ SOUSA DOS SANTOS 4","address":"RUA DESEMBARGADOR  MANOEL PEREIRA, Salvador - BA","phone":"7182686317","latitude":-12.9901892,"longitude":-38.4455412,"addressType":"Revendedor"},{"title":"RA MARIA DO CARMO BEZERRA DE OLIVEIRA(24","address":"RUA DESEMBARGADOR GONCALVES, Salvador - BA","phone":"7199167956","latitude":-12.9917197,"longitude":-38.5235681,"addressType":"Revendedor"},{"title":"RA MARIA ALICE CARVALHO DA SILVA(4)","address":"RUA DESEMBARGADOR MANOEL PEREIRA, Salvador - BA","phone":"7193417237","latitude":-12.9901892,"longitude":-38.4455412,"addressType":"Revendedor"},{"title":"RA ANA MARIA SILVA VINHAS(22)","address":"RUA DEUS MENINO, Salvador - BA","phone":"71987080485","latitude":-12.9140988,"longitude":-38.4676564,"addressType":"Revendedor"},{"title":"RA DRIELE BISPO DE SOUZA(21)","address":"RUA DIOGO FERNANDES ROSA, Salvador - BA","phone":"71988406659","latitude":-12.9318013,"longitude":-38.4415284,"addressType":"Revendedor"},{"title":"RA MIZAELIA ROSA FERREIRA DOS SANTOS(22)","address":"RUA DIRETA CAMPINAS PIRAJA, Salvador - BA","phone":"71981818726","latitude":-12.9253374,"longitude":-38.4731747,"addressType":"Revendedor"},{"title":"RA ADINA SILVA SANDE QUEIROZ(3)","address":"RUA DIRETA DO IPIRANGA, Salvador - BA","phone":"7188685020","latitude":-12.9116613,"longitude":-38.4428369,"addressType":"Revendedor"},{"title":"RA CELIA MARIA DE CARVALHO(61)","address":"RUA DIRETA DO IPITANGA COND VILAS DA PALMEIRAS, Salvador - BA","phone":"71988313127","latitude":-12.9730401,"longitude":-38.502304,"addressType":"Revendedor"},{"title":"RA MARTA ROBERTA BARBOSA SILVA(62)","address":"RUA DO BANANAL, Salvador - BA","phone":"71986456593","latitude":-12.9698981,"longitude":-38.4186712,"addressType":"Revendedor"},{"title":"RA RAIVALDA DA CRUZ RAMOS (3)","address":"RUA DO CATUZINHO, Salvador - BA","phone":"7536452325","latitude":-12.9730401,"longitude":-38.502304,"addressType":"Revendedor"},{"title":"RA VERA LUCIA DOS SANTOS CONCEIÇAO(40)","address":"RUA DO CURUZU, Salvador - BA","phone":"71991184566","latitude":-12.9459914,"longitude":-38.4873428,"addressType":"Revendedor"},{"title":"RA ELIAS SANTANA SANTOS(3)","address":"RUA DO SERTÃO, Salvador - BA","phone":"71988304024","latitude":-12.8956843,"longitude":-38.4846867,"addressType":"Revendedor"},{"title":"RA ADRIANA SILVEIRA ALBAN(5)","address":"RUA DO SOARES, Salvador - BA","phone":"7197003028","latitude":-12.9221761,"longitude":-38.5040198,"addressType":"Revendedor"},{"title":"RA MARINALVA ALVES PINHEIRO(5)","address":"RUA DOMINGAS, Salvador - BA","phone":"71981859638","latitude":-12.8805304,"longitude":-38.3153466,"addressType":"Revendedor"},{"title":"RA CLEONICE BASTOS DE ALMEIDA SANTOS(04)","address":"RUA DOS FRANCISCANOS ZEM, Salvador - BA","phone":"71987194810","latitude":-12.9053013,"longitude":-38.4488626,"addressType":"Revendedor"},{"title":"RA HARUMI KUWANO(62)","address":"RUA DOS PINTASSILGOS, Salvador - BA","phone":"71999512783","latitude":-12.9721531,"longitude":-38.4359074,"addressType":"Revendedor"},{"title":"RA MARIA MADALENA JESUS CERQUEIRA","address":"RUA DR ARLINDO TELES, Salvador - BA","phone":"7191805396","latitude":-12.9533581,"longitude":-38.48476429999999,"addressType":"Revendedor"},{"title":"RA GRACE KENNYA ROCHA LEITE(04)","address":"RUA DR AUGUSTO LOPES PONTES, Salvador - BA","phone":"7187236471","latitude":-12.9860095,"longitude":-38.4432883,"addressType":"Revendedor"},{"title":"RA BERNADETE AZEVEDO SERRA(4)","address":"RUA DR AUGUSTO LOPES PONTES AP 1404 EDF FIRST TOWER, Salvador - BA","phone":"71988682165","latitude":-12.9825351,"longitude":-38.4414758,"addressType":"Revendedor"},{"title":"RA MARGARIDA MARIA COUTO DIAS(2)","address":"RUA DR CLEMENTE FERREIRA, Salvador - BA","phone":"7199372006","latitude":-12.9936914,"longitude":-38.51816549999999,"addressType":"Revendedor"},{"title":"RA CRISTIANE TEIXEIRA DA SILVA(3)","address":"RUA DR ESTEVES DE ASSIS, Salvador - BA","phone":"7191246087","latitude":-12.9661325,"longitude":-38.482596,"addressType":"Revendedor"},{"title":"RA SOLANGE MARIA PEREIRA  SANTOS (2)","address":"RUA DR. EDSON TEIXEIRA BARBOSA FZ GRANDE II, Salvador - BA","phone":"7188781853","latitude":-12.8996147,"longitude":-38.4012383,"addressType":"Revendedor"},{"title":"RA ALBA ANITA ABADE NOVAES (3)","address":"RUA DR. JOSE PEROBA, Salvador - BA","phone":"7130142733","latitude":-12.9903212,"longitude":-38.4479135,"addressType":"Revendedor"},{"title":"RA VANDECI ROSARIO ABADE V RODRIGUES(06)","address":"RUA E QUADRA E, Salvador - BA","phone":"71987804788","latitude":-12.9021392,"longitude":-38.4367333,"addressType":"Revendedor"},{"title":"RA EVERSON JOSE RODRIGUES(6)","address":"RUA E QUADRA E SETOR 2, Salvador - BA","phone":"71987230623","latitude":-12.8923813,"longitude":-38.4125117,"addressType":"Revendedor"},{"title":"RA VENUSEMAR SILVA ANDRADE(22)","address":"RUA EDGAR SANTOS EDF LAGOA DA FONTE, Salvador - BA","phone":"71988474655","latitude":-12.9595385,"longitude":-38.4508207,"addressType":"Revendedor"},{"title":"RA ELIETE ARAUJO DOS SANTOS (3)","address":"RUA EDUARDO DINIZ GONÇALVES, Salvador - BA","phone":"7188865087","latitude":-13.0075425,"longitude":-38.5261771,"addressType":"Revendedor"},{"title":"RA CLAUDETE OLIVEIRA RIBEIRA 4","address":"RUA ELESBÃO DO CARMO, Salvador - BA","phone":"7193077642","latitude":-12.9821124,"longitude":-38.4377083,"addressType":"Revendedor"},{"title":"RA WALDOMEA SILVA DOS SANTOS (4)","address":"RUA ELISIARIO SILVEIRA ANDRADE BLOCO AP 03, Salvador - BA","phone":"71981327958","latitude":-12.9763908,"longitude":-38.4477001,"addressType":"Revendedor"},{"title":"RA ANA GONÇALVES CALDEIRA(40)","address":"RUA ENGENHEIRO PIMENTA DA CUNHA, Salvador - BA","phone":"71987503802","latitude":-12.9132385,"longitude":-38.4956094,"addressType":"Revendedor"},{"title":"RA LUIZ FERNANDO JESUS DE SOUZA(2)","address":"RUA ESTRADA DA MURICOCA, Salvador - BA","phone":"7186480918","latitude":-12.93486,"longitude":-38.4182234,"addressType":"Revendedor"},{"title":"RA MARIA ZELIA FEITOSA(3)","address":"RUA EUFROSINA MIRANDA, Salvador - BA","phone":"7132334103","latitude":-12.966617,"longitude":-38.4811474,"addressType":"Revendedor"},{"title":"RA ROSANGELA BASTOS OLIVEIRA(02)","address":"RUA EUGENIO RIBEIRO, Salvador - BA","phone":"71996039987","latitude":-12.9618256,"longitude":-38.4406522,"addressType":"Revendedor"},{"title":"RA ANDREA CONCEIÇAO BARBOSA(20)","address":"RUA EULER DE PEREIRA CARDOSO, Salvador - BA","phone":"71987591376","latitude":-12.9353738,"longitude":-38.3369677,"addressType":"Revendedor"},{"title":"RA ANA PAULA DAS NEVES DE JESUS(09)","address":"RUA EULINA SILVA, Salvador - BA","phone":"71986034474","latitude":-12.8872421,"longitude":-38.4301932,"addressType":"Revendedor"},{"title":"RA MARIA AUGUSTA DE SOUZA MOTA(5)","address":"RUA FAZENDA CASSAMGE, Salvador - BA","phone":"7133775732","latitude":-12.9043516,"longitude":-38.361019,"addressType":"Revendedor"},{"title":"RA CLAUDIANE DO CARMO CARVALHO RAMOS(20)","address":"RUA FLOR DO BOSQUE, Salvador - BA","phone":"71985261102","latitude":-12.949552,"longitude":-38.368932,"addressType":"Revendedor"},{"title":"RA SONIA MARILENE SANTOS MORENO(4)","address":"RUA FRANCISCO JORGE, Salvador - BA","phone":"7181085604","latitude":-12.9745046,"longitude":-38.4817237,"addressType":"Revendedor"},{"title":"RA MARINALVA COSTA SILVA(6)","address":"RUA FREDERICO COSTA, Salvador - BA","phone":"71991063585","latitude":-12.8668,"longitude":-38.4763502,"addressType":"Revendedor"},{"title":"RA ROMILSON NERY BISPO(04)","address":"RUA GAGO COUTINHO, Salvador - BA","phone":"71985116916","latitude":-12.9141607,"longitude":-38.336459,"addressType":"Revendedor"},{"title":"RA IVAN BERNADES DIAS(22)","address":"RUA GENERAL SEVERINO FILHO CD SHALO PEDRA DO SAL, Salvador - BA","phone":"71999756995","latitude":-12.9730401,"longitude":-38.502304,"addressType":"Revendedor"},{"title":"RA JUCIDALVA SOUZA DOS SANTOS(3)","address":"RUA GERSON SOUZA, Salvador - BA","phone":"71987353762","latitude":-12.8881713,"longitude":-38.4052252,"addressType":"Revendedor"},{"title":"RA JULIANA PALMA SANTOS CRUZ(61)","address":"RUA GREGORIO BONDAR, Salvador - BA","phone":"71988147126","latitude":-12.9642129,"longitude":-38.4687499,"addressType":"Revendedor"},{"title":"RA CAROLINA DA CRUZ CAMPELO(20)","address":"RUA GUARACAIMA, Salvador - BA","phone":"71992180914","latitude":-12.9500861,"longitude":-38.3767944,"addressType":"Revendedor"},{"title":"RA SANDRA PIRES DE SOUZA PEREIRA(03)","address":"RUA GUILHERME PEDROSA, Salvador - BA","phone":"71988546910","latitude":-12.971749,"longitude":-38.4582723,"addressType":"Revendedor"},{"title":"RA ALESSANDRA OLIVEIRA SANTANA(62)","address":"RUA HELIO MACHADO, Salvador - BA","phone":"71999420504","latitude":-12.9795973,"longitude":-38.4328661,"addressType":"Revendedor"},{"title":"RA RENATA VIEIRA DE LIMA(3)","address":"RUA HORTENSIAS AZUIS, Salvador - BA","phone":"7197292924","latitude":-12.9004611,"longitude":-38.3576293,"addressType":"Revendedor"},{"title":"RA MARINA VASCONCELOS GOMES(22)","address":"RUA ITAPETINGA, Salvador - BA","phone":"71993832020","latitude":-12.9699697,"longitude":-38.4708559,"addressType":"Revendedor"},{"title":"RA YASMIN DE OLIVEIRA BRANDAO(62)","address":"RUA JAGUARAÇY, Salvador - BA","phone":"71985247550","latitude":-12.9759801,"longitude":-38.4275469,"addressType":"Revendedor"},{"title":"RA MARIVALDO LIMA DE OLIVEIRA(40)","address":"RUA JARDIN CASTRO ALVES, Salvador - BA","phone":"71999343657","latitude":-12.9323894,"longitude":-38.5017111,"addressType":"Revendedor"},{"title":"RA MARIJANE BARBOSA DA SILVA (12)","address":"RUA JAUREZ ARAUJO, Salvador - BA","phone":"71991155303","latitude":-12.9444156,"longitude":-38.4556927,"addressType":"Revendedor"},{"title":"RA CRISTINA MARIA DOS SANTOS(62)","address":"RUA JOAO CARLOS SACRAMENTO, Salvador - BA","phone":"71985155095","latitude":-12.9770243,"longitude":-38.4345343,"addressType":"Revendedor"},{"title":"RA SUELY REIS DE AZEVEDO(8)","address":"RUA JOAO DURVAL, Salvador - BA","phone":"7188177625","latitude":-12.9768225,"longitude":-38.4721145,"addressType":"Revendedor"},{"title":"RA MAURENICE BARBOSA SANTOS QUEIROZ-GENI","address":"RUA JOAO GOMES TERREO, Salvador - BA","phone":"71988462057","latitude":-12.9730401,"longitude":-38.502304,"addressType":"Revendedor"},{"title":"RA LARISSA SANTOS DE PINHO(62)","address":"RUA JOAO JOSE RESCALA COND VIVENDAS DO IMBUI, Salvador - BA","phone":"71988524864","latitude":-12.9657005,"longitude":-38.4316207,"addressType":"Revendedor"},{"title":"RA LORENA ANDRADE BARRETO SILVA(4)","address":"RUA JOAO MENDES DA COSTA FILHO, Salvador - BA","phone":"71999298085","latitude":-12.9939687,"longitude":-38.4418617,"addressType":"Revendedor"},{"title":"RA MARIA CRISTINA SANTOS CONCEIÇÃO(02)","address":"RUA JOR ARMANDO LOBRACCI NETO, Salvador - BA","phone":"7188835166","latitude":-12.9730401,"longitude":-38.502304,"addressType":"Revendedor"},{"title":"RA CAMILA SOUZA DE OLIVEIRA(6)","address":"RUA JORGE LEAL GONÇALVES, Salvador - BA","phone":"7192572828","latitude":-12.9217379,"longitude":-38.5001895,"addressType":"Revendedor"},{"title":"RA SIMONE SANTOS DA CONCEIÇAO HAGE(5)","address":"RUA JORNALISTA ARMANDO LOBRACCI NETO QUADRA F, Salvador - BA","phone":"71982259694","latitude":-12.9730401,"longitude":-38.502304,"addressType":"Revendedor"},{"title":"RA JOILSON CORREIA SOARES(02)","address":"RUA JOSE ALVES, Salvador - BA","phone":"71981896148","latitude":-12.9374309,"longitude":-38.3563461,"addressType":"Revendedor"},{"title":"RA ANDRE CONCEICAO SANTOS(05)","address":"RUA JOSE JOAQUIM SEABRA, Salvador - BA","phone":"71987802260","latitude":-12.9732492,"longitude":-38.50753,"addressType":"Revendedor"},{"title":"RA MARIA AUXILIADORA DOS SANTOS(25)","address":"RUA JOSE LOBO, Salvador - BA","phone":"71982280433","latitude":-12.9324746,"longitude":-38.4379415,"addressType":"Revendedor"},{"title":"RA RIVANILDA CONCEIÇÃO DE ARAUJO(3)","address":"RUA JOSE MARIZ PINTO, Salvador - BA","phone":"71988436848","latitude":-12.9597449,"longitude":-38.4964134,"addressType":"Revendedor"},{"title":"RA ANITA GRAZIELE BARBOSA(6)","address":"RUA JUAZEIRO, Salvador - BA","phone":"7186223968","latitude":-12.9439704,"longitude":-38.3712575,"addressType":"Revendedor"},{"title":"RA MANUELA TELLES ESTRELA(6)","address":"RUA LADEIRA VINTE E QUATRO DE JUNHO CASA 06 E, Salvador - BA","phone":"7133833463","latitude":-12.9730401,"longitude":-38.502304,"addressType":"Revendedor"},{"title":"RA EDELSUITO PESSOA DE SOUZA(20)","address":"RUA LESTE I, Salvador - BA","phone":"71987894819","latitude":-12.9282105,"longitude":-38.43833619999999,"addressType":"Revendedor"},{"title":"RA ELIDON RODRIGUES DIAS(22)","address":"RUA LIDIO DOS SANTOS, Salvador - BA","phone":"71996476540","latitude":-12.941209,"longitude":-38.482595,"addressType":"Revendedor"},{"title":"RA MARIA HELENA SILVA DE FREITAS(62)","address":"RUA LOURENÇO RIBEIRO DA ROCHA, Salvador - BA","phone":"71988336759","latitude":-12.9773864,"longitude":-38.4332283,"addressType":"Revendedor"},{"title":"RA MARIA DO CARMO SANTOS(61)","address":"RUA LUCIO MANOEL DA HORA, Salvador - BA","phone":"71983638574","latitude":-12.9762227,"longitude":-38.4307282,"addressType":"Revendedor"},{"title":"RA DEISE MATOS DE CARVALHO(40)","address":"RUA LUIZ REGIS PACHECO CASA TERREO, Salvador - BA","phone":"71991618927","latitude":-12.9730401,"longitude":-38.502304,"addressType":"Revendedor"},{"title":"RA CATIA DOS SANTOS GONÇALVES(5)","address":"RUA MANGABEIRA, Salvador - BA","phone":"7186182941","latitude":-12.970339,"longitude":-38.420658,"addressType":"Revendedor"},{"title":"RA ADRIANA DA SILVA DOS SANTOS 4","address":"RUA MANOEL ANDRADE EDF LUIZ TOURINO, Salvador - BA","phone":"7187599032","latitude":-12.9730401,"longitude":-38.502304,"addressType":"Revendedor"},{"title":"RA MAITE VICTORIA LAGOS(62)","address":"RUA MANOEL GOMES FERREIRA  CONJUNTO GUILHERME MARBACK, Salvador - BA","phone":"71992537324","latitude":-12.9730401,"longitude":-38.502304,"addressType":"Revendedor"},{"title":"RA ANTONIA ALVES BATISTA(5)","address":"RUA MANOEL SALES QUADRA 6, Salvador - BA","phone":"7132880059","latitude":-12.8993102,"longitude":-38.3392011,"addressType":"Revendedor"},{"title":"RA SILVANA MARIA GOMES SILVA(GENI)","address":"RUA MARANHAO EDF MANSAO VELA BRANCA, Salvador - BA","phone":"71996433803","latitude":-13.0068261,"longitude":-38.4655433,"addressType":"Revendedor"},{"title":"RA AMANDA SOUZA RIOS(40)","address":"RUA MARECHAL TEIXEIRA, Salvador - BA","phone":"#null","latitude":-12.9352121,"longitude":-38.49752720000001,"addressType":"Revendedor"},{"title":"RA ANTONIA LEAL DOS SANTOS(40)","address":"RUA MARECHAL TEIXEIRA LOOTT, Salvador - BA","phone":"7132077927","latitude":-12.9730401,"longitude":-38.502304,"addressType":"Revendedor"},{"title":"RA LUCAS GABRIEL MONTENEGRO LIMA (40)","address":"RUA MARECHAL TEIXEIRA LOTT, Salvador - BA","phone":"71993784505","latitude":-12.9730401,"longitude":-38.502304,"addressType":"Revendedor"},{"title":"RA MARILENE DAMACENA DE MORAES(21)","address":"RUA MARINALVA GONCALVES, Salvador - BA","phone":"71987987699","latitude":-12.9730401,"longitude":-38.502304,"addressType":"Revendedor"},{"title":"RA DANIELA FERNANDES DA S SANTOS(2)","address":"RUA MARTACENIA, Salvador - BA","phone":"7199100939","latitude":-12.8951428,"longitude":-38.4325684,"addressType":"Revendedor"},{"title":"RA MARIA ELIANE DE JESUS(6)","address":"RUA MINISTRO APOLONIO SALES, Salvador - BA","phone":"71992045079","latitude":-12.8933609,"longitude":-38.4112833,"addressType":"Revendedor"},{"title":"RA ANA CRISTINA DOS REIS MATOS (3)","address":"RUA MONTE PIO, Salvador - BA","phone":"7187938966","latitude":-12.9296181,"longitude":-38.4738068,"addressType":"Revendedor"},{"title":"RA MARIZETE ROCHA SANTOS(8)","address":"RUA PAULO AFONSO BAQUEIRO, Salvador - BA","phone":"71984055972","latitude":-12.9384578,"longitude":-38.3588932,"addressType":"Revendedor"},{"title":"RA JEFERSON REIS DA SILVA(09)","address":"RUA PAULO AFONSO BAQUEIRO, Salvador - BA","phone":"71982014232","latitude":-12.9384578,"longitude":-38.3588932,"addressType":"Revendedor"},{"title":"RA RAIMUNDO SOTERO DE ASSIS(22)","address":"RUA MONTE SINAI, Salvador - BA","phone":"71986668793","latitude":-12.9237554,"longitude":-38.4729307,"addressType":"Revendedor"},{"title":"RA VIVIANE DE JESUS NUNES(06)","address":"RUA NOSSA SENHORA AUXILIADORA, Salvador - BA","phone":"71987436810","latitude":-12.9254861,"longitude":-38.446878,"addressType":"Revendedor"},{"title":"RA GEONICE SANTANA PRATA(6)","address":"RUA NOVA CIDADE II CONJUNTO NOVA CIDADE, Salvador - BA","phone":"71993533390","latitude":-12.9730401,"longitude":-38.502304,"addressType":"Revendedor"},{"title":"RA URANIA NASCIMENTO SILVEIRA(05)","address":"RUA NOVA DE PIRAJA, Salvador - BA","phone":"71999845109","latitude":-12.9159673,"longitude":-38.4237926,"addressType":"Revendedor"},{"title":"RA LARISSA NERY FONTANA(20)","address":"RUA NOVO PARAISO, Salvador - BA","phone":"71996736292","latitude":-12.98113,"longitude":-38.4361941,"addressType":"Revendedor"},{"title":"RA LUCIMEIRE DOS SANTOS DE JESUS(6)","address":"RUA OESTE, Salvador - BA","phone":"7185244798","latitude":-12.9074456,"longitude":-38.367932,"addressType":"Revendedor"},{"title":"RA CARLOS ALBERTO ROCHA GOMES(40)","address":"RUA OSCAR CARRASCOSA EDF ELISA TEIXEIRA, Salvador - BA","phone":"71993832517","latitude":-12.9730401,"longitude":-38.502304,"addressType":"Revendedor"},{"title":"RA MARILIA DULCICIA SA SANTANA(4)","address":"RUA OTACILIO SANTOS 241 APT 801 ED ROYAL PARQUE, Salvador - BA","phone":"71999711096","latitude":-12.9730401,"longitude":-38.502304,"addressType":"Revendedor"},{"title":"RA JOSENILDA NASCIMENTO DOS SANTOS(06)","address":"RUA PACIFICO PEREIRA, Salvador - BA","phone":"71986698631","latitude":-12.9910752,"longitude":-38.5145044,"addressType":"Revendedor"},{"title":"RA ANA CINTIA EVANGELISTA DOSSANTOS(3)","address":"RUA PADRE ANTONIO VIEIRA, Salvador - BA","phone":"7187374083","latitude":-12.9279922,"longitude":-38.4832177,"addressType":"Revendedor"},{"title":"RA AGENITA NASCIMENTO SOUZA SANTOS (3)","address":"RUA PAISSANDU, Salvador - BA","phone":"7133980896","latitude":-12.8949888,"longitude":-38.4874491,"addressType":"Revendedor"},{"title":"RA MARTA NASCIMENTO SANTANA(12)","address":"RUA PARAIBA, Salvador - BA","phone":"71993555603","latitude":-12.9488979,"longitude":-38.4497435,"addressType":"Revendedor"},{"title":"RA IDALIA OLIVEIRA DE SOUZA DOS SANTO(6)","address":"RUA PAULO AFONSO, Salvador - BA","phone":"75998061918","latitude":-12.9945803,"longitude":-38.4825559,"addressType":"Revendedor"},{"title":"RA SAIONARA SANTOS LIMA GOMES(05)","address":"RUA PLANALTO VERDE, Salvador - BA","phone":"71985027504","latitude":-12.9107646,"longitude":-38.3783962,"addressType":"Revendedor"},{"title":"RA JOSELICE BISPO DOS SANTOS(40)","address":"RUA PRIMEIRO DE NOVEMBRO, Salvador - BA","phone":"71988824979","latitude":-12.9398613,"longitude":-38.3603887,"addressType":"Revendedor"},{"title":"RA MARIA APARECIDA BOMFIM LAGO 4","address":"RUA PROF CASSILANDRO BARBUDA, Salvador - BA","phone":"7199816670","latitude":-12.9918132,"longitude":-38.446625,"addressType":"Revendedor"},{"title":"RA ALCELINA SEABRA RIBEIRO(8)","address":"RUA PROFESSOR ARTUR MACEDO EDF IOLANDA APT 301, Salvador - BA","phone":"7188710660","latitude":-12.9730401,"longitude":-38.502304,"addressType":"Revendedor"},{"title":"RA LILIAN LESLYE ARAUJO MORAES BISPO(4)","address":"RUA PROFESSOR AUGUSTO MACHADO COND PRAIA DA PITUBA BLOCO A, Salvador - BA","phone":"71992567628","latitude":-13.0099038,"longitude":-38.4660483,"addressType":"Revendedor"},{"title":"RA SUELI BONFIM LAGO(4)","address":"RUA PROFESSOR CASSILANDRO BARBUDA, Salvador - BA","phone":"71999727352","latitude":-12.9918132,"longitude":-38.446625,"addressType":"Revendedor"},{"title":"RA ALCILEIDE ALMEIDA DE FREITAS(GENI)","address":"RUA PROFESSORA ROMULO ALMEIDA, Salvador - BA","phone":"71992322187","latitude":-12.9949742,"longitude":-38.4906256,"addressType":"Revendedor"},{"title":"RA FRANSCILENE FABIANE GOES OLIVEIRA(22)","address":"RUA QUATRO DE SETEMBRO, Salvador - BA","phone":"71986421922","latitude":-12.9634696,"longitude":-38.4800149,"addressType":"Revendedor"},{"title":"RA BRUNA SILVA DA SILVA(3)","address":"RUA RODOVIA A, Salvador - BA","phone":"7187274791","latitude":-12.9251744,"longitude":-38.4760243,"addressType":"Revendedor"},{"title":"RA LUZINETE PEREIRA SALA(40)","address":"RUA RUBENS GUELLE, Salvador - BA","phone":"71992812218","latitude":-12.9952128,"longitude":-38.4710779,"addressType":"Revendedor"},{"title":"RA MARIETA SANTOS BARRETO(03)","address":"RUA SALDANHA MARINHO, Salvador - BA","phone":"71999659212","latitude":-12.957403,"longitude":-38.4934744,"addressType":"Revendedor"},{"title":"RA AILDA LOPES DE ALMEIDA(62)","address":"RUA SANTA IZABEL ATUAL PAULO AFONSO, Salvador - BA","phone":"71987625911","latitude":-12.9730401,"longitude":-38.502304,"addressType":"Revendedor"},{"title":"RA MARIA ALICE DE JESUS SOARES SILVA(21)","address":"RUA SAO CRISTOVAO, Salvador - BA","phone":"71986640596","latitude":-12.9016981,"longitude":-38.3461817,"addressType":"Revendedor"},{"title":"RA RAQUEL DA CONCEIÇAO RIBEIRO(04)","address":"RUA SAO JOSE, Salvador - BA","phone":"71991300549","latitude":-12.9165553,"longitude":-38.4709,"addressType":"Revendedor"},{"title":"RA PAULO VINICIUS DE SOUZA(2)","address":"RUA SEGUNDO BARREIRO, Salvador - BA","phone":"7187847419","latitude":-12.9271417,"longitude":-38.512481,"addressType":"Revendedor"},{"title":"RA NAIARA NASCIMENTO PEREIRA(02)","address":"RUA SETOR C CAMINHO, Salvador - BA","phone":"7187162334","latitude":-12.9197939,"longitude":-38.3714788,"addressType":"Revendedor"},{"title":"RA JEANE GONÇALVES DE OLIVEIRA(40)","address":"RUA SILVEIRA MARTINS, Salvador - BA","phone":"71991764621","latitude":-12.9575121,"longitude":-38.45439710000001,"addressType":"Revendedor"},{"title":"RA MARCIA CRUZ DE SOUZA GAZZINELLI(03)","address":"RUA SILVEIRA MARTINS EDF. VIVENDAS DOS LIRIOS, Salvador - BA","phone":"71999640049","latitude":-12.9730401,"longitude":-38.502304,"addressType":"Revendedor"},{"title":"RA JULIO CESAR SILVA DO ROSARIO 4","address":"RUA SIMAO SANTOS ESTRELADO, Salvador - BA","phone":"7186249356","latitude":-12.9759254,"longitude":-38.4345413,"addressType":"Revendedor"},{"title":"RA EDER REIS DOS SANTOS(3)","address":"RUA SIMAO SOBRAL, Salvador - BA","phone":"7187702128","latitude":-12.9248851,"longitude":-38.4948625,"addressType":"Revendedor"},{"title":"RA REGINA MARCIA SANTOS CORDEIRO(02)","address":"RUA SOUZA CANEIRO, Salvador - BA","phone":"71991919282","latitude":-12.9696003,"longitude":-38.4656515,"addressType":"Revendedor"},{"title":"RA JESSICA DA SILVA PINHEIRO(3)","address":"RUA SOUZA CORREIA, Salvador - BA","phone":"7188624564","latitude":-12.8817165,"longitude":-38.4071,"addressType":"Revendedor"},{"title":"RA ROSANA SANTOS SALES(04)","address":"RUA SUCUPIRA, Salvador - BA","phone":"71988756109","latitude":-13.0034026,"longitude":-38.4748288,"addressType":"Revendedor"},{"title":"RA EVANILZA SANTOS FIGUEREDO(6)","address":"RUA TEIXEIRA DE BARROS COND MIRANTE DO CANDEAL, Salvador - BA","phone":"7199453505","latitude":-12.9867519,"longitude":-38.4730709,"addressType":"Revendedor"},{"title":"RA SCHEILA SANTOS BATISTA(5)","address":"RUA TRES DE MAIO, Salvador - BA","phone":"7197059017","latitude":-12.9514016,"longitude":-38.4961975,"addressType":"Revendedor"},{"title":"RA ZENAIDE DE SOUZA TEIXEIRA(27)","address":"RUA TRES DE MAIO, Salvador - BA","phone":"71991650727","latitude":-12.9514016,"longitude":-38.4961975,"addressType":"Revendedor"},{"title":"RA ELENIRA SILVA MONTEIRO(03)","address":"RUA TENENTE ARAGAO, Salvador - BA","phone":"71988911426","latitude":-12.8866276,"longitude":-38.4841543,"addressType":"Revendedor"},{"title":"RA ELANE DOS REIS ROCHA(21)","address":"SEGUNDA TRAVESSA GERALDO MARTINS, Salvador - BA","phone":"71984160264","latitude":-12.9304825,"longitude":-38.4477537,"addressType":"Revendedor"},{"title":"RA NELMA DOS SANTOS(21)","address":"SEGUNDA TRAVESSA GERALDO MARTINS, Salvador - BA","phone":"7133061350","latitude":-12.9304825,"longitude":-38.4477537,"addressType":"Revendedor"},{"title":"RA CLEIDE SILVA REIS(21)","address":"SEGUNDA TRAVESSA GERALDO MARTINS, Salvador - BA","phone":"71987789877","latitude":-12.9304825,"longitude":-38.4477537,"addressType":"Revendedor"},{"title":"RA JACIRA BATISTA(22)","address":"RUA VIA COLETORA B, Salvador - BA","phone":"71987615205","latitude":-12.8946611,"longitude":-38.3923617,"addressType":"Revendedor"},{"title":"RA REBECA THAIS DE OLIVEIRA REIS(03)","address":"RUA VILA GRACA, Salvador - BA","phone":"71983936164","latitude":-12.9542895,"longitude":-38.4971016,"addressType":"Revendedor"},{"title":"RA EDNALVA SANTOS BOAVENTURA(22)","address":"RUA VINTE DE AGOSTO, Salvador - BA","phone":"7133912231","latitude":-12.9609425,"longitude":-38.4844185,"addressType":"Revendedor"},{"title":"RA MARIA DE FATIMA DOS SANTOS PERIRA(62)","address":"RUA VINTE QUATRO DE JUNHO, Salvador - BA","phone":"71986213521","latitude":-12.9609399,"longitude":-38.4853368,"addressType":"Revendedor"},{"title":"RA DEURAYDIS TELES GARCIA (2","address":"RUA VISCONDE DE ITABORAHY, Salvador - BA","phone":"7130336744","latitude":-13.0129221,"longitude":-38.4737774,"addressType":"Revendedor"},{"title":"RA MARCOS MENEZES DALTRO(22)","address":"RUA VITORINO ALVES MOITINHO, Salvador - BA","phone":"71987235202","latitude":-12.9036409,"longitude":-38.4409368,"addressType":"Revendedor"},{"title":"RA CAMILA FRANQUETTO DE OLIVEIRA(23)","address":"RUA WALDEMAR FALÇÃO, Salvador - BA","phone":"71987513504","latitude":-12.9992537,"longitude":-38.4884406,"addressType":"Revendedor"},{"title":"RA INGRID ALBANA DOS SANTOS(20)","address":"RUA XANGO, Salvador - BA","phone":"71987781699","latitude":-12.9368783,"longitude":-38.3617571,"addressType":"Revendedor"},{"title":"RA LARISSA DA SILVA BONFIM RODRIGUES(22)","address":"RUE PEDRA DA MARCA, Salvador - BA","phone":"71999540511","latitude":-13.0067045,"longitude":-38.4963856,"addressType":"Revendedor"},{"title":"RA LUCAS FREITAS(2)","address":"SETOR C CAMINHO 02, Salvador - BA","phone":"71982986643","latitude":-12.8973318,"longitude":-38.4073581,"addressType":"Revendedor"},{"title":"RA JERUSA E. S.PEREIRA DE OLIVEIRA (2)","address":"SETOR C CAMINHO 2, Salvador - BA","phone":"7187275841","latitude":-12.8973318,"longitude":-38.4073581,"addressType":"Revendedor"},{"title":"RA TARCILIA SOARES DA CRUZ (2)","address":"SETOR C RUA C CAMINHO 2, Salvador - BA","phone":"7185107489","latitude":-12.919722,"longitude":-38.3718978,"addressType":"Revendedor"},{"title":"RA ANDREA MARIA PEREIRA DO CARMO(21)","address":"TERCEIRA TRAVESSA GERALDO MARTINS, Salvador - BA","phone":"71986447616","latitude":-12.9304825,"longitude":-38.4477537,"addressType":"Revendedor"},{"title":"RA ROSA MARIA LIMA PORTO(4)","address":"TRAV CAMPO PITANGA CASA QUADRA 4, Salvador - BA","phone":"71991981496","latitude":-12.9730401,"longitude":-38.502304,"addressType":"Revendedor"},{"title":"RA ANA CLAUDIA PEREIRA COSTA(12)","address":"TRAV SANTA LUZIA, Salvador - BA","phone":"71986124238","latitude":-12.8635513,"longitude":-38.4748526,"addressType":"Revendedor"},{"title":"RA MARCIO SILVA DAS MERCES(04)","address":"TRAVESSA ANFILOFIO DOS SANTOS FRANCA, Salvador - BA","phone":"71996571447","latitude":-12.9730401,"longitude":-38.502304,"addressType":"Revendedor"},{"title":"RA CATIA CELESTE AMARAL  SANTOS LIMA(21)","address":"TRAVESSA DEUS MENINO, Salvador - BA","phone":"71984018771","latitude":-12.9140988,"longitude":-38.4676564,"addressType":"Revendedor"},{"title":"RA HAMILTON DE JESUS PASSOS(40)","address":"TRAVESSA JEQUITIBA, Salvador - BA","phone":"71988690716","latitude":-12.9353255,"longitude":-38.495746,"addressType":"Revendedor"},{"title":"RA JACKELINE CABRAL CARDOSO(2)","address":"TRAVESSA JUCARA, Salvador - BA","phone":"71986358355","latitude":-12.9199496,"longitude":-38.4990917,"addressType":"Revendedor"},{"title":"RA KARLA OLIVEIRA FERNANDES(5)","address":"TRAVESSA MANOEL RANGEL, Salvador - BA","phone":"7592687648","latitude":-13.0098771,"longitude":-38.5028371,"addressType":"Revendedor"},{"title":"RA BALBINA DOS SANTOS QUEIROZ(12)","address":"TRAVESSA NOVO PARAISO, Salvador - BA","phone":"71992603008","latitude":-12.9777205,"longitude":-38.4390922,"addressType":"Revendedor"},{"title":"RA ANA MARCIA PEREIRA DE ALMEIDA","address":"TRAVESSA ONZE DE MAIO, Salvador - BA","phone":"71986578786","latitude":-12.908636,"longitude":-38.4433216,"addressType":"Revendedor"},{"title":"RA JOSEFA DE JESUS SANTOS(20)","address":"TRAVESSA PALAME, Salvador - BA","phone":"71991111632","latitude":-12.9484664,"longitude":-38.3681037,"addressType":"Revendedor"},{"title":"RA VANDA PEREIRA LISBOA(62)","address":"TRAVESSA PEDRA DA MARCA, Salvador - BA","phone":"71996680102","latitude":-13.0067543,"longitude":-38.4969186,"addressType":"Revendedor"},{"title":"RA NEIDE CERQUEIRA GONZAGA(02)","address":"TRAVESSA PIO DUARTE MENDES, Salvador - BA","phone":"71987063997","latitude":-12.9472194,"longitude":-38.47616439999999,"addressType":"Revendedor"},{"title":"RA MARIA CLEIDE DA CONCEICAO(22)","address":"TRAVESSA SANTOS DUMONT, Salvador - BA","phone":"71988387427","latitude":-12.8964105,"longitude":-38.4393633,"addressType":"Revendedor"},{"title":"RA CRISTINA ROCHA DA SILVA(42)","address":"TRAVESSA SAO CRISTOVAO, Salvador - BA","phone":"71987085670","latitude":-12.9039675,"longitude":-38.3447433,"addressType":"Revendedor"},{"title":"RA ANGELA LIMA DO NASCIMENTO(8)","address":"TRAVESSA SERGIO DE CARVALHO, Salvador - BA","phone":"7188429034","latitude":-12.9972044,"longitude":-38.4968886,"addressType":"Revendedor"},{"title":"RA JORGE DOS SANTOS BONFIM(16)","address":"TRAVESSA SILVANI FERREIRA SANTOS, Salvador - BA","phone":"7197104389","latitude":-12.9730401,"longitude":-38.502304,"addressType":"Revendedor"},{"title":"RA CAROLAINY FERREIRA DA SILVA(09)","address":"TRAVESSA SRA DAS GRACAS, Salvador - BA","phone":"71991105590","latitude":-12.9340493,"longitude":-38.4415377,"addressType":"Revendedor"},{"title":"RA ANA LUCIA DO CARMO DOS SANTOS(25)","address":"TRAVESSA TRES DALVA SANTOS DE ARAUJO, Salvador - BA","phone":"71983232309","latitude":-12.9730401,"longitude":-38.502304,"addressType":"Revendedor"},{"title":"RA DENISE MONTEIRO PAIXAO (3)","address":"av josias guimaraes, Salvador - BA","phone":"7187038224","latitude":-12.9222439,"longitude":-38.4848591,"addressType":"Revendedor"},{"title":"RA BRUNA ATHAYDE","address":"av silveira martins, Salvador - BA","phone":"7187428247","latitude":-12.9575121,"longitude":-38.45439710000001,"addressType":"Revendedor"},{"title":"RA HERLIENE RODRIGUES BANDEIRA (3)","address":"rua manoel mario de lima, Salvador - BA","phone":"7132418543","latitude":-12.9585535,"longitude":-38.4971443,"addressType":"Revendedor"},{"title":"RA MARIA DE FATIMA DOS SANTOS BRITO(3)","address":"RUA MANOEL NONATO, Santa Inês - BA","phone":"7381990906","latitude":-13.2899691,"longitude":-39.8218718,"addressType":"Revendedor"},{"title":"RA LUCIANA DOS SANTOS DANTAS(03)","address":"RUA PEDRO BARBOSA NETO, Santa Inês - BA","phone":"73981523293","latitude":-13.2835864,"longitude":-39.8228947,"addressType":"Revendedor"},{"title":"RA RAQUEL XAVIER(2)","address":"CONDOMINIO LESTE, Senhor do Bonfim - BA","phone":"7491416469","latitude":-10.459783,"longitude":-40.1868956,"addressType":"Revendedor"},{"title":"RA CLEMILDA DE MATTOS DOS SANTOS(3)","address":"PRACA DO ILHOTE, São Francisco do Conde - BA","phone":"71988192875","latitude":-12.6187909,"longitude":-38.6789542,"addressType":"Revendedor"},{"title":"RA PATRICIA PEREIRA DOS SANTOS (3)","address":"RUA DA MANGUEIRA, São Francisco do Conde - BA","phone":"7136512711","latitude":-12.6032433,"longitude":-38.6830823,"addressType":"Revendedor"},{"title":"RA SIRLEUDA DA COSTA RODRIGUES(02)","address":"RUA CURITIBA, Teixeira de Freitas - BA","phone":"73981487674","latitude":-17.5316047,"longitude":-39.7446394,"addressType":"Revendedor"},{"title":"RA LEILIANE SILVA SANTOS(4)","address":"RUA IDELFONSIO GONCALVES DOS ANJOS, Tucano - BA","phone":"71991438116","latitude":-10.9588221,"longitude":-38.789759,"addressType":"Revendedor"},{"title":"RA MARIA HELENA ROCHA AMARAL 3","address":"RUA EMIDIO RAMOS, Ubaíra - BA","phone":"7588714173","latitude":-13.2656523,"longitude":-39.6616121,"addressType":"Revendedor"},{"title":"RA SOLANGE DA SILVA SOUZA OLIVEIRA 11","address":"RUA HENRIQUE HAINE, Utinga - BA","phone":"7588342341","latitude":-12.0839768,"longitude":-41.0993158,"addressType":"Revendedor"},{"title":"RA LUZINEIDE FERNANDES DOS S COSTA(11)","address":"RUA MANOEL NOVAES, Utinga - BA","phone":"71988089851","latitude":-12.0817885,"longitude":-41.0964898,"addressType":"Revendedor"},{"title":"RA IZAILDES ARAUJO BARRETO(8)","address":"RUA GETULIO VARGAS, Valente - BA","phone":"7581233907","latitude":-11.4092453,"longitude":-39.46114660000001,"addressType":"Revendedor"},{"title":"RA BIANCA SACRAMENTO COUTINHO(3)","address":"RUA PADRE SOUZA, Valença - BA","phone":"7588380985","latitude":-13.370017,"longitude":-39.0720559,"addressType":"Revendedor"},{"title":"RA CLICIA MOREIRA BAPTISTA (3)","address":"URBIS V, Vitória da Conquista - BA","phone":"7188447186","latitude":-14.8438269,"longitude":-40.8753309,"addressType":"Revendedor"},{"title":"RA MARIA GRASIELLE PEREIRA(2)","address":"RUA OTAVIANO SANTOS LISBOA, Wenceslau Guimarães - BA","phone":"7399926951","latitude":-13.6813009,"longitude":-39.4765999,"addressType":"Revendedor"},{"title":"RA JOIARA DE SOUZA CAMPOS(3)","address":"RUA DA MATERNIDADE, Xique-Xique - BA","phone":"7499793379","latitude":-10.8234025,"longitude":-42.7259588,"addressType":"Revendedor"},{"title":"RA NAGELA MARIA QUEIROZ MOURA(03)","address":"RUA TENENTE RAMA, Fortaleza - CE","phone":"85994560655","latitude":-3.7675015,"longitude":-38.5133246,"addressType":"Revendedor"},{"title":"RA JARDANIA QUEIROZ DE SOUZA(06)","address":"RUA JACKSON LUIZ BAGRA, Milhã - CE","phone":"88996607123","latitude":-5.672919299999999,"longitude":-39.1878338,"addressType":"Revendedor"},{"title":"RA GRACIELA BRANDAO DA SILVA(22)","address":"RUACEL ANTONIO MARINS, Cachoeiro de Itapemirim - ES","phone":"28999880280","latitude":-20.8467047,"longitude":-41.1202199,"addressType":"Revendedor"},{"title":"RA ROSEANA DE TOLEDO FERREIRA SILVA(22)","address":"RODOVIA SAFRA MARATAISES, Itapemirim - ES","phone":"28992514905","latitude":-21.0459273,"longitude":-40.8393756,"addressType":"Revendedor"},{"title":"RA MARIA LUCIA PERUCHI (6)","address":"AVENIDA NOVE DE AGOSTO, Jaguaré - ES","phone":"2737691236","latitude":-18.9060169,"longitude":-40.073159,"addressType":"Revendedor"},{"title":"RA LETICIA DE ASSIS KUSTER PETERLI(2)","address":"RUA ELIZABETH MINETE PERIM, Venda Nova do Imigrante - ES","phone":"28999399993","latitude":-20.3275068,"longitude":-41.1359347,"addressType":"Revendedor"},{"title":"RA CEMARA PEREIRA DA SILVA(2)","address":"RUA DA FRATERNIDADE QD 66 LT 08, Alto Paraíso de Goiás - GO","phone":"624461954","latitude":-14.1346343,"longitude":-47.52159469999999,"addressType":"Revendedor"},{"title":"RA FRANCISCA REIS DE ARRAIS (6)","address":"RUA PRINCIPAL, Governador Archer - MA","phone":"9982063247","latitude":-5.031869299999999,"longitude":-44.1748083,"addressType":"Revendedor"},{"title":"RA WAGNAR MARQUES COSTA(06)","address":"RUA FREI HERALDO, Pio XII - MA","phone":"98991150015","latitude":-3.8956058,"longitude":-45.1666831,"addressType":"Revendedor"},{"title":"RA PATRICIA FREIRE(2)","address":"TRAV. AGRARIO CAVALCANTE, Altamira - PA","phone":"9398122634","latitude":-3.206875,"longitude":-52.2139532,"addressType":"Revendedor"},{"title":"RA MIRIAM SALES NOVAIS(03)","address":"AVENIDA RIO DE JANEIRO, Curionópolis - PA","phone":"62998074118","latitude":-6.0948756,"longitude":-49.60364819999999,"addressType":"Revendedor"},{"title":"RA RAIANY LIMA DE SOUSA(03)","address":"AV DUQUE DE CAXIAS, São Domingos do Araguaia - PA","phone":"94992085835","latitude":-5.5447033,"longitude":-48.7313363,"addressType":"Revendedor"},{"title":"RA BARTOLOMEU RIBEIRO SOARES FILHO(06)","address":"RUA MARIA DO SOCORRO CADENA, Teresina - PI","phone":"86994639718","latitude":-5.044685299999999,"longitude":-42.7662325,"addressType":"Revendedor"},{"title":"RA CAMILA FERNANDA PEREIRA SANTOS(03)","address":"RUA DEZESSETE, Angra dos Reis - RJ","phone":"24998325303","latitude":-22.9809408,"longitude":-44.290543,"addressType":"Revendedor"},{"title":"RA JEYSA DA SILVA CABRAL(61)","address":"ESTRADA DA POSSE, Rio de Janeiro - RJ","phone":"21993970402","latitude":-22.8781035,"longitude":-43.5361959,"addressType":"Revendedor"},{"title":"RA SIMONE DE SOUSQA FERREIRA(61)","address":"RUA EIMA, Rio de Janeiro - RJ","phone":"07199113370","latitude":-22.8460644,"longitude":-43.3175726,"addressType":"Revendedor"},{"title":"RA MILENA EVA ZANCHITTIN (6)","address":"AVENIDA MOREIRA PAZ, Vacaria - RS","phone":"54996547085","latitude":-28.5158965,"longitude":-50.9343632,"addressType":"Revendedor"},{"title":"RA LUCIANI BUNN HUBER (06)","address":"AVENIDA MARECHAL FLORIANO, Lages - SC","phone":"49998665114","latitude":-27.8228115,"longitude":-50.333596,"addressType":"Revendedor"},{"title":"RA TATIANA A RODRIGUES SILVA(2)","address":"OLEGARIO MARIANO, Lages - SC","phone":"4988373788","latitude":-27.7974544,"longitude":-50.3094282,"addressType":"Revendedor"},{"title":"RA GIVANEIDE SOUSA BISPO LIMA(06)","address":"RUA DEZ CONJ FERNANDO COLLOR, Nossa Senhora do Socorro - SE","phone":"79988731829","latitude":-10.8531643,"longitude":-37.1269791,"addressType":"Revendedor"},{"title":"RA YANNE MOREIRA NASCIMENTO(2)","address":"SUL AVENIDA, Palmas - TO","phone":"63999430143","latitude":-10.3447781,"longitude":-48.2998294,"addressType":"Revendedor"},{"title":"RA GLACINEIDE BARRETO DONATO ALCANTARA","address":"PRACA DR JOAO BORGES, Brotas de Macaúbas - BA","phone":"7736442167","latitude":-11.9984661,"longitude":-42.6267439,"addressType":"Revendedor"},{"title":"RA ADMA TAINARA NOGUEIRA SANTOS","address":"RUA BELMONTE, Feira de Santana - BA","phone":"7591423711","latitude":-12.2597272,"longitude":-38.9646608,"addressType":"Revendedor"},{"title":"RA EDIMAURA SANTANA DA SILVA","address":"RUA CALAMAR CONDOMINIO VILA VIDA TOUR EDIFICIO AMARALIS APT 201, Feira de Santana - BA","phone":"7599820727","latitude":-12.2597272,"longitude":-38.9646608,"addressType":"Revendedor"},{"title":"RA JUCILENE GOMES SANTOS","address":"RUA CATUCAIA, Feira de Santana - BA","phone":"7583412932","latitude":-12.2327332,"longitude":-38.9239478,"addressType":"Revendedor"},{"title":"RA ELIONAI ELLEN DE FRANÇA SANTOS FERREI","address":"RUA DR MACARIU CERQUEIRA, Feira de Santana - BA","phone":"7591764876","latitude":-12.2694506,"longitude":-38.9710767,"addressType":"Revendedor"},{"title":"RA   ELIENE FREIRE PEREIRA","address":"RUA ARTUR DINIZ VELOSO, Jacobina - BA","phone":"7488050715","latitude":-11.1852846,"longitude":-40.5143758,"addressType":"Revendedor"},{"title":"RA EMILIANE DE JESUS SILVA","address":"rua jacirandi, Feira de Santana - BA","phone":"7536144580","latitude":-12.2166578,"longitude":-38.988339,"addressType":"Revendedor"},{"title":"RA JOSERILDES BORGES SOARES","address":"RUA RUY BARBOSA, Ipirá - BA","phone":"7532541414","latitude":-12.1609588,"longitude":-39.7382463,"addressType":"Revendedor"},{"title":"RA ROSEMARA DE FREITAS DOS SANTOS","address":"RUA ANTONIO EMENEGILDO DE FREITAS, Irará - BA","phone":"7131014455","latitude":-12.0459549,"longitude":-38.7659919,"addressType":"Revendedor"},{"title":"RA KATIA FREITAS DE ALMEIDA","address":"RUA ANTONIO HERMENEGILDO DE FREITAS, Irará - BA","phone":"7581350890","latitude":-12.0459549,"longitude":-38.7659919,"addressType":"Revendedor"},{"title":"RA IANA BASTOS LIMA OLIEVIRA","address":"RUA SANTO ANTONIO, Mairi - BA","phone":"7499829221","latitude":-11.7145227,"longitude":-40.1524773,"addressType":"Revendedor"},{"title":"RA LUCIANE PEGO SIQUEIRA","address":"PRACA ADIELMO M MIRANDA, Miguel Calmon - BA","phone":"7499332290","latitude":-11.4303262,"longitude":-40.60345239999999,"addressType":"Revendedor"},{"title":"RA MARGARETE GUIMARÃES SAMPAIO","address":"TRAVESSA DA BANANEIRA, Mundo Novo - BA","phone":"7499798385","latitude":-11.8591153,"longitude":-40.472623,"addressType":"Revendedor"},{"title":"RA ANDREZA GUIMARAES S. BORGES","address":"JARDIM ALVORADA F 112, Ruy Barbosa - BA","phone":"7499798385","latitude":-12.0878882,"longitude":-45.8082241,"addressType":"Revendedor"},{"title":"RA MARLEIDE SOUZA DA SILVA","address":"RUA FRENTE PAU DE VELA, Santo Estêvão - BA","phone":"#null","latitude":-12.4284443,"longitude":-39.2509155,"addressType":"Revendedor"},{"title":"RA Valdiria dos santos lima","address":"AV. ANTONIO PINHEIRO DA MOTA, Serrinha - BA","phone":"7591224845","latitude":-11.6615266,"longitude":-39.0107372,"addressType":"Revendedor"},{"title":"RA DANIELA DA SILVA MOURA QUEIROZ","address":"RUA JOSE AMERICO, Teofilândia - BA","phone":"7591948274","latitude":-11.4919984,"longitude":-38.9983836,"addressType":"Revendedor"},{"title":"RA ADEILTON ANTONIO DIAS","address":"AV.GUANABARA, Vitória da Conquista - BA","phone":"7599367300","latitude":-14.8791709,"longitude":-40.8370859,"addressType":"Revendedor"},{"title":"RA ANA LUCIA LIMA","address":"PRAÇA EDVALDO VALOIS, Várzea do Poço - BA","phone":"7499976093","latitude":-11.5277433,"longitude":-40.315307,"addressType":"Revendedor"},{"title":"RA BARBARA LIMA ALVES","address":"PRAÇA JOSÉ VILARONGA, Várzea do Poço - BA","phone":"7499877015","latitude":-11.5277433,"longitude":-40.315307,"addressType":"Revendedor"},{"title":"RA PAULO DANIEL DE FREITAS MACHADO(2)","address":"RUA ALVARO FRANÇA ROCHA, Salvador - BA","phone":"7192875018","latitude":-12.8963719,"longitude":-38.4248565,"addressType":"Revendedor"},{"title":"RA ADRIANA PEREIRA DA SILVA","address":"RUA LUIS CAMOES, Salvador - BA","phone":"7193112088","latitude":-12.9717021,"longitude":-38.4923978,"addressType":"Revendedor"},{"title":"RA ANA LIVIA FERNANDES SANTOS","address":"TRAVESSA DOUTOR JONAS DE CARVALHO GOMES, Salvador - BA","phone":"7198145939","latitude":-12.9730401,"longitude":-38.502304,"addressType":"Revendedor"},{"title":"RA ANA CRISTINA SOUSA DE JESUS(8) INATI","address":"RUA NOSSA SENHORA DO AMPARO, Salvador - BA","phone":"7133774280","latitude":-12.914923,"longitude":-38.3587552,"addressType":"Revendedor"},{"title":"RA ITAIARA SANTOS DA ROCHA(02)","address":"RUA SÃO JOSÉ, Santo Amaro - BA","phone":"7582978790","latitude":-12.54541,"longitude":-38.7199421,"addressType":"Revendedor"},{"title":"RA JANNY ARRAIS DINIZ - ERINHA","address":"RUA JOANA LIMA, Antonina do Norte - CE","phone":"8892843707","latitude":-6.7772304,"longitude":-39.9930312,"addressType":"Revendedor"},{"title":"RA ANTONIA ALBENISA DE PINHO - ERINHA","address":"AV SAO FRANCISCO, Assaré - CE","phone":"8896421010","latitude":-6.8750559,"longitude":-39.8709768,"addressType":"Revendedor"},{"title":"RA MARIA VERONICA PAULINO - ERINHA","address":"AVENIDA SAO FRANCISCO, Assaré - CE","phone":"8899243457","latitude":-6.8750559,"longitude":-39.8709768,"addressType":"Revendedor"},{"title":"RA Antonia Luiza Vieira","address":"RUA FRANCISCO PINHEIRO, Assaré - CE","phone":"8896094451","latitude":-6.8708563,"longitude":-39.86952489999999,"addressType":"Revendedor"},{"title":"RA LEIDINALVA S DE OLIVEIRA - ERINHA","address":"RUA MARIA DELFINA, Assaré - CE","phone":"8897379091","latitude":-6.867299999999999,"longitude":-39.86922939999999,"addressType":"Revendedor"},{"title":"RA ERISLANDIA MARIANA DE OLIVEIRA","address":"RUA MARIA DELFINO, Assaré - CE","phone":"8899337474","latitude":-6.867299999999999,"longitude":-39.86922939999999,"addressType":"Revendedor"},{"title":"RA SILVANA GOMES DO NASCIMENTO -ERINHA","address":"RUA PADRE AGAMENON DE MATOS COELHO, Assaré - CE","phone":"8897717120","latitude":-6.8742147,"longitude":-39.8717307,"addressType":"Revendedor"},{"title":"RA ANTONIA RIVANIELLE DA SILVA -ERINHA","address":"RUA PADRE CICERO, Assaré - CE","phone":"8897109226","latitude":-6.8745714,"longitude":-39.8698552,"addressType":"Revendedor"},{"title":"RA ANTONIA AMANDA DE OLIVEIRA - ERINHA","address":"RUA RAIMUNDO MENDES RATES, Assaré - CE","phone":"8893224589","latitude":-6.867299999999999,"longitude":-39.86922939999999,"addressType":"Revendedor"},{"title":"RA MARIA ARISMAR PEREIRA LIMA - ERINHA","address":"TRAV ANDREZA, Assaré - CE","phone":"8835352006","latitude":-6.867299999999999,"longitude":-39.86922939999999,"addressType":"Revendedor"},{"title":"RA MARIA DAS GRAÇAS FONTINELE DE SOUSA","address":"RUA JOSÉ MATIAS SAMPAIO, Brejo Santo - CE","phone":"8899998822","latitude":-7.477548100000001,"longitude":-38.9792841,"addressType":"Revendedor"},{"title":"RA ANT VALDENICE GOMES DOS SANTOS","address":"RUA JULIO NOROES, Campos Sales - CE","phone":"8896700033","latitude":-7.0742395,"longitude":-40.3738545,"addressType":"Revendedor"},{"title":"RA KELIANY PAULA VERISSIMO","address":"RUA PADRE EMIDIO LEMOS, Cedro - CE","phone":"8897110166","latitude":-6.6091906,"longitude":-39.0564183,"addressType":"Revendedor"},{"title":"RA JOSSIA ERICA ROCHA DINIZ TELES","address":"Praça João Brigido, Crato - CE","phone":"8897427564","latitude":-7.229957199999999,"longitude":-39.4122984,"addressType":"Revendedor"},{"title":"RA MARIA CONCEIÇAO M.SILVA - SILVANA JUA","address":"RUA AGRIMESSOR DANIEL NONATO, Crato - CE","phone":"8896152360","latitude":-7.229957199999999,"longitude":-39.4122984,"addressType":"Revendedor"},{"title":"RA LINARA EMILY BENEDITO MOURA","address":"RUA SANTOS DUMONT, Crato - CE","phone":"8981087557","latitude":-7.231054599999999,"longitude":-39.4117046,"addressType":"Revendedor"},{"title":"RA PRISCILA BANDEIRA DE FREITAS","address":"RUA TRAVESSA DAS ACACIAS, Crato - CE","phone":"8899223374","latitude":-7.2310677,"longitude":-39.3511411,"addressType":"Revendedor"},{"title":"RA BRENDA SOARES GOMES","address":"Rua Madre Ana Couto, Crato - CE","phone":"8799206781","latitude":-7.2295063,"longitude":-39.4079988,"addressType":"Revendedor"},{"title":"RA ADRIANA BRITO - MARA","address":"Rua Monsenhor Esmeraldo, Crato - CE","phone":"8899970955","latitude":-7.233499399999999,"longitude":-39.4064465,"addressType":"Revendedor"},{"title":"RA ELIANA CUSTODIO DE SOUSA","address":"RUA B, Iguatu - CE","phone":"8899006831","latitude":-6.3673448,"longitude":-39.3157083,"addressType":"Revendedor"},{"title":"RA MARIA DO SOCORRO RODRIGUES - NEINHA","address":"RUA JOAO LOURENCO COLARES, Iguatu - CE","phone":"8899372457","latitude":-6.3534641,"longitude":-39.3038258,"addressType":"Revendedor"},{"title":"RA SALVANIR ALVES PARENTE","address":"RUA ANTONIO MACEDO LOBO, Juazeiro do Norte - CE","phone":"8888098783","latitude":-7.2338599,"longitude":-39.281625,"addressType":"Revendedor"},{"title":"RA MARIA EDNALDA ALVES SILVA - SANDRA","address":"RUA CAMPOS ELÍSIOS, Juazeiro do Norte - CE","phone":"8888164507","latitude":-7.2174265,"longitude":-39.3107422,"addressType":"Revendedor"},{"title":"RA SILVANA VICTOR PONTES - NEINHA","address":"RUA ELIZA FERREIRA LACERDA, Juazeiro do Norte - CE","phone":"8899184234","latitude":-7.233202400000001,"longitude":-39.3463485,"addressType":"Revendedor"},{"title":"RA CICERO MARCIEL MARTINS","address":"RUA HENRIQUE BRASILEIRO, Juazeiro do Norte - CE","phone":"8894933581","latitude":-7.231749100000001,"longitude":-39.2991337,"addressType":"Revendedor"},{"title":"RA RAFAELLI TIMBO RODRIGUES","address":"RUA INACIO HENRIQUE CALOU, Juazeiro do Norte - CE","phone":"8588180900","latitude":-7.2209385,"longitude":-39.2979374,"addressType":"Revendedor"},{"title":"RA JANIO COELHO DE OLIVEIRA","address":"RUA JACINTO ROCHA, Juazeiro do Norte - CE","phone":"8899358415","latitude":-7.221777099999999,"longitude":-39.3165992,"addressType":"Revendedor"},{"title":"RA Ana Claudia Fernandes Goncalves","address":"RUA MAURO MALZONI, Juazeiro do Norte - CE","phone":"8888880200","latitude":-7.2395808,"longitude":-39.3173935,"addressType":"Revendedor"},{"title":"RA ROSA DE JESUS ARAUJO SOUZA","address":"RUA MOSENHOR ESMERALDO, Juazeiro do Norte - CE","phone":"8835112661","latitude":-7.215,"longitude":-39.3142153,"addressType":"Revendedor"},{"title":"RA MARIA DAS GRACAS GERVAZIO","address":"RUA PADRE PEDRO RIBEIRO, Juazeiro do Norte - CE","phone":"8388211030","latitude":-7.2060383,"longitude":-39.3213204,"addressType":"Revendedor"},{"title":"RA MARIA NOEMIA GOMES","address":"RUA PRINCESA IZABEL, Juazeiro do Norte - CE","phone":"8888246920","latitude":-7.204276800000001,"longitude":-39.3075677,"addressType":"Revendedor"},{"title":"RA VANESSA ARAUJO DE OLIVEIRA TEIXEIRA","address":"RUA RAFAEL MALZONI, Juazeiro do Norte - CE","phone":"988149864","latitude":-7.229722399999999,"longitude":-39.3451308,"addressType":"Revendedor"},{"title":"RA SONIA MARIA DA NOBREGA","address":"RUA SANTA ROSA, Juazeiro do Norte - CE","phone":"8888513132","latitude":-7.205349699999999,"longitude":-39.3213687,"addressType":"Revendedor"},{"title":"RA MARIA GORETH  QUINTINO PEREIRA","address":"RUA SAO BENTO, Juazeiro do Norte - CE","phone":"8899669133","latitude":-7.2139307,"longitude":-39.3120802,"addressType":"Revendedor"},{"title":"RA FRANCISCA EVÂNIA DA CONCEIÇÃO- NEINHA","address":"RUA SÃO BENEDITO, Juazeiro do Norte - CE","phone":"8888635182","latitude":-7.214491799999999,"longitude":-39.3099923,"addressType":"Revendedor"},{"title":"RA ANTONIA MARISA DE OLIVEIRA BARBOSA","address":"RUA TENENTE ANTONIO SALES, Juazeiro do Norte - CE","phone":"8888790766","latitude":-7.2263056,"longitude":-39.294934,"addressType":"Revendedor"},{"title":"RA MARIA DAS ANGUSTIAS ALCANTARA MORAIS","address":"Rua Domingos Savio, Juazeiro do Norte - CE","phone":"8888012940","latitude":-7.2130262,"longitude":-39.3039469,"addressType":"Revendedor"},{"title":"RA CLEA VIRGINIA PROCOPIO HOLANDA","address":"Rua Manuel Soares Couto, Juazeiro do Norte - CE","phone":"8596683215","latitude":-7.229780000000001,"longitude":-39.2895744,"addressType":"Revendedor"},{"title":"RA VALDETE MARIA DA SILVA","address":"Rua Odilon Gomes, Juazeiro do Norte - CE","phone":"8888111671","latitude":-7.235538999999998,"longitude":-39.2966405,"addressType":"Revendedor"},{"title":"RA ADRIANA DINIZ LUSTOSA","address":"Rua Presidente Costa e Silva, Juazeiro do Norte - CE","phone":"8888659213","latitude":-7.229036499999999,"longitude":-39.3124461,"addressType":"Revendedor"},{"title":"RA MARIA SANDRA AMORIM OLIVEIRA","address":"Rua RUI BARBOSA, Juazeiro do Norte - CE","phone":"8888131314","latitude":-7.220246500000001,"longitude":-39.3097654,"addressType":"Revendedor"},{"title":"RA Aline Menezes","address":"Rua do Cruzeiro, Juazeiro do Norte - CE","phone":"8899229680","latitude":-7.203283699999999,"longitude":-39.3124083,"addressType":"Revendedor"},{"title":"RA ELIS REGINA SOUSA CLEMENTINO","address":"RUA MARIA DE LOURDES LEITE GOMES, Jucás - CE","phone":"8898730037","latitude":-6.5156296,"longitude":-39.5190332,"addressType":"Revendedor"},{"title":"RA ADA JULITA DIAS TEIXEIRA SAMPAIO","address":"RUA JOSE QUINTINO, Mauriti - CE","phone":"8835521594","latitude":-7.3873341,"longitude":-38.7733905,"addressType":"Revendedor"},{"title":"RA LAURITA DIAS DA SILVA","address":"rua jose leite da costa, Mauriti - CE","phone":"8835521902","latitude":-7.386044200000001,"longitude":-38.7724795,"addressType":"Revendedor"},{"title":"RA JORDÂNIA QUEIROZ DE SOUSA","address":"RUA JACKSON LUIZ BRAGA, Milhã - CE","phone":"8896607123","latitude":-5.672919299999999,"longitude":-39.1878338,"addressType":"Revendedor"},{"title":"RA ANTONIA NORMESINA GONÇALVES FERNANDES","address":"RUA SANTA TERESINHA, Parambu - CE","phone":"8897944417","latitude":-6.2124215,"longitude":-40.6944585,"addressType":"Revendedor"},{"title":"RA ELIZABETE ALVES FEITOSA - ERINHA","address":"RUA JOSE EDMILSON ROCHA, Potengi - CE","phone":"8894143176","latitude":-7.092656,"longitude":-40.0256426,"addressType":"Revendedor"},{"title":"RA RONNY STONY M GALDINO - ERINHA","address":"RUA IRACENA CATUBA, Santa Quitéria - CE","phone":"8896695848","latitude":-4.3379045,"longitude":-40.1548101,"addressType":"Revendedor"},{"title":"RA ANA VIRGINIA SANTOS ARAUJO","address":"RUA OSCAR CANDIDO, Tarrafas - CE","phone":"8835491100","latitude":-6.6829553,"longitude":-39.757161,"addressType":"Revendedor"},{"title":"RA MARIA DE FÁTIMA M. R. MONTEIRO","address":"RUA JOSÉ CARVALHO, Tauá - CE","phone":"8896828146","latitude":-5.993978299999999,"longitude":-40.2920208,"addressType":"Revendedor"},{"title":"RA HELIA MARIA MONTEIRO FERREIRA","address":"RUA PE JOSÉ ALVES, Várzea Alegre - CE","phone":"8896711515","latitude":-6.790062499999999,"longitude":-39.2958266,"addressType":"Revendedor"},{"title":"RA SILZANET RODRIGUES","address":"RUA ANA DE SOUZA LACERDA, Bonito de Santa Fé - PB","phone":"8396201511","latitude":-7.317306899999998,"longitude":-38.5136732,"addressType":"Revendedor"},{"title":"RA MARIA ELAINE CASIMIRO GADELHA MAIA","address":"RUA FRANCISCA HOMERO DUARTE, Sousa - PB","phone":"#null","latitude":-6.770170299999999,"longitude":-38.2240427,"addressType":"Revendedor"},{"title":"RA CHRISTIAN CARLA DE SÁ","address":"RUA JOAQUIM RODRIGUES NOGUEIRA, Araripina - PE","phone":"8796012004","latitude":-7.5758956,"longitude":-40.501274,"addressType":"Revendedor"},{"title":"RA YARA GRANJA AGUIAR","address":"SITIO SAUNA, Araripina - PE","phone":"8838731389","latitude":-7.583730900000001,"longitude":-40.5079317,"addressType":"Revendedor"},{"title":"RA DEBORA SOARES GOMES","address":"RUA FRANSCISCO TAVEIRA DAS SANTOS, Cedro - PE","phone":"8791490296","latitude":-7.720827300000001,"longitude":-39.2343266,"addressType":"Revendedor"},{"title":"RA CICERA JANEIDE NUNES DE MAGALHÃES XAV","address":"RUA LAUDELINO GERÔNIMO DA SILVA, Mirandiba - PE","phone":"8796275757","latitude":-8.1215546,"longitude":-38.7284535,"addressType":"Revendedor"},{"title":"RA IZABEL DA SILVA NEVES","address":"RUA 55, Salgueiro - PE","phone":"8791426001","latitude":-8.072506599999999,"longitude":-39.1268089,"addressType":"Revendedor"},{"title":"RA ELOISA PEREIRA LANDIM","address":"RUA PADRE ANTONIO BOOT, Salgueiro - PE","phone":"8788127171","latitude":-8.0780385,"longitude":-39.1262761,"addressType":"Revendedor"}
   ]
 }
