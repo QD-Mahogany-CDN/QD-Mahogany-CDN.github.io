@@ -404,8 +404,8 @@
       "title": "Shopping Iguatemi",
       "address": "2º Piso - Loja 2244 | Av. João Wallig, 1800 - Passo D'Areia",
       "phone": "(51) 3273-1294",
-      "latitude": -30.02767,
-      "longitude": -51.16327,
+      "latitude": -30.02532,
+      "longitude": -51.16212,
       "addressType": "Loja"
     },
     {
@@ -772,8 +772,8 @@
       "title": "Plaza Shopping",
       "address": "2º Piso - Loja 159 | R. Dr. João Santos Filho, 255 - Casa Forte",
       "phone": "(81) 3268-3197",
-      "latitude": -8.03697,
-      "longitude": -34.91267,
+      "latitude": -8.03683,
+      "longitude": -34.91264,
       "addressType": "Loja"
     },
     {
@@ -933,7 +933,7 @@
       "address": "2º Piso - Loja 253 | Av. Visconde de Souza Franco, 776 - Reduto",
       "phone": "(91) 3345-3160 / 3223-4697",
       "latitude": -1.44634,
-      "longitude": -48.48973,
+      "longitude": -48.48982,
       "addressType": "Loja"
     },
     {
@@ -1140,8 +1140,8 @@
       "title": "Shopping Iguatemi",
       "address": "Piso Térreo - Loja A 429 | Av. Washington Soares, 85 - Edson Quieroz",
       "phone": "(85) 3241-1868",
-      "latitude": -12.97304,
-      "longitude": -38.5023,
+      "latitude": -3.75505,
+      "longitude": -38.48799,
       "addressType": "Loja"
     },
     {
@@ -1156,7 +1156,7 @@
       "title": "Shopping Paralela",
       "address": "Quadra F - Loja 215 | Av. Luiz Viana Filho, 8544 - Alphaville 1",
       "phone": "(71) 3414-2476",
-      "latitude": -12.7304,
+      "latitude": -12.97304,
       "longitude": -38.5023,
       "addressType": "Loja"
     },
@@ -1188,8 +1188,8 @@
       "title": "Boulevard Shopping",
       "address": "Loja 242 | Av. João Durval Carneiro, 3665 - São João",
       "phone": "(75) 3223-1016",
-      "latitude": -12.24227,
-      "longitude": -38.94889,
+      "latitude": -12.24203,
+      "longitude": -38.94914,
       "addressType": "Loja"
     },
     {
@@ -1254,6 +1254,38 @@
       "phone": "(82) 3436-9009",
       "latitude": -9.64788,
       "longitude": -35.71569,
+      "addressType": "Loja"
+    },
+    {
+      "title": "Breves - Centro",
+      "address": "Av. Rio Branco, 216- Centro",
+      "phone": "",
+      "latitude": -1.68072,
+      "longitude": -50.47952,
+      "addressType": "Loja"
+    },
+    {
+      "title": "Galeria Freguesia",
+      "address": "Bloco 3, Loja 102 | Estrada dos Tres Rios, 200 - Freguesia",
+      "phone": "(21) 2148-8947",
+      "latitude": -22.93953,
+      "longitude": -43.34195,
+      "addressType": "Loja"
+    },
+    {
+      "title": "Caicó - Centro",
+      "address": "Loja 1 | Avenida Seridó, 447, Centro - Caicó",
+      "phone": "(84) 3417-6213",
+      "latitude": -6.46004,
+      "longitude": -37.09568,
+      "addressType": "Loja"
+    },
+    {
+      "title": "Agudos - Centro",
+      "address": "Sala 02 | Rua Treze de Maio, 471 - Centro",
+      "phone": "(14) 3261-0486",
+      "latitude": -22.46992,
+      "longitude": -48.98867,
       "addressType": "Loja"
     }
   ]
