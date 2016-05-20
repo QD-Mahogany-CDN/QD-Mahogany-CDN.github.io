@@ -1287,6 +1287,14 @@
       "latitude": -22.46992,
       "longitude": -48.98867,
       "addressType": "Loja"
+    },
+    {
+      "title": "Valença - Centro",
+      "address": "Térreo | Avenida Marques do Herval, 8 - Centro ",
+      "phone": "(75) 3641-3743",
+      "latitude": -27.06177,
+      "longitude": -49.52437,
+      "addressType": "Loja"
     }
   ]
 }
