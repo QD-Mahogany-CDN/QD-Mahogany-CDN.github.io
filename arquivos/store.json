@@ -305,14 +305,6 @@
       "addressType": "Loja"
     },
     {
-      "title": "Artur Nogueira",
-      "address": "Av. Dr. Fernando Arens, 267 - Centro",
-      "phone": "(19) 3877-1770",
-      "latitude": -22.5747,
-      "longitude": -47.17037,
-      "addressType": "Loja"
-    },
-    {
       "title": "Araras - Centro",
       "address": "R. Tiradentes, 270 - Centro",
       "phone": "(19) 3351-4003",
@@ -772,8 +764,8 @@
       "title": "Plaza Shopping",
       "address": "2º Piso - Loja 159 | R. Dr. João Santos Filho, 255 - Casa Forte",
       "phone": "(81) 3268-3197",
-      "latitude": -8.03683,
-      "longitude": -34.91264,
+      "latitude": -8.03309,
+      "longitude": -34.91288,
       "addressType": "Loja"
     },
     {
@@ -964,8 +956,8 @@
       "title": "Boulevard Shopping",
       "address": "2º Piso - Loja 2048 | Av. dos Andradas, 3000 - Santa Efigênia",
       "phone": "(31) 2512-6576",
-      "latitude": -19.9208,
-      "longitude": -43.92029,
+      "latitude": -19.91868,
+      "longitude": -43.9194,
       "addressType": "Loja"
     },
     {
@@ -1138,7 +1130,7 @@
     },
     {
       "title": "Shopping Iguatemi",
-      "address": "Piso Térreo - Loja A 429 | Av. Washington Soares, 85 - Edson Quieroz",
+      "address": "Piso Térreo - Loja A 429 | Av. Washington Soares, 85 - Edson Queiroz",
       "phone": "(85) 3241-1868",
       "latitude": -3.75505,
       "longitude": -38.48799,
@@ -1188,8 +1180,8 @@
       "title": "Boulevard Shopping",
       "address": "Loja 242 | Av. João Durval Carneiro, 3665 - São João",
       "phone": "(75) 3223-1016",
-      "latitude": -12.24203,
-      "longitude": -38.94914,
+      "latitude": -12.24227,
+      "longitude": -38.94891,
       "addressType": "Loja"
     },
     {
@@ -1258,7 +1250,7 @@
     },
     {
       "title": "Breves - Centro",
-      "address": "Av. Rio Branco, 216- Centro",
+      "address": "Av. Rio Branco, 216 - Centro",
       "phone": "",
       "latitude": -1.68072,
       "longitude": -50.47952,
@@ -1292,8 +1284,32 @@
       "title": "Valença - Centro",
       "address": "Térreo | Avenida Marques do Herval, 8 - Centro ",
       "phone": "(75) 3641-3743",
-      "latitude": -27.06177,
-      "longitude": -49.52437,
+      "latitude": -13.37266,
+      "longitude": -39.07313,
+      "addressType": "Loja"
+    },
+    {
+      "title": "Assú - Centro",
+      "address": "Av. Senador João Camara, 366 - Centro",
+      "phone": "(84) 3331-4485",
+      "latitude": -5.57471,
+      "longitude": -36.90829,
+      "addressType": "Loja"
+    },
+    {
+      "title": "Shopping Arapiraca",
+      "address": "Loja 102 A | Rua José Leite Bezerra,590 - Santa Edwiges",
+      "phone": "(82) 3539-8944",
+      "latitude": -9.733,
+      "longitude": -36.6588,
+      "addressType": "Loja"
+    },
+    {
+      "title": "Óbidos - Centro",
+      "address": "Travessa Rui Barbosa, 301 - Centro",
+      "phone": "",
+      "latitude": -1.91362,
+      "longitude": -55.51224,
       "addressType": "Loja"
     }
   ]
