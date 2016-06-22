@@ -764,8 +764,8 @@
       "title": "Plaza Shopping",
       "address": "2º Piso - Loja 159 | R. Dr. João Santos Filho, 255 - Casa Forte",
       "phone": "(81) 3268-3197",
-      "latitude": -8.03309,
-      "longitude": -34.91288,
+      "latitude": -8.03248,
+      "longitude": -34.91264,
       "addressType": "Loja"
     },
     {
@@ -956,8 +956,8 @@
       "title": "Boulevard Shopping",
       "address": "2º Piso - Loja 2048 | Av. dos Andradas, 3000 - Santa Efigênia",
       "phone": "(31) 2512-6576",
-      "latitude": -19.91868,
-      "longitude": -43.9194,
+      "latitude": -19.92001,
+      "longitude": -43.92031,
       "addressType": "Loja"
     },
     {
@@ -1132,7 +1132,7 @@
       "title": "Shopping Iguatemi",
       "address": "Piso Térreo - Loja A 429 | Av. Washington Soares, 85 - Edson Queiroz",
       "phone": "(85) 3241-1868",
-      "latitude": -3.75505,
+      "latitude": -3.75358,
       "longitude": -38.48799,
       "addressType": "Loja"
     },
@@ -1153,11 +1153,11 @@
       "addressType": "Loja"
     },
     {
-      "title": "Shopping Iguatemi",
+      "title": "Shopping da Bahia",
       "address": "3º Piso - Loja S-17 | Av. Tancredo Neves, 148 - Caminho das Árvores",
       "phone": "(71) 3450-1626",
-      "latitude": -12.97883,
-      "longitude": -38.45378,
+      "latitude": -12.97985,
+      "longitude": -38.4635,
       "addressType": "Loja"
     },
     {
@@ -1180,8 +1180,8 @@
       "title": "Boulevard Shopping",
       "address": "Loja 242 | Av. João Durval Carneiro, 3665 - São João",
       "phone": "(75) 3223-1016",
-      "latitude": -12.24227,
-      "longitude": -38.94891,
+      "latitude": -12.22764,
+      "longitude": -38.96466,
       "addressType": "Loja"
     },
     {
