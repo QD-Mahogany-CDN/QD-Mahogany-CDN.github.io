@@ -163,7 +163,7 @@
     {
       "title": "Park Shopping São Caetano",
       "address": "1º Piso - Loja 2037 | Al. Terracota, 545 - Santo Antonio",
-      "phone": " (11) 4233-8533",
+      "phone": "(11) 4233-8533",
       "latitude": -23.61937,
       "longitude": -46.57526,
       "addressType": "Loja"
@@ -764,8 +764,8 @@
       "title": "Plaza Shopping",
       "address": "2º Piso - Loja 159 | R. Dr. João Santos Filho, 255 - Casa Forte",
       "phone": "(81) 3268-3197",
-      "latitude": -8.03248,
-      "longitude": -34.91264,
+      "latitude": -8.03309,
+      "longitude": -34.91288,
       "addressType": "Loja"
     },
     {
@@ -1132,7 +1132,7 @@
       "title": "Shopping Iguatemi",
       "address": "Piso Térreo - Loja A 429 | Av. Washington Soares, 85 - Edson Queiroz",
       "phone": "(85) 3241-1868",
-      "latitude": -3.75358,
+      "latitude": -3.74985,
       "longitude": -38.48799,
       "addressType": "Loja"
     },
@@ -1180,8 +1180,8 @@
       "title": "Boulevard Shopping",
       "address": "Loja 242 | Av. João Durval Carneiro, 3665 - São João",
       "phone": "(75) 3223-1016",
-      "latitude": -12.22764,
-      "longitude": -38.96466,
+      "latitude": -12.24227,
+      "longitude": -38.94891,
       "addressType": "Loja"
     },
     {
