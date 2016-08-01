@@ -1065,14 +1065,6 @@
       "addressType": "Loja"
     },
     {
-      "title": "ParkShopping",
-      "address": "Loja 248 | Set. Areas Isoladas / Sudoeste - Area, 6580 - F. Guara",
-      "phone": "(61) 3047-5600",
-      "latitude": -15.82669,
-      "longitude": -47.92182,
-      "addressType": "Loja"
-    },
-    {
       "title": "Shopping Pátio Brasil",
       "address": "1º Piso - Loja 276 | Set. Comercial Sul, Qd. 07 - Asa Sul",
       "phone": "(61) 3322-8626",
@@ -1310,6 +1302,22 @@
       "phone": "",
       "latitude": -1.91362,
       "longitude": -55.51224,
+      "addressType": "Loja"
+    },
+    {
+      "title": "Shopping Canoas",
+      "address": "Loja 40 | Av. Guilherme Schell, 6750 - Centro",
+      "phone": "(51) 3059-9005",
+      "latitude": -29.91016,
+      "longitude": -51.18291,
+      "addressType": "Loja"
+    },
+    {
+      "title": "Blumenau - Centro",
+      "address": "Loja 03 | R. Curt Hering, 320 - Centro",
+      "phone": "(47) 3222-1133",
+      "latitude": -26.92044,
+      "longitude": -49.06606,
       "addressType": "Loja"
     }
   ]
