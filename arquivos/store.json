@@ -497,14 +497,6 @@
       "addressType": "Loja"
     },
     {
-      "title": "Shopping Grande Rio",
-      "address": "Loja 439 | Estr. Municipal São João de Meriti, 111 - Centro",
-      "phone": "(21) 2117-2417",
-      "latitude": -22.80343,
-      "longitude": -43.36762,
-      "addressType": "Loja"
-    },
-    {
       "title": "Carioca Shopping",
       "address": "1º Piso, Loja 120 |Av. Vicente de Carvalho, 909 - Vila da Penha",
       "phone": "(21) 3688-2584",
@@ -646,14 +638,6 @@
       "phone": "(24) 3321-5780",
       "latitude": -22.46616,
       "longitude": -44.45164,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Niterói Shopping",
-      "address": "Quiosque 4 | Rua da Conceição, 188 - Centro",
-      "phone": "(21) 3500-7253",
-      "latitude": -22.89448,
-      "longitude": -43.11881,
       "addressType": "Loja"
     },
     {
