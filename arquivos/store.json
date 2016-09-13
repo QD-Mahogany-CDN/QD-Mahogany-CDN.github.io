@@ -283,7 +283,7 @@
     {
       "title": "Bauru - Centro",
       "address": "R. Batista de Carvalho, 7 - 29 - Centro",
-      "phone": " (14) 3202-8067",
+      "phone": "(14) 3202-8067",
       "latitude": -22.32063,
       "longitude": -49.06462,
       "addressType": "Loja"
@@ -369,11 +369,11 @@
       "addressType": "Loja"
     },
     {
-      "title": "Santa Maria",
-      "address": "Loja 2 | Rua Enersto Marques da Rocha, 10 - Centro",
+      "title": "Santa Maria - Centro",
+      "address": "Rua Salvador Isaia Calçadão, 1263 - Centro",
       "phone": "(55) 3317-3117",
-      "latitude": -29.68765,
-      "longitude": -53.81214,
+      "latitude": -29.68642,
+      "longitude": -53.80752,
       "addressType": "Loja"
     },
     {
@@ -630,14 +630,6 @@
       "phone": "(21) 3199-1888",
       "latitude": -22.90746,
       "longitude": -43.17583,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Resende Shopping",
-      "address": "Loja 2 - Quiosque 6 | Av. Saturnino Braga, 369 - Centro",
-      "phone": "(24) 3321-5780",
-      "latitude": -22.46616,
-      "longitude": -44.45164,
       "addressType": "Loja"
     },
     {
@@ -945,11 +937,11 @@
       "addressType": "Loja"
     },
     {
-      "title": "Norte Sul Plaza Shopping",
-      "address": "Loja 42 B | Av. Presidente Ernesto Geisel, 2300 - Joquei Club",
+      "title": "Campo Grande - Centro",
+      "address": "Rua Rio Grande do Sul, 882 - Jardim dos Estados",
       "phone": "(67) 3342-9006",
-      "latitude": -20.48015,
-      "longitude": -54.62656,
+      "latitude": -20.45741,
+      "longitude": -54.60114,
       "addressType": "Loja"
     },
     {
@@ -1014,14 +1006,6 @@
       "phone": "(99) 3528-3613",
       "latitude": -5.53034,
       "longitude": -47.4565,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Araguaia Shopping",
-      "address": "1º Piso - Loja 3093-1010 | Rua 44, 399 - Setor Central",
-      "phone": "(62) 3942-2144",
-      "latitude": -16.65938,
-      "longitude": -49.25796,
       "addressType": "Loja"
     },
     {
