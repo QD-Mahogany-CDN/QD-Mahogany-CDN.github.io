@@ -129,14 +129,6 @@
       "addressType": "Loja"
     },
     {
-      "title": "Santana Parque Shopping",
-      "address": "2 Piso - Loja 2012-B | R. Conselheiro Moreira de Barros, 2780 - Lauzane",
-      "phone": "(11) 2208-2578",
-      "latitude": -23.48311,
-      "longitude": -46.64524,
-      "addressType": "Loja"
-    },
-    {
       "title": "Shopping Brisamar",
       "address": "2º Piso - Loja 234 | Rua Frei Gaspar, 365 - Centro",
       "phone": "(13) 3467-9979",
@@ -1258,10 +1250,10 @@
     },
     {
       "title": "Shopping Arapiraca",
-      "address": "Loja 102 A | Rua José Leite Bezerra,590 - Santa Edwiges",
+      "address": "Loja 102 A | Rua José Jailson Nunes, 493 - Caititus",
       "phone": "(82) 3539-8944",
-      "latitude": -9.733,
-      "longitude": -36.6588,
+      "latitude": -9.73466,
+      "longitude": -36.65562,
       "addressType": "Loja"
     },
     {
@@ -1286,6 +1278,14 @@
       "phone": "(47) 3222-1133",
       "latitude": -26.92044,
       "longitude": -49.06606,
+      "addressType": "Loja"
+    },
+    {
+      "title": "Santa Inês - Centro",
+      "address": "Av. Luis Muniz, 1109 - Centro",
+      "phone": "(98) 3653-0156",
+      "latitude": -3.66443,
+      "longitude": -45.38397,
       "addressType": "Loja"
     }
   ]
