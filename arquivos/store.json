@@ -1279,6 +1279,14 @@
       "latitude": -3.66443,
       "longitude": -45.38397,
       "addressType": "Loja"
+    },
+    {
+      "title": "Balsas - Centro",
+      "address": "Rua Gomes de Sousa, 544 - Centro",
+      "phone": "(99) 3541-3580",
+      "latitude": -7.52962,
+      "longitude": -46.03947,
+      "addressType": "Loja"
     }
   ]
 }
