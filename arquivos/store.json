@@ -1,5 +1,13 @@
 {
   "store": [
+     {
+      "title": "Shopping Tropical",
+      "address": "Loja 7, Bloco B4 | Av. Coronel Colares Moreira, 400",
+      "phone": "-",
+      "latitude": -2.5075343,
+      "longitude": -44.2991653,
+      "addressType": "Loja"
+    },
     {
       "title": "Acre - Dom Giocondo",
       "address": "Rua Rio de Janeiro, 294 - Base",
