@@ -1,7 +1,7 @@
 {
   "store": [
     {
-      "title": "Shopping Picos",
+      "title": "Picos Plaza Shopping",
       "address": "Loja A 47 | Av. Senador Helvídio Nunes, 5.233 - Junco",
       "phone": "-",
       "latitude": -7.0788098,
@@ -11,7 +11,7 @@
     {
       "title": "Shopping Tropical",
       "address": "Loja 7, Bloco B4 | Av. Coronel Colares Moreira, 400 - Renascença",
-      "phone": "-",
+      "phone": "(98) 98895-1234",
       "latitude": -2.5075343,
       "longitude": -44.2991653,
       "addressType": "Loja"
