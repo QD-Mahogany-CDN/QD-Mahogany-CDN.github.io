@@ -1,6 +1,14 @@
 {
   "store": [
     {
+      "title": "Acre - Dom Giocondo",
+      "address": "Rua Rio de Janeiro, 294 - Base",
+      "phone": "(62) 2102-8398",
+      "latitude": -9.9716718,
+      "longitude": -67.8178805,
+      "addressType": "Loja"
+    },
+    {
       "title": "Galeria Anfíbio",
       "address": "Box 02 | Av. Tamoios, 826 - Centro",
       "phone": "(14) 3722-1160",
