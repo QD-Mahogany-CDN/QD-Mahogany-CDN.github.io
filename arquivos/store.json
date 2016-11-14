@@ -1,6 +1,14 @@
 {
   "store": [
-     {
+    {
+      "title": "Shopping Picos",
+      "address": "Loja A 47 | Av. Senador Helvídio Nunes, 5.233",
+      "phone": "-",
+      "latitude": -7.0788098,
+      "longitude": -41.4357856,
+      "addressType": "Loja"
+    },
+    {
       "title": "Shopping Tropical",
       "address": "Loja 7, Bloco B4 | Av. Coronel Colares Moreira, 400",
       "phone": "-",
