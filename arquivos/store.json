@@ -1,6 +1,14 @@
 {
   "store": [
     {
+      "title": "Galeria Anfíbio",
+      "address": "Box 02 | Av. Tamoios, 826 - Centro",
+      "phone": "(14) 3722-1160",
+      "latitude": -21.9295271,
+      "longitude": -50.5135785,
+      "addressType": "Loja"
+    },
+    {
       "title": "Picos Plaza Shopping",
       "address": "Loja A 47 | Av. Senador Helvídio Nunes, 5.233 - Junco",
       "phone": "-",
