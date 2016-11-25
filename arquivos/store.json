@@ -9,17 +9,17 @@
       "addressType": "Loja"
     },
     {
-      "title": "Picos Plaza Shopping",
+      "title": "Shopping Picos",
       "address": "Loja A 47 | Av. Senador Helvídio Nunes, 5.233 - Junco",
-      "phone": "-",
-      "latitude": -7.0788098,
-      "longitude": -41.4357856,
+      "phone": "(89) 9-9936-9778",
+      "latitude": -7.07879,
+      "longitude": -41.43578,
       "addressType": "Loja"
     },
     {
       "title": "Shopping Tropical",
       "address": "Loja 7, Bloco B4 | Av. Coronel Colares Moreira, 400 - Renascença",
-      "phone": "(98) 98895-1234",
+      "phone": "(98) 3235-6079",
       "latitude": -2.5075343,
       "longitude": -44.2991653,
       "addressType": "Loja"
@@ -74,7 +74,7 @@
     },
     {
       "title": "Shopping Plaza Sul",
-      "address": "2º Piso - Loja 261 | Praça Leonor Kaupa - Bosque da Saúde",
+      "address": "2º Piso - Loja 261 | Praça Leonor Kaupa, 100 - Bosque da Saúde",
       "phone": "(11) 5058-3863",
       "latitude": -23.6198,
       "longitude": -46.62744,
@@ -98,10 +98,10 @@
     },
     {
       "title": "Shopping Boulevard Tatuapé",
-      "address": "Box área 47 | R. Ribeiro Lacerda, 940 - Bosque da Saúde",
+      "address": "Quiosque 21 | Rua Gonçalves Crespo, 78 - Tatuapé",
       "phone": "",
-      "latitude": -23.61793,
-      "longitude": -46.62676,
+      "latitude": -23.53894,
+      "longitude": -46.57639,
       "addressType": "Loja"
     },
     {
@@ -298,7 +298,7 @@
     },
     {
       "title": "Bauru Shopping",
-      "address": "Loja 5 - R. Henrique Savi, 15-55 - Jardim Infante Dom Henrique",
+      "address": "Loja 5 | Rua Henrique Savi, 5-34 - Jardim Infante Dom Henrique",
       "phone": "(14) 3206-9425",
       "latitude": -22.34281,
       "longitude": -49.04972,
@@ -451,7 +451,7 @@
     {
       "title": "Ji-Paraná",
       "address": "Av. Brasil, 654 - Nova Brasília",
-      "phone": "(69) 3423-2485",
+      "phone": "(69) 3423-3599",
       "latitude": -10.8878,
       "longitude": -61.92437,
       "addressType": "Loja"
@@ -825,11 +825,11 @@
       "addressType": "Loja"
     },
     {
-      "title": "Guedes Shopping",
-      "address": "2º Piso - Loja 12 | Rua Pedro Firmino, 470 - Centro",
+      "title": "Patos - Centro",
+      "address": "Sala 02 | Rua Pedro Firmino, 144 - Centro",
       "phone": "(83) 3423-0615",
-      "latitude": -7.02844,
-      "longitude": -37.28139,
+      "latitude": -7.02695,
+      "longitude": -37.27833,
       "addressType": "Loja"
     },
     {
@@ -1017,11 +1017,11 @@
       "addressType": "Loja"
     },
     {
-      "title": "Shopping Imperial",
-      "address": "Piso Térreo - Loja E-102 | Rod. BR 010, 48 - Centro",
+      "title": "Imperatriz - Centro",
+      "address": "Letra B | Rua Simplício Moreira, 1657 - Centro",
       "phone": "(99) 3528-3613",
-      "latitude": -5.53034,
-      "longitude": -47.4565,
+      "latitude": -5.53197,
+      "longitude": -47.48454,
       "addressType": "Loja"
     },
     {
@@ -1227,7 +1227,7 @@
     {
       "title": "Breves - Centro",
       "address": "Av. Rio Branco, 216 - Centro",
-      "phone": "",
+      "phone": "(91) 9-9344-6374",
       "latitude": -1.68072,
       "longitude": -50.47952,
       "addressType": "Loja"
@@ -1283,7 +1283,7 @@
     {
       "title": "Óbidos - Centro",
       "address": "Travessa Rui Barbosa, 301 - Centro",
-      "phone": "",
+      "phone": "(93) 9-9119-7483",
       "latitude": -1.91362,
       "longitude": -55.51224,
       "addressType": "Loja"
@@ -1318,6 +1318,38 @@
       "phone": "(99) 3541-3580",
       "latitude": -7.52962,
       "longitude": -46.03947,
+      "addressType": "Loja"
+    },
+    {
+      "title": "North Shopping Jóquei",
+      "address": "Loja 1086 | Av. Lineu Machado, 419 - Jóquei Clube",
+      "phone": "(85) 3233-5320",
+      "latitude": -3.76331,
+      "longitude": -38.57542,
+      "addressType": "Loja"
+    },
+    {
+      "title": "Apodi - Centro",
+      "address": "Sala A | Rua Governador Dix Sept Rosado, 41 - Nossa Senhora da Conceição",
+      "phone": "",
+      "latitude": -5.66523,
+      "longitude": -37.79907,
+      "addressType": "Loja"
+    },
+    {
+      "title": "Torres - Centro",
+      "address": "Sala 8 | Av. José Bonifácio, 351 - Centro",
+      "phone": "(51) 3156-0285",
+      "latitude": -29.33934,
+      "longitude": -49.73193,
+      "addressType": "Loja"
+    },
+    {
+      "title": "Shopping Bragança ",
+      "address": "Km 53 Loja 1045 | Rod. Alkindar Monteiro Junqueira, S/N - Itapechinga ",
+      "phone": "(11) 4010-5074",
+      "latitude": -22.96914,
+      "longitude": -46.56844,
       "addressType": "Loja"
     }
   ]
