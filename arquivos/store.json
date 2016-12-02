@@ -1351,6 +1351,14 @@
       "latitude": -22.96914,
       "longitude": -46.56844,
       "addressType": "Loja"
+    },
+    {
+      "title": "Via Sul Shopping",
+      "address": "Quiosque QT19 | Av. Andrômeda, 227 - Jardim Satelite",
+      "phone": "",
+      "latitude": -23.2173168,
+      "longitude": -45.8913332,
+      "addressType": "Loja"
     }
   ]
 }
