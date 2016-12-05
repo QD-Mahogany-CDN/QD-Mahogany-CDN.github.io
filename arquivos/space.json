@@ -8,5 +8,21 @@
       "longitude": -45.4569364,
       "addressType": "Espaco"
     }
+    {
+      "title": "Lopes e Hartmann",
+      "address": "Av. Pinheiro Machado, 2538 - Centro",
+      "phone": "(55) 3352-6731",
+      "latitude": -28.4085786,
+      "longitude": -54.9515598,
+      "addressType": "Espaco"
+    }
+    {
+      "title": "Rose Parfums",
+      "address": "Rua Felipe Schmidt, 198 - Centro",
+      "phone": "(47) 3248-8281",
+      "latitude": -26.9061188,
+      "longitude": -48.6574994,
+      "addressType": "Espaco"
+    }
   ]
 }
