@@ -1359,6 +1359,14 @@
       "latitude": -23.2173168,
       "longitude": -45.8913332,
       "addressType": "Loja"
+    },
+    {
+      "title": "Formiga - Centro",
+      "address": "Rua Barão de Pinhui, 22 - Centro",
+      "phone": "(37) 3321-3120",
+      "latitude": -20.463962,
+      "longitude": -45.429787,
+      "addressType": "Loja"
     }
   ]
 }
