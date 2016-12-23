@@ -361,14 +361,6 @@
       "addressType": "Loja"
     },
     {
-      "title": "Shopping Neumarkt",
-      "address": "Loja 93 | R. Sete de Setembro, 1213 - Centro",
-      "phone": "(47) 3324-0089",
-      "latitude": -26.92064,
-      "longitude": -49.06991,
-      "addressType": "Loja"
-    },
-    {
       "title": "Porto Velho Shopping",
       "address": "Piso Térreo - Loja 105 | Av. Rio Madeira, 3288 - Floroaldo Pontes Pinto",
       "phone": "(69) 3218-8070",
@@ -758,14 +750,6 @@
       "phone": "(87) 3861-6453",
       "latitude": -9.39397,
       "longitude": -40.4928,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Shopping Guararapes",
-      "address": "Loja 165 | Av. Barreto de Menezes, 800 - Piedade",
-      "phone": "(81) 3305-7304",
-      "latitude": -8.16776,
-      "longitude": -34.91904,
       "addressType": "Loja"
     },
     {
