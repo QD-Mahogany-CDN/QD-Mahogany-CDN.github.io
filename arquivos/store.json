@@ -161,14 +161,6 @@
       "addressType": "Loja"
     },
     {
-      "title": "Shopping Brisamar",
-      "address": "2º Piso - Loja 234 | Rua Frei Gaspar, 365 - Centro",
-      "phone": "(13) 3467-9979",
-      "latitude": -23.96761,
-      "longitude": -46.38394,
-      "addressType": "Loja"
-    },
-    {
       "title": "Shopping Center Vale",
       "address": "Piso Dutra - Loja S-607 | Av. Deputado Benedito Matarazzo, 9403 - Jardim Oswaldo Cruz",
       "phone": "(12) 3911-8628",
@@ -1169,14 +1161,6 @@
       "addressType": "Loja"
     },
     {
-      "title": "Shopping Terrazzo Villas",
-      "address": "Loja 2 | Av. Praia de Itapoan, 514  - Vilas do Atlantico",
-      "phone": "(71) 3508-1744",
-      "latitude": -12.88348,
-      "longitude": -38.30243,
-      "addressType": "Loja"
-    },
-    {
       "title": "Shopping Jequitibá",
       "address": "Loja N36 |Av. Aziz Maron, S/N - Goes Calmon",
       "phone": "(73) 3215-6054",
@@ -1353,7 +1337,7 @@
       "addressType": "Loja"
     },
     {
-      "title": "Via Sul Shopping",
+      "title": "Vale Sul Shopping",
       "address": "Quiosque QT19 | Av. Andrômeda, 227 - Jardim Satelite",
       "phone": "",
       "latitude": -23.2173168,
