@@ -145,14 +145,6 @@
       "addressType": "Loja"
     },
     {
-      "title": "Shopping Butantã",
-      "address": "Piso G2 - Loja 213 | Av. Professor Francisco Morato, 2718 - Butantã",
-      "phone": "(11) 3721-6981",
-      "latitude": -23.58461,
-      "longitude": -46.72503,
-      "addressType": "Loja"
-    },
-    {
       "title": "Shopping Anália Franco",
       "address": "Piso Tulipa - Loja 92 | Av. Regente Feijó, 1739 - Água Rasa",
       "phone": "(11) 2076-0120",
@@ -841,11 +833,11 @@
       "addressType": "Loja"
     },
     {
-      "title": "Rio Tapajós Shopping",
-      "address": "Quiosque 020 |Av. Engenheiro Fernando Guilhon, Km 03, S/N - Santarezinho",
+      "title": "Santarém - Centro",
+      "address": "Térreo | Travessa Quinze de Agosto, 164 - Centro",
       "phone": "(93) 9-9156-2230",
-      "latitude": -2.44353,
-      "longitude": -54.74088,
+      "latitude": -2.4178017,
+      "longitude": -54.7136444,
       "addressType": "Loja"
     },
     {
@@ -1334,6 +1326,14 @@
       "phone": "(37) 3321-3120",
       "latitude": -20.463962,
       "longitude": -45.429787,
+      "addressType": "Loja"
+    },
+    {
+      "title": "Galeria Maceió",
+      "address": "Loja 04 | Rua Deputado José Lages, 431 - Ponta Verde ",
+      "phone": "",
+      "latitude": -9.6569675,
+      "longitude": -35.7001258,
       "addressType": "Loja"
     }
   ]
