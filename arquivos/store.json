@@ -27,7 +27,7 @@
     {
       "title": "Rio Branco",
       "address": "Rua Rio de Janeiro, 294 - Base",
-      "phone": "(62) 2102-8398",
+      "phone": "(68) 2002-8398",
       "latitude": -9.9716718,
       "longitude": -67.8178805,
       "addressType": "Loja"
@@ -222,14 +222,6 @@
       "phone": "(14) 3301-9895",
       "latitude": -22.18629,
       "longitude": -49.96701,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Lençóis Paulista - Centro",
-      "address": "Rua Coronel Joaquim Anselmo Martins, 696 - Centro",
-      "phone": "(11) 3263-1108",
-      "latitude": -22.59779,
-      "longitude": -48.79774,
       "addressType": "Loja"
     },
     {
@@ -522,7 +514,7 @@
     },
     {
       "title": "Shopping Tijuca",
-      "address": "2º Piso - Loja 2092 | Av. Maracanã, 987 - Tijuca",
+      "address": "2º Piso - Loja 2100 | Av. Maracanã, 987 - Tijuca",
       "phone": "(21) 3176-0270",
       "latitude": -22.92197,
       "longitude": -43.23499,
@@ -1065,14 +1057,6 @@
       "addressType": "Loja"
     },
     {
-      "title": "North Shopping",
-      "address": "2º piso - Loja 2010 | Av. Bezerra de Meneses, 2450 - São Geraldo",
-      "phone": "(85) 3217-2811",
-      "latitude": -3.73554,
-      "longitude": -38.56594,
-      "addressType": "Loja"
-    },
-    {
       "title": "Shopping Iguatemi",
       "address": "Piso Térreo - Loja A 429 | Av. Washington Soares, 85 - Edson Queiroz",
       "phone": "(85) 3241-1868",
@@ -1203,7 +1187,7 @@
     {
       "title": "Caicó - Centro",
       "address": "Loja 1 | Avenida Seridó, 447, Centro - Caicó",
-      "phone": "(84) 3417-6213",
+      "phone": "(84) 9-9828-4947",
       "latitude": -6.46004,
       "longitude": -37.09568,
       "addressType": "Loja"
@@ -1334,6 +1318,14 @@
       "phone": "(82) 3027-5003",
       "latitude": -9.6569675,
       "longitude": -35.7001258,
+      "addressType": "Loja"
+    },
+    {
+      "title": "Governador Valadares - Centro",
+      "address": "Loja 01 | Rua Barbara Heliodora, 592 - Centro",
+      "phone": "(33) 3225-6525",
+      "latitude": -18.854357,
+      "longitude": -41.944426,
       "addressType": "Loja"
     }
   ]
