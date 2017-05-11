@@ -1579,10 +1579,28 @@
          "title": "Palmas",
          "address": "Térreo, LUC 65 | Q Av 107 Norte Av. Juscelino Kubitschek, s/n",
          "phone": null,
-         "latitude": null,
-         "longitude": null,
+         "latitude": -10.182376,
+         "longitude": -48.3502874,
          "addressType": "Loja",
          "email": "mahogany.capimdourado@mahogany.com.br"
+      },
+      {
+         "title": "Bragança",
+         "address": "Km 53 loja 1045 | Rod. Est.  SP-63, Alkindar Mont.Junqueira, S/N",
+         "phone": null,
+         "latitude": -22.9701091,
+         "longitude": -46.5709644,
+         "addressType": "Loja",
+         "email": "mahogany.braganca@mahogany.com.br"
+      },
+      {
+         "title": "Marabá",
+         "address": "loja Q38 | Rod. Transamazônica, KM 6 - Folha 30 Qd 15 - Lote 10, s/n",
+         "phone": null,
+         "latitude": -5.3567339,
+         "longitude": -49.0858894,
+         "addressType": "Loja",
+         "email": "mahogany.maraba@mahogany.com.br"
       }
    ]
 }
