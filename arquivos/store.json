@@ -361,14 +361,6 @@
       "addressType": "Loja"
     },
     {
-      "title": "Shopping Rio Grande",
-      "address": "Loja 56 | Rua Jockey Clube, 155 - São Miguel",
-      "phone": "(53) 3036-2141",
-      "latitude": -32.05192,
-      "longitude": -52.14872,
-      "addressType": "Loja"
-    },
-    {
       "title": "Bourbon Shopping Wallig",
       "address": "Loja 257 | Av. Assis Brasil, 2611 - Cristo Redentor",
       "phone": "(51) 3329-6316",
@@ -419,7 +411,7 @@
     {
       "title": "Ji-Paraná",
       "address": "Av. Brasil, 654 - Nova Brasília",
-      "phone": "(69) 3423-3599",
+      "phone": "(69) 3423-5133",
       "latitude": -10.8878,
       "longitude": -61.92437,
       "addressType": "Loja"
@@ -1326,6 +1318,46 @@
       "phone": "(33) 3225-6525",
       "latitude": -18.854357,
       "longitude": -41.944426,
+      "addressType": "Loja"
+    },
+    {
+      "title": "Shopping Mag",
+      "address": "Piso Térreo, Loja 03 | Av. Governador Flávio Ribeiro Coutinho, 115 - Manaira",
+      "phone": "(83) 3048-1039",
+      "latitude": -7.097472,
+      "longitude": -34.833988,
+      "addressType": "Loja"
+    },
+    {
+      "title": "Cajazeiras - Centro",
+      "address": "Rua Padre José Tomas, 209 - Centro",
+      "phone": "(83) 9-9998-1571",
+      "latitude": -6.888712,
+      "longitude": -38.56129,
+      "addressType": "Loja"
+    },
+    {
+      "title": "Cacoal - Centro",
+      "address": "Sala 01 | Av. Porto Velho, 2520 - Centro",
+      "phone": "(69) 3441-1540",
+      "latitude": -11.438741,
+      "longitude": -61.446489,
+      "addressType": "Loja"
+    },
+    {
+      "title": "Shopping Praia de Belas",
+      "address": "Loja 3056 | Av. Praia de Belas, 1181 - Praia de Belas ",
+      "phone": "(51) 3231-9771",
+      "latitude": -30.049526,
+      "longitude": -51.228753,
+      "addressType": "Loja"
+    },
+    {
+      "title": "Rio Grande - Centro",
+      "address": "Rua Benjamim Constant, 149 - Centro",
+      "phone": "(53) 2125-3611",
+      "latitude": -32.03262,
+      "longitude": -52.093266,
       "addressType": "Loja"
     }
   ]
