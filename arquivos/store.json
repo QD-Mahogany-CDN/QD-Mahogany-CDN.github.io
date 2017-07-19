@@ -754,7 +754,7 @@
     },
     {
       "title": "Catuaí Shopping Londrina",
-      "address": "Loja E52 | Rua Edwy Taques de Araujo, 600 - Jd. Burle Marx",
+      "address": "Loja 246B -Jd. Burle Marx",
       "phone": "(43) 3336-7600",
       "latitude": -23.30445,
       "longitude": -51.16958,
@@ -1350,6 +1350,14 @@
       "phone": "(53) 2125-3611",
       "latitude": -32.03262,
       "longitude": -52.093266,
+      "addressType": "Loja"
+    },
+    {
+      "title": "Sousa- PB",
+      "address": "Rua Cônego José Viana  ",
+      "phone": "(83) 99137-8959             83-99155-7334",
+      "latitude": -6.765476,
+      "longitude": -38.232121,
       "addressType": "Loja"
     }
   ]
