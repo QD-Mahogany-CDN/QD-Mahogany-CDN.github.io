@@ -13,7 +13,7 @@
       "title": "Arapiraca",
       "address": "Loja 102 A | R. José Leite Bezerra, 590",
       "phone": "",
-      "latitude": -9.732996000000002,
+      "latitude": -9.732996000000001,
       "longitude": -36.65879699999999,
       "addressType": "Loja",
       "email": "mahogany.arapiraca@mahogany.com.br"
@@ -205,7 +205,7 @@
       "latitude": -7.2236448,
       "longitude": -39.324618499999985,
       "addressType": "Loja",
-      "email": "mahogany.cdsalvador@mahogany.com.br"
+      "email": "mahogany.cdjuazeirodonorte@mahogany.com.br"
     },
     {
       "title": "Brasília",
@@ -256,8 +256,8 @@
       "title": "Goiânia",
       "address": "QD. 41, LT. 90 | Av. São Francisco, 1266",
       "phone": "",
-      "latitude": -16.6320246,
-      "longitude": -49.235339299999964,
+      "latitude": -16.6743794,
+      "longitude": -49.253081944,
       "addressType": "Loja",
       "email": "mahogany.cdgoiania@mahogany.com.br"
     },
@@ -274,8 +274,8 @@
       "title": "Imperatriz",
       "address": "Letra B | R. Simplicio Moreira, 1657",
       "phone": "",
-      "latitude": -5.5341172,
-      "longitude": -47.482879300000036,
+      "latitude": -5.521791,
+      "longitude": -47.494862,
       "addressType": "Loja",
       "email": "mahogany.cdsaoluis@mahogany.com.br"
     },
@@ -283,8 +283,8 @@
       "title": "Santa Inês",
       "address": "Av. Luis Muniz, 1109",
       "phone": "",
-      "latitude": -3.2912049,
-      "longitude": -45.178124300000036,
+      "latitude": -3.66443,
+      "longitude": -45.38397,
       "addressType": "Loja",
       "email": "mahogany.santaines@mahogany.com.br"
     },
@@ -292,17 +292,17 @@
       "title": "São Luis",
       "address": "loja 135 | Av. Euclides Figueiredo, 1000",
       "phone": "",
-      "latitude": -22.6731059,
-      "longitude": -47.69730849999996,
+      "latitude": -2.5138,
+      "longitude": -44.28965,
       "addressType": "Loja",
       "email": "mahogany.cdsaoluis@mahogany.com.br"
     },
     {
       "title": "São Luis",
-      "address": "Bloco D2 LJ6 LB | Av. Coronel Colares Moreira, 400",
+      "address": "B4 LJ 07 | Av. Coronel Colares Moreira, 400",
       "phone": "",
-      "latitude": -2.5076541,
-      "longitude": -44.29962419999998,
+      "latitude": -2.5075343,
+      "longitude": -44.2991653,
       "addressType": "Loja",
       "email": "mahogany.cdsaoluis@mahogany.com.br"
     },
@@ -310,17 +310,8 @@
       "title": "São Luis",
       "address": "loja 211, O | Av. Daniel de la Touche, 987",
       "phone": "",
-      "latitude": -2.532886,
-      "longitude": -44.25993,
-      "addressType": "Loja",
-      "email": "mahogany.cdsaoluis@mahogany.com.br"
-    },
-    {
-      "title": "São Luis",
-      "address": "Bloco B4 LJ 07 | Av. Coronel Colares Moreira, 400",
-      "phone": "",
-      "latitude": -2.5076541,
-      "longitude": -44.29962419999998,
+      "latitude": -2.52755,
+      "longitude": -44.25492,
       "addressType": "Loja",
       "email": "mahogany.cdsaoluis@mahogany.com.br"
     },
@@ -670,8 +661,8 @@
       "title": "Teresina",
       "address": "R. Simplicio Mendes, 72",
       "phone": "",
-      "latitude": -5.0927012,
-      "longitude": -42.81457790000002,
+      "latitude": -5.09269,
+      "longitude": -42.81456,
       "addressType": "Loja",
       "email": "mahogany.teresinacentro@mahogany.com.br"
     },
@@ -733,8 +724,8 @@
       "title": "Campos dos Goytacazes",
       "address": "Loja 109 E | Av. Dr. Sílvio Bastos Tavares, 316/338",
       "phone": "",
-      "latitude": -21.7547976,
-      "longitude": -41.34911139999997,
+      "latitude": -21.75524,
+      "longitude": -41.34848,
       "addressType": "Loja",
       "email": "gisele.reis@mahogany.com.br"
     },
@@ -922,8 +913,8 @@
       "title": "Rio de Janeiro",
       "address": "loja 221 | Av. Marechal Fontenelle, 3545",
       "phone": "",
-      "latitude": -22.8862099,
-      "longitude": -43.40240929999999,
+      "latitude": -22.88483,
+      "longitude": -43.40377,
       "addressType": "Loja",
       "email": "mahogany.shopsulacap@mahogany.com.br"
     },
@@ -1090,22 +1081,13 @@
       "email": "mahogany.passofundo@mahogany.com.br"
     },
     {
-      "title": "Pelotas",
-      "address": "Q20 | Av. Ferreira Viana, 1526",
-      "phone": "",
-      "latitude": -31.7613339,
-      "longitude": -52.31809420000002,
-      "addressType": "Loja",
-      "email": "mahogany.pelotas@mahogany.com.br"
-    },
-    {
       "title": "Porto Alegre",
       "address": "piso Guaíba, loja 2090 | Av. Diário de Notícias, 300",
       "phone": "",
       "latitude": -30.0844939,
       "longitude": -51.24529749999999,
       "addressType": "Loja",
-      "email": "mahogany.wallig@mahogany.com.br"
+      "email": "mahogany.praiadebelas@mahogany.com.br"
     },
     {
       "title": "Porto Alegre",
@@ -1114,7 +1096,7 @@
       "latitude": -30.0225647,
       "longitude": -51.16348590000001,
       "addressType": "Loja",
-      "email": "mahogany.wallig@mahogany.com.br"
+      "email": "mahogany.praiadebelas@mahogany.com.br"
     },
     {
       "title": "Porto Alegre",
@@ -1123,7 +1105,7 @@
       "latitude": -30.0579412,
       "longitude": -51.17729489999999,
       "addressType": "Loja",
-      "email": "mahogany.wallig@mahogany.com.br"
+      "email": "mahogany.praiadebelas@mahogany.com.br"
     },
     {
       "title": "Porto Alegre",
@@ -1132,7 +1114,7 @@
       "latitude": -30.0119626,
       "longitude": -51.16078809999999,
       "addressType": "Loja",
-      "email": "mahogany.wallig@mahogany.com.br"
+      "email": "mahogany.praiadebelas@mahogany.com.br"
     },
     {
       "title": "Rio Grande",
@@ -1201,8 +1183,8 @@
       "title": "Itapema",
       "address": "Av. Nereu Ramos, 3285",
       "phone": "",
-      "latitude": -27.1211804,
-      "longitude": -48.606357,
+      "latitude": -27.12677,
+      "longitude": -48.60283,
       "addressType": "Loja",
       "email": "mahogany.itapema@mahogany.com.br"
     },
@@ -1258,7 +1240,7 @@
       "latitude": -23.5044234,
       "longitude": -46.83465560000002,
       "addressType": "Loja",
-      "email": "cidinha.lucena@mahogany.com.br"
+      "email": "simone.perez@mahogany.com.br"
     },
     {
       "title": "Bauru",
@@ -1288,22 +1270,13 @@
       "email": "mahogany.cdbauru@mahogany.com.br"
     },
     {
-      "title": "Bragança",
-      "address": "Km 53 loja 1045 | Rod. Est.  SP-63, Alkindar Mont.Junqueira, S/N",
-      "phone": "",
-      "latitude": 0,
-      "longitude": 0,
-      "addressType": "Loja",
-      "email": "mahogany.braganca@mahogany.com.br"
-    },
-    {
       "title": "Campinas",
       "address": "Piso Intermediário, loja 213 | R. Jacy Teixeira de Carmargo, 940",
       "phone": "",
       "latitude": -22.9329503,
       "longitude": -47.07599170000003,
       "addressType": "Loja",
-      "email": "cidinha.lucena@mahogany.com.br"
+      "email": "simone.perez@mahogany.com.br"
     },
     {
       "title": "Campinas",
@@ -1312,7 +1285,7 @@
       "latitude": -22.8478413,
       "longitude": -47.06248360000001,
       "addressType": "Loja",
-      "email": "cidinha.lucena@mahogany.com.br"
+      "email": "simone.perez@mahogany.com.br"
     },
     {
       "title": "Itapetininga",
@@ -1339,7 +1312,7 @@
       "latitude": -22.5703792,
       "longitude": -47.40725900000001,
       "addressType": "Loja",
-      "email": "cidinha.lucena@mahogany.com.br"
+      "email": "simone.perez@mahogany.com.br"
     },
     {
       "title": "Marília",
@@ -1348,7 +1321,7 @@
       "latitude": -22.186814,
       "longitude": -49.96734029999999,
       "addressType": "Loja",
-      "email": "cidinha.lucena@mahogany.com.br"
+      "email": "simone.perez@mahogany.com.br"
     },
     {
       "title": "Osasco",
@@ -1357,7 +1330,7 @@
       "latitude": -23.5414065,
       "longitude": -46.76611869999999,
       "addressType": "Loja",
-      "email": "cidinha.lucena@mahogany.com.br"
+      "email": "simone.perez@mahogany.com.br"
     },
     {
       "title": "Piracicaba",
@@ -1384,7 +1357,7 @@
       "latitude": -23.9775098,
       "longitude": -46.30927099999997,
       "addressType": "Loja",
-      "email": "sueli.sapiencia@mahogany.com.br"
+      "email": "simone.perez@mahogany.com.br"
     },
     {
       "title": "São Bernardo do Campo",
@@ -1438,7 +1411,7 @@
       "latitude": -23.5614415,
       "longitude": -46.56035829999996,
       "addressType": "Loja",
-      "email": "isa.miron@mahogany.com.br"
+      "email": "simone.perez@mahogany.com.br"
     },
     {
       "title": "São Paulo",
@@ -1456,7 +1429,7 @@
       "latitude": -23.5706282,
       "longitude": -46.69089930000001,
       "addressType": "Loja",
-      "email": "sueli.sapiencia@mahogany.com.br"
+      "email": "simone.perez@mahogany.com.br"
     },
     {
       "title": "São Paulo",
@@ -1465,7 +1438,7 @@
       "latitude": -23.610979,
       "longitude": -46.66923959999997,
       "addressType": "Loja",
-      "email": "cidinha.lucena@mahogany.com.br"
+      "email": "simone.perez@mahogany.com.br"
     },
     {
       "title": "São Paulo",
@@ -1474,7 +1447,7 @@
       "latitude": -23.53846,
       "longitude": -46.576909,
       "addressType": "Loja",
-      "email": "cristiane.stinchi@mahogany.com.br"
+      "email": "simone.perez@mahogany.com.br"
     },
     {
       "title": "São Paulo",
@@ -1492,7 +1465,7 @@
       "latitude": -23.5421516,
       "longitude": -46.57624469999996,
       "addressType": "Loja",
-      "email": "sandra.rocha@mahogany.com.br"
+      "email": "simone.perez@mahogany.com.br"
     },
     {
       "title": "São Paulo",
@@ -1501,7 +1474,7 @@
       "latitude": -23.5553673,
       "longitude": -46.60077469999999,
       "addressType": "Loja",
-      "email": "sandra.rocha@mahogany.com.br"
+      "email": "simone.perez@mahogany.com.br"
     },
     {
       "title": "São Paulo",
@@ -1519,7 +1492,7 @@
       "latitude": -23.6197226,
       "longitude": -46.62712499999998,
       "addressType": "Loja",
-      "email": "sueli.sapiencia@mahogany.com.br"
+      "email": "simone.perez@mahogany.com.br"
     },
     {
       "title": "São Paulo",
@@ -1528,7 +1501,7 @@
       "latitude": -23.6780233,
       "longitude": -46.69800789999999,
       "addressType": "Loja",
-      "email": "sueli.sapiencia@mahogany.com.br"
+      "email": "simone.perez@mahogany.com.br"
     },
     {
       "title": "São Paulo",
@@ -1537,7 +1510,7 @@
       "latitude": -23.5271089,
       "longitude": -46.67483400000003,
       "addressType": "Loja",
-      "email": "cidinha.lucena@mahogany.com.br"
+      "email": "simone.perez@mahogany.com.br"
     },
     {
       "title": "Sorocaba",
@@ -1546,7 +1519,7 @@
       "latitude": -23.5459807,
       "longitude": -47.46708079999996,
       "addressType": "Loja",
-      "email": "cidinha.lucena@mahogany.com.br"
+      "email": "simone.perez@mahogany.com.br"
     },
     {
       "title": "Taubaté",
@@ -1570,8 +1543,8 @@
       "title": "Araguaina",
       "address": "Sala 01 | R. das Mangueiras, 1232",
       "phone": "",
-      "latitude": -7.187478,
-      "longitude": -48.207552299999975,
+      "latitude": -7.18772,
+      "longitude": -48.20763,
       "addressType": "Loja",
       "email": "mahogany.araguaina@mahogany.com.br"
     },
@@ -1601,6 +1574,42 @@
       "longitude": -49.0858894,
       "addressType": "Loja",
       "email": "mahogany.maraba@mahogany.com.br"
+    },
+    {
+      "title": "Porto Alegre",
+      "address": "loja 3056 | Av. Praia de Belas, 1181",
+      "phone": "",
+      "latitude": -30.049526,
+      "longitude": -51.228753,
+      "addressType": "Loja",
+      "email": "mahogany.praiadebelas@mahogany.com.br"
+    },
+    {
+      "title": "Governador Valadares",
+      "address": "loja 01 | Rua Barbara Heliodora, 592",
+      "phone": "",
+      "latitude": -18.854357,
+      "longitude": -41.944426,
+      "addressType": "Loja",
+      "email": "mahogany.mgvaladares@mahogany.com.br"
+    },
+    {
+      "title": "Cacoal",
+      "address": "Sala 01 | Av. Porto Velho, 2520",
+      "phone": "",
+      "latitude": -11.438741,
+      "longitude": -61.446489,
+      "addressType": "Loja",
+      "email": "mahogany.cacoal@mahogany.com.br"
+    },
+    {
+      "title": "Londrina",
+      "address": "Loja LUC 18/T  | Av. Ayrton Senna da Silva 400, Loja LUC 18/T Gleba ",
+      "phone": "",
+      "latitude": -23.3288711,
+      "longitude": -51.1799069,
+      "addressType": "Loja",
+      "email": "mahogany.aurorashopping@mahogany.com.br"
     }
   ]
 }
