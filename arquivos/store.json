@@ -338,10 +338,10 @@
     },
     {
       "title": "Floripa Shopping",
-      "address": "2º Piso - Loja 270 | Rod. Virgílio Várzea, 587 - Saco Grande",
+      "address": "Rua Presidente Nereu Ramos,19 - Loja 18 - Edif Cent Com Irmão Daux",
       "phone": "(48) 3338-2412",
-      "latitude": -27.55361,
-      "longitude": -48.49889,
+      "latitude": -27.594664,
+      "longitude": -48.550548,
       "addressType": "Loja"
     },
     {
@@ -390,14 +390,6 @@
       "phone": "(51) 3267-1520",
       "latitude": -30.08449,
       "longitude": -51.2453,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Shopping Pelotas",
-      "address": "Quiosque 20 | Av. Ferreira Viana, 1526 - Areal",
-      "phone": "(53) 9105-5252",
-      "latitude": -31.76135,
-      "longitude": -52.31817,
       "addressType": "Loja"
     },
     {
@@ -759,7 +751,7 @@
       "latitude": -23.30445,
       "longitude": -51.16958,
       "addressType": "Loja"
-   },
+    },
     {
       "title": "Shopping Curitiba",
       "address": "Piso L2 - Loja 215 | R. Brigadeiro Franco, 2300 - Batel",
@@ -873,14 +865,6 @@
       "addressType": "Loja"
     },
     {
-      "title": "Montes Claros Shopping",
-      "address": "Loja E 177 |R.  Donato Quintino, 90 - Cidade Nova",
-      "phone": "(38) 9-9916-1020",
-      "latitude": -16.74194,
-      "longitude": -43.87061,
-      "addressType": "Loja"
-    },
-    {
       "title": "Griff Shopping",
       "address": "3º Piso - Loja 117 | Av. Governador Rondon Pacheco, 2300 - Vigilato Pereira",
       "phone": "(34) 3234-1215",
@@ -923,7 +907,7 @@
     {
       "title": "Shopping Tangará da Serra",
       "address": "Setor W - Sala 69 | Av. Vereador Nilo Torres, 751-W - Parque Leblon",
-      "phone": "(62) 3326-2169",
+      "phone": "(65) 3326-2169",
       "latitude": -14.61973,
       "longitude": -57.48752,
       "addressType": "Loja"
@@ -1358,6 +1342,38 @@
       "phone": "(53) 2125-3611",
       "latitude": -32.03262,
       "longitude": -52.093266,
+      "addressType": "Loja"
+    },
+    {
+      "title": "Guarabira -Centro ",
+      "address": "Rua Costa Beiriz,128",
+      "phone": "(83) 3271-6386",
+      "latitude": -6.851758,
+      "longitude": -35.490248,
+      "addressType": "Loja"
+    },
+    {
+      "title": "Sousa - Centro ",
+      "address": "Rua Cônego José Viana, 32",
+      "phone": "(83) 9 9137-8959",
+      "latitude": -6.765476,
+      "longitude": -38.232121,
+      "addressType": "Loja"
+    },
+    {
+      "title": "Aurora Shopping",
+      "address": "Av. Ayrton Senna da Silva, 400 -Terro, Loja LUC 18/T",
+      "phone": "(43) 3336-0057",
+      "latitude": -23.329017,
+      "longitude": -51.177847,
+      "addressType": "Loja"
+    },
+    {
+      "title": "Soledade -Centro",
+      "address": "Av. Mal Floriano Peixoto,547",
+      "phone": "(54) 3381-2538",
+      "latitude": -28.841323,
+      "longitude": -52.513951,
       "addressType": "Loja"
     }
   ]
