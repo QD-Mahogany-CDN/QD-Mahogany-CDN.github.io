@@ -337,7 +337,7 @@
       "addressType": "Loja"
     },
     {
-      "title": "Floripa Shopping",
+      "title": "Florianópolis ",
       "address": "Rua Presidente Nereu Ramos,19 - Loja 18 - Edif Cent Com Irmão Daux",
       "phone": "(48) 3338-2412",
       "latitude": -27.594664,
@@ -622,14 +622,6 @@
       "phone": "(22) 2762-1617",
       "latitude": -22.37586,
       "longitude": -41.77733,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Centro Comercial Jorge Nunes",
-      "address": "Loja 1 | Av. Cardoso Moreira, 431 - Centro",
-      "phone": "(22) 3824-3868",
-      "latitude": -21.20653,
-      "longitude": -41.88939,
       "addressType": "Loja"
     },
     {
