@@ -265,22 +265,6 @@
       "addressType": "Loja"
     },
     {
-      "title": "Shopping das Nações",
-      "address": "2º Piso - Loja 256 |  Rua General Marcondes Salgado, 11-39 - Chácara das Flores",
-      "phone": "(14) 3212-5247",
-      "latitude": -22.31446,
-      "longitude": -49.0587,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Bauru Shopping",
-      "address": "Loja 5 | Rua Henrique Savi, 5-34 - Jardim Infante Dom Henrique",
-      "phone": "(14) 3206-9425",
-      "latitude": -22.34281,
-      "longitude": -49.04972,
-      "addressType": "Loja"
-    },
-    {
       "title": "Shopping Tamboré",
       "address": "Piso Térreo - Loja 84 | Av. Piracema, 669 - Tamboré",
       "phone": "(11) 2166-9798",
@@ -1366,6 +1350,14 @@
       "phone": "(54) 3381-2538",
       "latitude": -28.841323,
       "longitude": -52.513951,
+      "addressType": "Loja"
+    },
+    {
+      "title": "Bauru Shopping",
+      "address": "loja 05",
+      "phone": "(14) 3206-9425",
+      "latitude": -22.336333,
+      "longitude": -49.054618,
       "addressType": "Loja"
     }
   ]
