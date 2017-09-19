@@ -1359,6 +1359,22 @@
       "latitude": -22.336333,
       "longitude": -49.054618,
       "addressType": "Loja"
+    },
+    {
+      "title": "Mahogany Ecoville",
+      "address": "R. Dep. Heitor Alencar Furtado, 1210 – Loja 08",
+      "phone": "",
+      "latitude": -25.437877,
+      "longitude": -49.31889,
+      "addressType": "Loja"
+    },
+    {
+      "title": "Mahogany Currais Novos",
+      "address": "Rua João Pessoa, 82",
+      "phone": "(84)99624-4542",
+      "latitude": -6.262864,
+      "longitude": null,
+      "addressType": "Loja"
     }
   ]
 }
