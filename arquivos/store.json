@@ -1367,6 +1367,14 @@
       "latitude": -6.262864,
       "longitude": -36.516334,
       "addressType": "Loja"
+    },
+    {
+      "title": "Shopping Conquista Sul",
+      "address": "Av. Juracy Magalhães, 3340",
+      "phone": "(77)3424-0522",
+      "latitude": -14.89291,
+      "longitude": -40.845136,
+      "addressType": "Loja"
     }
   ]
 }
