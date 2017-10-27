@@ -1382,7 +1382,7 @@
       "phone": "(68) 99201-4257",
       "latitude": -9.985888,
       "longitude": -67.848293,
-      "addressType": "Todas"
+      "addressType": "Loja"
     },
     {
       "title": "Sapopemba",
@@ -1390,7 +1390,39 @@
       "phone": "(11) 2539-5999",
       "latitude": -23.576005,
       "longitude": -46.551437,
-      "addressType": "Todas"
+      "addressType": "Loja"
+    },
+    {
+      "title": "CD - São José do Rio Preto",
+      "address": "Rua General Glicério, 3045, Centro",
+      "phone": "(17) 32223890",
+      "latitude": -20.811191,
+      "longitude": -49.381902,
+      "addressType": "Revendedor"
+    },
+    {
+      "title": "Confiança Supermercados - Botucatu",
+      "address": "Rua Emílio Cani,\t899 - Loja S 1 - 07",
+      "phone": "(14) 3354-8003",
+      "latitude": -22.900288,
+      "longitude": -48.449464,
+      "addressType": "Loja"
+    },
+    {
+      "title": "Tauá - Centro",
+      "address": "Rua Dondon Feitosa, 457",
+      "phone": "(88) 99810-4040",
+      "latitude": -5.999722,
+      "longitude": -40.293867,
+      "addressType": "Loja"
+    },
+    {
+      "title": "Caratinga - Cenro",
+      "address": "Av. Olegário Maciel, 67",
+      "phone": "(33) 3321-4173",
+      "latitude": -19.787321,
+      "longitude": -42.142104,
+      "addressType": "Loja"
     }
   ]
 }
