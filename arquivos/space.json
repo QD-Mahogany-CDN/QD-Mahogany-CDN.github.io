@@ -1177,11 +1177,11 @@
       "addressType": "Loja"
     },
     {
-      "title": "Park Shopping Canoas",
-      "address": "Loja 2085 | Av. Farroupilha, 4545",
-      "phone": "(51) 3300-6359 ",
-      "latitude": -29.915886,
-      "longitude": -51.165075,
+      "title": "Shopping Canoas",
+      "address": "Loja 40 | Av. Guilherme Schell, 6750 - Centro",
+      "phone": "(51) 3300-6359",
+      "latitude": -29.91016,
+      "longitude": -51.18291,
       "addressType": "Loja"
     },
     {
@@ -1425,11 +1425,11 @@
       "addressType": "Loja"
     },
     {
-      "title": "Codó - Centro",
-      "address": "Rua Afonso Pena, 437",
-      "phone": "(99) 3528-3613",
-      "latitude": -4.453771,
-      "longitude": -43.883235,
+      "title": "Shopping Tijucas",
+      "address": " Av. Bayer Filho, 984",
+      "phone": "(48) 3263-0935",
+      "latitude": -27.241999,
+      "longitude": -48.636517,
       "addressType": "Loja"
     }
   ]
