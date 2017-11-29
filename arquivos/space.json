@@ -1177,11 +1177,11 @@
       "addressType": "Loja"
     },
     {
-      "title": "Shopping Canoas",
-      "address": "Loja 40 | Av. Guilherme Schell, 6750 - Centro",
-      "phone": "(51) 3300-6359",
-      "latitude": -29.91016,
-      "longitude": -51.18291,
+      "title": "Park Shopping Canoas",
+      "address": "Loja 2085 | Avenida Farroupilha, 4545, Marechal Rondon",
+      "phone": "(51) 3059-9005",
+      "latitude": -29.915886,
+      "longitude": -51.165075,
       "addressType": "Loja"
     },
     {
@@ -1402,7 +1402,7 @@
     },
     {
       "title": "Confiança Supermercados - Botucatu",
-      "address": "Rua Emílio Cani,\t899 - Loja S 1 - 07",
+      "address": "Rua Emílio Cani, 899 - Loja S 1 - 07",
       "phone": "(14) 3354-8003",
       "latitude": -22.900288,
       "longitude": -48.449464,
@@ -1425,11 +1425,19 @@
       "addressType": "Loja"
     },
     {
-      "title": "Shopping Tijucas",
-      "address": " Av. Bayer Filho, 984",
-      "phone": "(48) 3263-0935",
-      "latitude": -27.241999,
-      "longitude": -48.636517,
+      "title": "Timbaúba - Centro",
+      "address": "Rua Walfredo Ferreira Lima, 60",
+      "phone": "",
+      "latitude": -7.510343,
+      "longitude": -35.318035,
+      "addressType": "Loja"
+    },
+    {
+      "title": "Shopping Cachoeiro",
+      "address": "Rua 25 de Março, 33 - Loja 125",
+      "phone": "(28) 3028 - 0636",
+      "latitude": -23.549335,
+      "longitude": -46.630423,
       "addressType": "Loja"
     }
   ]
