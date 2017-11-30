@@ -1425,19 +1425,27 @@
       "addressType": "Loja"
     },
     {
-      "title": "Timbaúba - Centro",
-      "address": "Rua Walfredo Ferreira Lima, 60",
-      "phone": "(81) 991349440",
-      "latitude": -7.510343,
-      "longitude": -35.318035,
+      "title": "Ig Shopping",
+      "address": "Av. Capitão Silvio, 3790, Sala 32",
+      "phone": "(69) 3536-6602",
+      "latitude": -9.923598,
+      "longitude": -63.033226,
       "addressType": "Loja"
     },
     {
-      "title": "Shopping Cachoeiro",
-      "address": "Rua 25 de Março, 33 - Loja 125",
-      "phone": "(28) 3028 - 0636",
-      "latitude": -23.549335,
-      "longitude": -46.630423,
+      "title": "Resende Shopping",
+      "address": "Av. Saturnino Braga, 369, L2 - Q06, Campos Elíseos",
+      "phone": "",
+      "latitude": -22.466254,
+      "longitude": -44.451639,
+      "addressType": "Loja"
+    },
+    {
+      "title": "North Shopping Sobral",
+      "address": "Av. Monsenhor José Aloisio Pinto, 300, Dom Expedito",
+      "phone": "(88) 2144-1482",
+      "latitude": -3.6972791,
+      "longitude": -40.3478402,
       "addressType": "Loja"
     }
   ]
