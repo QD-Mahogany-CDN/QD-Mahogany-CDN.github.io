@@ -1423,6 +1423,54 @@
       "latitude": -26.0802280,
       "longitude": -53.0509690,
       "addressType": "Loja"
+    },
+    {
+      "title": "Tramandaí - Centro",
+      "address": "Rua 24 de Setembro, 241 - Loja 7",
+      "phone": "(51) 3684-6203",
+      "latitude": -29.9877230,
+      "longitude": -50.137498,
+      "addressType": "Loja"
+    },
+    {
+      "title": "Limoeiro do Norte - Centro",
+      "address": "Praça Mamede de Oliveira, 264 - Centro",
+      "phone": "(88) 3423-3391",
+      "latitude": -5.1571710,
+      "longitude": -38.0208150,
+      "addressType": "Loja"
+    },
+    {
+      "title": "Codó - Centro",
+      "address": "Rua Afonso Pena, 437 - Centro",
+      "phone": "(99) 3661-1360",
+      "latitude": -4.4537710,
+      "longitude": -43.8832350,
+      "addressType": "Loja"
+    },
+    {
+      "title": "Tijucas - Centro",
+      "address": "Avenida Bayer Filho, 984 - Centro",
+      "phone": "(48) 3263-0935",
+      "latitude": -27.2420130,
+      "longitude": -48.6365060,
+      "addressType": "Loja"
+    },
+    {
+      "title": "Timbaúba - Centro",
+      "address": "Rua Walfredo Ferreira Lima, 60 - Centro",
+      "phone": "(81) 99623-2550",
+      "latitude": -7.5103430,
+      "longitude": -35.3180350,
+      "addressType": "Loja"
+    },
+    {
+      "title": "Cachoeiro de Itapemirim - Centro",
+      "address": "R. Vinte e Cinco de Março, 33 - Centro",
+      "phone": "(28) 3028-0636",
+      "latitude": -20.8480960,
+      "longitude": -41.1130410,
+      "addressType": "Loja"
     }
   ]
 }
