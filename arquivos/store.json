@@ -1419,7 +1419,7 @@
     {
       "title": "Francisco Beltrão - Centro",
       "address": "Av. Júlio Assis Cavalheiro, 624 - Sala 1",
-      "phone": "(46) 99117-4734",
+      "phone": "",
       "latitude": -26.0802280,
       "longitude": -53.0509690,
       "addressType": "Loja"
@@ -1459,7 +1459,7 @@
     {
       "title": "Timbaúba - Centro",
       "address": "Rua Walfredo Ferreira Lima, 60 - Centro",
-      "phone": "(81) 99623-2550",
+      "phone": "",
       "latitude": -7.5103430,
       "longitude": -35.3180350,
       "addressType": "Loja"
@@ -1470,6 +1470,46 @@
       "phone": "(28) 3028-0636",
       "latitude": -20.8480960,
       "longitude": -41.1130410,
+      "addressType": "Loja"
+    },
+    {
+      "title": "Ariquemes - Grandes Areas",
+      "address": "Av. Capitão Silvio, 3790 - Sala 32 - Grandes Areas",
+      "phone": "(69) 3536-6602",
+      "latitude": -9.9235610,
+      "longitude": -63.0333390,
+      "addressType": "Loja"
+    },
+    {
+      "title": "Resende - Campos Elíseos",
+      "address": "Av. Saturnino Braga, 369 - L2 Q06 - Campos Elíseos",
+      "phone": "",
+      "latitude": -22.4662550,
+      "longitude": -44.4516190,
+      "addressType": "Loja"
+    },
+    {
+      "title": "Sobral - Dom Expedito",
+      "address": "Av. Monsenhor José Aloisio Pinto, 300 - Q TEMP. 08 - Dom Expedito",
+      "phone": "(88) 2144-1482",
+      "latitude": -3.7017210,
+      "longitude": -40.3455300,
+      "addressType": "Loja"
+    },
+    {
+      "title": "Nova Friburgo - Centro",
+      "address": "Rua Moisés Amelio, 17 - Loja 107 - Centro",
+      "phone": "",
+      "latitude": -22.2895270,
+      "longitude": -42.5313670,
+      "addressType": "Loja"
+    },
+    {
+      "title": "Aracati - Centro",
+      "address": "Rua Coronel Alexandrino, 560 - Centro",
+      "phone": "",
+      "latitude": -4.5634900,
+      "longitude": -37.7713410,
       "addressType": "Loja"
     }
   ]
