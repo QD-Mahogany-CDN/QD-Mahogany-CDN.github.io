@@ -1423,6 +1423,14 @@
       "latitude": -19.787321,
       "longitude": -42.142104,
       "addressType": "Loja"
+    },
+    {
+      "title": "Av. Júlio Assis Cavalheiro - Centro",
+      "address": "Av. Olegário Maciel, 67",
+      "phone": "(46) 99117-4734",
+      "latitude": -26.0851650,
+      "longitude": -53.0449800,
+      "addressType": "Loja"
     }
   ]
 }
