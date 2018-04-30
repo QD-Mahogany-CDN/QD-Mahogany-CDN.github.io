@@ -825,14 +825,6 @@
       "addressType": "Loja"
     },
     {
-      "title": "Griff Shopping",
-      "address": "3º Piso - Loja 117 | Av. Governador Rondon Pacheco, 2300 - Vigilato Pereira",
-      "phone": "(34) 3234-1215",
-      "latitude": -18.92547,
-      "longitude": -48.27229,
-      "addressType": "Loja"
-    },
-    {
       "title": "Mister Shopping",
       "address": "Loja 114 | Rua Mister Moore, 72 - Centro",
       "phone": "(32) 3211-3659",
@@ -1054,14 +1046,6 @@
       "phone": "(77) 3628-6569",
       "latitude": -12.08861,
       "longitude": -45.79896,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Shopping Jequitibá",
-      "address": "Loja N36 |Av. Aziz Maron, S/N - Goes Calmon",
-      "phone": "(73) 3215-6054",
-      "latitude": -14.79541,
-      "longitude": -39.2744,
       "addressType": "Loja"
     },
     {
@@ -1294,14 +1278,6 @@
       "phone": "(51) 3231-9771",
       "latitude": -30.049526,
       "longitude": -51.228753,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Rio Grande - Centro",
-      "address": "Rua Benjamim Constant, 149 - Centro",
-      "phone": "(53) 2125-3611",
-      "latitude": -32.03262,
-      "longitude": -52.093266,
       "addressType": "Loja"
     },
     {
