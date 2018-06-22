@@ -1,1500 +1,1508 @@
 {
-  "store": [
-    {
-      "title": "Galeria Anfíbio",
-      "address": "Box 02 | Av. Tamoios, 826 - Centro",
-      "phone": "(14) 3722-1160",
-      "latitude": -21.9295271,
-      "longitude": -50.5135785,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Shopping Picos",
-      "address": "Loja A 47 | Av. Senador Helvídio Nunes, 5.233 - Junco",
-      "phone": "(89) 9-9936-9778",
-      "latitude": -7.07879,
-      "longitude": -41.43578,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Shopping Tropical",
-      "address": "Loja 7, Bloco B4 | Av. Coronel Colares Moreira, 400 - Renascença",
-      "phone": "(98) 3235-6079",
-      "latitude": -2.5075343,
-      "longitude": -44.2991653,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Rio Branco",
-      "address": "Rua Rio de Janeiro, 294 - Base",
-      "phone": "(68) 2002-8398",
-      "latitude": -9.9716718,
-      "longitude": -67.8178805,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Galeria Anfíbio",
-      "address": "Box 02 | Av. Tamoios, 826 - Centro",
-      "phone": "(14) 3722-1160",
-      "latitude": -21.92948,
-      "longitude": -50.51363,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Taubaté - Centro",
-      "address": "R. Duque de Caxias, 189 - Centro",
-      "phone": "(12) 3631-1292",
-      "latitude": -23.02394,
-      "longitude": -45.55314,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Esplanada Shopping",
-      "address": "Loja 228 | Av. Gisele Constantino, 1870 - Parque Morumbi",
-      "phone": "(15) 3211-1928",
-      "latitude": -23.54598,
-      "longitude": -47.46708,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Shopping West Plaza",
-      "address": "Piso Térreo - Loja 1107 - Bl. A | Av. Antártica, 380 - Água Branca",
-      "phone": "(11) 3803-8407",
-      "latitude": -23.52692,
-      "longitude": -46.67465,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Shopping SP Market",
-      "address": "Piso Térreo - Loja A 4-19 | Av. Nações Unidas, 22540 - Jurubatuba",
-      "phone": "(11) 5541-2081",
-      "latitude": -23.67802,
-      "longitude": -46.69801,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Shopping Plaza Sul",
-      "address": "2º Piso - Loja 261 | Praça Leonor Kaupa, 100 - Bosque da Saúde",
-      "phone": "(11) 5058-3863",
-      "latitude": -23.6198,
-      "longitude": -46.62744,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Mooca Plaza Shopping",
-      "address": "Piso L1 - Loja 1108 | R. Cap. Pacheco E Chaves, 313 - Vila Prudente",
-      "phone": "(11) 2219-0513",
-      "latitude": -23.57976,
-      "longitude": -46.59442,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Mooca",
-      "address": "Rua da Mooca, 2509 - Mooca",
-      "phone": "(11) 2292-1065",
-      "latitude": -23.55537,
-      "longitude": -46.60077,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Shopping Boulevard Tatuapé",
-      "address": "Quiosque 21 | Rua Gonçalves Crespo, 78 - Tatuapé",
-      "phone": "",
-      "latitude": -23.53894,
-      "longitude": -46.57639,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Shopping Metrô Tatuapé",
-      "address": "Piso Superior - Loja S27 | R. Domingos Agostim, 91 - Cidade Mãe do Céu",
-      "phone": "(11) 2090-7482",
-      "latitude": -23.5417,
-      "longitude": -46.57673,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Shopping Metrô Santa Cruz",
-      "address": "Piso Passarela - Loja 12 | R. Domingos de Moraes, 2564 - VIla Mariana",
-      "phone": "(11) 3471-8034",
-      "latitude": -23.59908,
-      "longitude": -46.63719,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Shopping Ibirapuera",
-      "address": "Piso Moema - Loja 85 | Av. Ibirapuera, 3103 - Moema",
-      "phone": "(11) 5533-4793",
-      "latitude": -23.61547,
-      "longitude": -46.6621,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Shopping Eldorado",
-      "address": "Piso Térreo - Loja 138 | Av. Rebouças, 3970 - Pinheiros",
-      "phone": "(11) 2197-6068",
-      "latitude": -23.57257,
-      "longitude": -46.69573,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Shopping Center Norte",
-      "address": "Loja 714 | Travessa Casalbuono, 120 - Vila Guilherme",
-      "phone": "(11) 2089-0400",
-      "latitude": -23.51546,
-      "longitude": -46.61789,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Shopping Anália Franco",
-      "address": "Piso Tulipa - Loja 92 | Av. Regente Feijó, 1739 - Água Rasa",
-      "phone": "(11) 2076-0120",
-      "latitude": -23.56151,
-      "longitude": -46.56044,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Shopping Center Vale",
-      "address": "Piso Dutra - Loja S-607 | Av. Deputado Benedito Matarazzo, 9403 - Jardim Oswaldo Cruz",
-      "phone": "(12) 3911-8628",
-      "latitude": -23.20082,
-      "longitude": -45.88035,
-      "addressType": "Loja"
-    },
-    {
-      "title": "São José do Rio Preto - Centro",
-      "address": "Rua General Glicério, 3045 - Centro",
-      "phone": "(17) 3222-3890",
-      "latitude": -20.81119,
-      "longitude": -49.3819,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Park Shopping São Caetano",
-      "address": "1º Piso - Loja 2037 | Al. Terracota, 545 - Santo Antonio",
-      "phone": "(11) 4233-8533",
-      "latitude": -23.61937,
-      "longitude": -46.57526,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Shopping Metrópole",
-      "address": "Loja N08 | Praça Samuel Sabatini, 200 - Centro",
-      "phone": "(11) 4123-1221",
-      "latitude": -23.6927,
-      "longitude": -46.55111,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Praiamar Shopping",
-      "address": "Piso Térreo - Loja 156 | R. Alexandre Martins, 80 - Aparecida",
-      "phone": "(13) 3231-4385",
-      "latitude": -23.97687,
-      "longitude": -46.31058,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Grand Plaza Shopping",
-      "address": "Loja 516 | Av. Industrial, 600 - Jardim",
-      "phone": "(11) 2534-3716",
-      "latitude": -23.64674,
-      "longitude": -46.53379,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Piracicaba Shopping",
-      "address": "Piso Térreo - Loja 143 | Av. Limeira 722 - Vila Resende",
-      "phone": "(19) 3412-5466",
-      "latitude": -22.70401,
-      "longitude": -47.64976,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Shopping União de Osasco",
-      "address": "Piso Voegeli - Loja 194 | Av. dos Autonomistas, 1400 - Vila Yara",
-      "phone": "(11) 3184-4330",
-      "latitude": -23.53901,
-      "longitude": -46.76545,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Marília Shopping",
-      "address": "Piso Térreo - Loja 20 | R. Tucunarés, 500 - Jardim Maria Martha",
-      "phone": "(14) 3301-9895",
-      "latitude": -22.18629,
-      "longitude": -49.96701,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Pátio Limeira Shopping",
-      "address": "Piso Térreo - Loja 216 |  R. Carlos Gomes, 1321 - Centro",
-      "phone": "(19) 3442-3964",
-      "latitude": -22.57095,
-      "longitude": -47.40797,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Itatiba - Centro",
-      "address": "Rua Rangel Pestana, 197 - Centro",
-      "phone": "(11) 4538-4523",
-      "latitude": -23.00518,
-      "longitude": -46.8416,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Itapetininga - Centro",
-      "address": "Rua Silva Jardim, 604 -  Centro",
-      "phone": "(15) 3537-6061",
-      "latitude": -23.58821,
-      "longitude": -48.0495,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Parque Dom Pedro Shopping",
-      "address": "Loja 426 | Av. Guilherme Campos, 500 - Jardim Santa Genebra",
-      "phone": "(19) 3756-7436",
-      "latitude": -22.84793,
-      "longitude": -47.06328,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Campinas Shopping",
-      "address": "Piso Intermediário - Loja 213 | R. Jacy Teixeira de Carmargo, 940 - Jardim do Lago",
-      "phone": "(19) 3229-4189",
-      "latitude": -22.93247,
-      "longitude": -47.07803,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Shopping Tamboré",
-      "address": "Piso Térreo - Loja 84 | Av. Piracema, 669 - Tamboré",
-      "phone": "(11) 2166-9798",
-      "latitude": -23.5043,
-      "longitude": -46.8325,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Assis",
-      "address": "R Floriano Peixoto, 392 - Centro",
-      "phone": "(18) 3322-5416",
-      "latitude": -22.66238,
-      "longitude": -50.41638,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Araras - Centro",
-      "address": "R. Tiradentes, 270 - Centro",
-      "phone": "(19) 3351-4003",
-      "latitude": -22.35521,
-      "longitude": -47.38287,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Capim Dourado Shopping",
-      "address": "Piso Térreo - LUC 65 | Q Av 107 Norte Av. Juscelino Kubitschek, s/n - Plano Diretor Norte",
-      "phone": "(63) 3215-2221",
-      "latitude": -10.18324,
-      "longitude": -48.33717,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Araguaina - Centro",
-      "address": "Sala 1 | R. das Mangueiras, 1232 -Centro",
-      "phone": "(63) 3411-6329",
-      "latitude": -7.18772,
-      "longitude": -48.20763,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Shopping Jardins",
-      "address": "Loja E-36 | Av. Min. Geraldo B. Sobral, 215 - Jardins",
-      "phone": "(79) 3231-9700",
-      "latitude": -10.94323,
-      "longitude": -37.06072,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Itapema",
-      "address": "Avenida Nereu Ramos, 3285 - Meia Praia",
-      "phone": "(47) 3366-5916",
-      "latitude": -27.12677,
-      "longitude": -48.60283,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Florianópolis ",
-      "address": "Rua Presidente Nereu Ramos,19 - Loja 18 - Edif Cent Com Irmão Daux",
-      "phone": "(48) 3338-2412",
-      "latitude": -27.594664,
-      "longitude": -48.550548,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Porto Velho Shopping",
-      "address": "Piso Térreo - Loja 105 | Av. Rio Madeira, 3288 - Floroaldo Pontes Pinto",
-      "phone": "(69) 3218-8070",
-      "latitude": -8.74814,
-      "longitude": -63.87577,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Santa Maria - Centro",
-      "address": "Rua Salvador Isaia Calçadão, 1263 - Centro",
-      "phone": "(55) 3317-3117",
-      "latitude": -29.68642,
-      "longitude": -53.80752,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Bourbon Shopping Wallig",
-      "address": "Loja 257 | Av. Assis Brasil, 2611 - Cristo Redentor",
-      "phone": "(51) 3329-6316",
-      "latitude": -30.01196,
-      "longitude": -51.16079,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Shopping Iguatemi",
-      "address": "2º Piso - Loja 2244 | Av. João Wallig, 1800 - Passo D'Areia",
-      "phone": "(51) 3273-1294",
-      "latitude": -30.02532,
-      "longitude": -51.16212,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Bourbon Shopping Ipiranga",
-      "address": "2º Piso - Loja 211 | Av. Ipiranga, 5200 - Azenha",
-      "phone": "(51) 3352-2198",
-      "latitude": -30.05514,
-      "longitude": -51.18692,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Barra Shopping Sul",
-      "address": "Piso Guaíba - Loja 2090 | Av. Diário de Notícias, 300 - Cristal",
-      "phone": "(51) 3267-1520",
-      "latitude": -30.08449,
-      "longitude": -51.2453,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Shopping da Praça",
-      "address": "Loja 4 A | Rua Morom, 1559 - Centro",
-      "phone": "(54) 3601-5157",
-      "latitude": -28.26182,
-      "longitude": -52.4065,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Ji-Paraná",
-      "address": "Av. Brasil, 654 - Nova Brasília",
-      "phone": "(69) 3423-5133",
-      "latitude": -10.8878,
-      "longitude": -61.92437,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Pau dos Ferros",
-      "address": "Rua Maria Fernandes de Aquino, 49 - Centro",
-      "phone": "(84) 3351-5684",
-      "latitude": -6.11233,
-      "longitude": -38.2052,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Natal Shopping",
-      "address": "Loja 375 | Av. Senador Salgado Filho, 2234 - Candelaria",
-      "phone": "(84) 3025-9965",
-      "latitude": -5.84214,
-      "longitude": -35.21171,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Midway Mall",
-      "address": "Piso L1 - Loja 130A | Av. Bernardo Vieira, 3775 - Tirol",
-      "phone": "(84) 3222-2117",
-      "latitude": -5.81129,
-      "longitude": -35.20623,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Partage Shopping Mossoró",
-      "address": "Loja 72 | Av. Joao da Escossia, 1515 - Doze Anos",
-      "phone": "(84) 3314-0390",
-      "latitude": -5.17215,
-      "longitude": -37.37681,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Volta Redonda",
-      "address": "Rua 25, 169 - Vila Santa Cecília",
-      "phone": "(24) 3348-2211",
-      "latitude": -22.54631,
-      "longitude": -44.07118,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Shopping Americo Silva",
-      "address": "Loja 26 A | R. Barão do Rio Branco, 303 - Centro",
-      "phone": "(24) 2251-1187",
-      "latitude": -22.11563,
-      "longitude": -43.21009,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Galeria Teresópolis",
-      "address": "Loja 11 | R. Francisco Sá, 185 - Várzea",
-      "phone": "(21) 2742-2978",
-      "latitude": -22.41088,
-      "longitude": -42.96767,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Carioca Shopping",
-      "address": "1º Piso, Loja 120 |Av. Vicente de Carvalho, 909 - Vila da Penha",
-      "phone": "(21) 3688-2584",
-      "latitude": -22.85037,
-      "longitude": -43.30906,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Parque Shopping Sulacap",
-      "address": "Loja 221 | Av. Marechal Fontenelle, 3455 - Jardim Sulacap",
-      "phone": "(21) 3500-8600",
-      "latitude": -22.88483,
-      "longitude": -43.40377,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Américas Shopping",
-      "address": "Loja 134 | Av. das Américas, 15500 - Recreio dos Bandeirantes",
-      "phone": "(21) 2442–9639",
-      "latitude": -23.01257,
-      "longitude": -43.46168,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Via Parque Shopping",
-      "address": "1º Piso - Loja 1102 | Av. Ayrton Senna, 3000 - Barra da Tijuca",
-      "phone": "(21) 2421-8669",
-      "latitude": -22.98269,
-      "longitude": -43.36294,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Shopping Tijuca",
-      "address": "2º Piso - Loja 2100 | Av. Maracanã, 987 - Tijuca",
-      "phone": "(21) 3176-0270",
-      "latitude": -22.92197,
-      "longitude": -43.23499,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Shopping Rio Sul",
-      "address": "3º Piso - Loja 301 C14i | Av. Lauro Müller, 116 - Botafogo",
-      "phone": "(21) 2275-2743",
-      "latitude": -22.95723,
-      "longitude": -43.17617,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Recreio Shopping",
-      "address": "1º Piso - Loja 104E - Av. das Américas, 19019 - Recreio dos Bandeirantes",
-      "phone": "(21) 2490-4139",
-      "latitude": -23.0213,
-      "longitude": -43.48841,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Shopping Nova América",
-      "address": "2º Piso - Loja 202 | Av. Pastor Martin Luther King Jr., 126 - Del Castilho",
-      "phone": "(21) 3083-1611",
-      "latitude": -22.87799,
-      "longitude": -43.27194,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Largo do Machado",
-      "address": "Loja 4 |  Largo do Machado, 29 - Catete",
-      "phone": "(21) 2205-1505",
-      "latitude": -22.93146,
-      "longitude": -43.17871,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Ipanema",
-      "address": "Rua Vinícius de Moraes, 74B - Ipanema",
-      "phone": "(21) 2513-3289",
-      "latitude": -22.98468,
-      "longitude": -43.2028,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Copacabana",
-      "address": "Loja F | R. Figueiredo Magalhães, 219 - Copacabana",
-      "phone": "(21) 2549-2975",
-      "latitude": -22.97019,
-      "longitude": -43.1862,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Boulevard Cidade Nova",
-      "address": "Quiosque 8 | R. Neri Pinheiro, 267 - Cidade Nova",
-      "phone": "(21) 2293-9472",
-      "latitude": -22.91172,
-      "longitude": -43.20265,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Botafogo Praia Shopping",
-      "address": "1º Piso - Loja 116 | Praia de Botafogo, 400 - Botafogo",
-      "phone": "(21) 2237-9158",
-      "latitude": -22.94748,
-      "longitude": -43.18342,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Barra Shopping",
-      "address": "Piso Lagoa - Loja 112D | Av. das Américas, 4666 - Barra da Tijuca",
-      "phone": "(21) 3089-1392",
-      "latitude": -22.99761,
-      "longitude": -43.35818,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Rua México",
-      "address": "Loja B | Rua México, 107 - Centro",
-      "phone": "(21) 3197-1446",
-      "latitude": -22.90746,
-      "longitude": -43.17583,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Plaza Shopping",
-      "address": "3º Piso - Loja 369 | Rua XV de Novembro, 8 - Centro",
-      "phone": "(21) 3628-1247 / 3628-1248",
-      "latitude": -22.89694,
-      "longitude": -43.12387,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Shopping Icaraí",
-      "address": "Loja 134 | R. Moreira Cesar, 229 - Icaraí",
-      "phone": "(21) 2610-9066",
-      "latitude": -22.90662,
-      "longitude": -43.1106,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Macaé - Centro",
-      "address": "Loja 2 | Av. Rui Barbosa, 660 - Centro",
-      "phone": "(22) 2762-1617",
-      "latitude": -22.37586,
-      "longitude": -41.77733,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Boulevard Shopping Campos",
-      "address": "Loja 109 E | Av. Dr. Sílvio Bastos Tavares, 330 - Parque dos Rodoviários",
-      "phone": "(22) 2737-9050",
-      "latitude": -21.75524,
-      "longitude": -41.34848,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Cabo Frio - Centro",
-      "address": "Loja 1 | Av. Teixeira e Souza, 58 - Centro",
-      "phone": "(22) 2643-8688",
-      "latitude": -22.892,
-      "longitude": -42.03603,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Teresina - Centro",
-      "address": "Rua Simplício Mendes, 72 - Centro",
-      "phone": "(86) 3221-6817",
-      "latitude": -5.09269,
-      "longitude": -42.81456,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Teresina Shopping",
-      "address": "Loja 142 | Av. Raul Lopes, 1000 - Dos Noivos",
-      "phone": "(86) 3215-0447",
-      "latitude": -5.08668,
-      "longitude": -42.78423,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Santa Cruz do Capibaribe - Centro",
-      "address": "Av. José Moraes da Silva, 49 - Centro",
-      "phone": "(81) 3705-1990",
-      "latitude": -7.95661,
-      "longitude": -36.20268,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Shopping RioMar",
-      "address": "Loja 1151 | Av. República do Líbano, 251 - Pina",
-      "phone": "(81) 3033-3266",
-      "latitude": -8.08681,
-      "longitude": -34.89113,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Shopping Boa Vista",
-      "address": "Loja 217 C | Av. Conde da Boa Vista, 610 - Boa Vista",
-      "phone": "(81) 3125-2655",
-      "latitude": -8.05904,
-      "longitude": -34.88657,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Shopping Tacaruna",
-      "address": "2º Piso - Loja 330 | Av. Gov. Agamenon Magalhães, 153 - Santo Amaro",
-      "phone": "(81) 3221-0144",
-      "latitude": -8.03795,
-      "longitude": -34.87152,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Shopping Recife",
-      "address": "Piso Térreo - Loja PC 64 | R. Padre Carapuceiro, 777 - Boa Viagem",
-      "phone": "(81) 3326-5531",
-      "latitude": -8.12007,
-      "longitude": -34.90504,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Plaza Shopping",
-      "address": "2º Piso - Loja 159 | R. Dr. João Santos Filho, 255 - Casa Forte",
-      "phone": "(81) 3268-3197",
-      "latitude": -8.03309,
-      "longitude": -34.91288,
-      "addressType": "Loja"
-    },
-    {
-      "title": "River Shopping",
-      "address": "Loja 19-B | Av. Monsenhor Angelo Sampaio, 100 - Centro",
-      "phone": "(87) 3861-6453",
-      "latitude": -9.39397,
-      "longitude": -40.4928,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Caruaru Shopping",
-      "address": "Loja 57A |Av. Adjar da Silva Case, 800 - Indianópolis",
-      "phone": "(81) 2104-1611",
-      "latitude": -8.29522,
-      "longitude": -35.95195,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Shopping Difusora",
-      "address": "1º Piso - Loja 95 | Av. Agamenon Magalhães, 444 - Maurício de Nassau",
-      "phone": "(81) 3721-0235",
-      "latitude": -8.2778,
-      "longitude": -35.97159,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Catuaí Shopping Maringá",
-      "address": "Loja 19 | Av. Colombo, 9161 - parque Industrial Bandeirantes",
-      "phone": "(44) 3224-8600",
-      "latitude": -23.42017,
-      "longitude": -51.96955,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Catuaí Shopping Londrina",
-      "address": "Loja E52 | Rua Edwy Taques de Araujo, 600 - Jd. Burle Marx",
-      "phone": "(43) 3336-7600",
-      "latitude": -23.30445,
-      "longitude": -51.16958,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Shopping Curitiba",
-      "address": "Piso L2 - Loja 215 | R. Brigadeiro Franco, 2300 - Batel",
-      "phone": "(41) 3077-8593",
-      "latitude": -25.44098,
-      "longitude": -49.27739,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Cascavel JL Shopping",
-      "address": "Piso L2 - Loja 210 | Av. Toledo, 432 - Centro",
-      "phone": "(45) 3039-3501",
-      "latitude": -24.95019,
-      "longitude": -53.47729,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Patos - Centro",
-      "address": "Sala 02 | Rua Pedro Firmino, 144 - Centro",
-      "phone": "(83) 3423-0615",
-      "latitude": -7.02695,
-      "longitude": -37.27833,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Shopping Tambiá",
-      "address": "2º Piso - Loja 125 |Av. Deputado Odon Bezerra, 184 - Tambiá",
-      "phone": "(83) 3221-4426",
-      "latitude": -7.11596,
-      "longitude": -34.88,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Mangabeira Shopping",
-      "address": "Piso Térreo - Loja P1 - 156 | Av. Hilton Souto Maior, 3901 - Mangabeira",
-      "phone": "(83) 3565-8288",
-      "latitude": -7.16242,
-      "longitude": -34.8304,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Manaíra Shopping",
-      "address": "1º Piso - Loja S-0439 | Av. Flávio Ribeiro Coutinho, 220 - Manaíra",
-      "phone": "(83) 2106-6466",
-      "latitude": -7.098,
-      "longitude": -34.84527,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Partage Shopping",
-      "address": "1º Piso - Loja 80 | Av. Severino Bezerra Cabral, 1057 - Catole",
-      "phone": "(83) 3337-7824",
-      "latitude": -7.23471,
-      "longitude": -35.8689,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Shopping Pátio Marabá",
-      "address": "Quiosque 38 | ARE Folha 30 – Qd 15 – LT 10, s/nº - nova Marabá",
-      "phone": "(94) 9-8166-1600",
-      "latitude": -5.38114,
-      "longitude": -49.1331,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Shopping Grão Pará",
-      "address": "2º Piso - Loja 1084 |Rod. Trabalhadores, S/N - Parque Verde",
-      "phone": "(91) 3231-8646",
-      "latitude": -1.34757,
-      "longitude": -48.471091,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Shopping Pátio Belém - Quiosque",
-      "address": "3º Piso | Tv. Padre Eutíquio, 1078 - Batista Campos",
-      "phone": "(91) 8723-3070",
-      "latitude": -1.45806,
-      "longitude": -48.49539,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Parque Shopping",
-      "address": "Loja 1022 | Rod. Augusto Montenegro, Km 4, 4300 - Parque Verde",
-      "phone": "(91) 3232-1161",
-      "latitude": -1.40232,
-      "longitude": -48.44481,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Castanheira Shopping Center",
-      "address": "2º Piso - Loja 310 | Rod. BR 316, Km 1, s/nº - Castanheira",
-      "phone": "(91) 3250-4207",
-      "latitude": -1.41186,
-      "longitude": -48.47007,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Boulevard Shopping",
-      "address": "2º Piso - Loja 253 | Av. Visconde de Souza Franco, 776 - Reduto",
-      "phone": "(91) 3345-3160 / 3223-4697",
-      "latitude": -1.44634,
-      "longitude": -48.48982,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Mister Shopping",
-      "address": "Loja 114 | Rua Mister Moore, 72 - Centro",
-      "phone": "(32) 3211-3659",
-      "latitude": -21.7594,
-      "longitude": -43.34875,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Boulevard Shopping",
-      "address": "2º Piso - Loja 2048 | Av. dos Andradas, 3000 - Santa Efigênia",
-      "phone": "(31) 2512-6576",
-      "latitude": -19.92001,
-      "longitude": -43.92031,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Campo Grande - Centro",
-      "address": "Rua Rio Grande do Sul, 882 - Jardim dos Estados",
-      "phone": "(67) 3342-9006",
-      "latitude": -20.45741,
-      "longitude": -54.60114,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Shopping Várzea Grande",
-      "address": "1º Piso - Loja 58A |Rua Presidente Arthur Bernardes, S/N - Jardim Aeroporto",
-      "phone": "(65) 3026-2129",
-      "latitude": -15.65643,
-      "longitude": -56.12278,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Shopping Tangará da Serra",
-      "address": "Setor W - Sala 69 | Av. Vereador Nilo Torres, 751-W - Parque Leblon",
-      "phone": "(65) 3326-2169",
-      "latitude": -14.61973,
-      "longitude": -57.48752,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Rondonópólis - Centro",
-      "address": "Rua Otávio Pitaluga, 440 - Vila Aurora I",
-      "phone": "(66) 3022-8774",
-      "latitude": -16.4798343,
-      "longitude": -54.6195973,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Pantanal Shopping",
-      "address": "2º piso - Loja 2065 | Av. Historiador Rubens de Mendonça, 3300 - Jd. Aclimação",
-      "phone": "(65) 3644-4628",
-      "latitude": -15.57657,
-      "longitude": -56.07212,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Colider - Centro",
-      "address": "Av. Marechal Rondon, 965 - Centro",
-      "phone": "(66) 3541-2248",
-      "latitude": -10.81405,
-      "longitude": -55.45341,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Shopping da Ilha",
-      "address": "Piso L2 - Loja 211O | Av. Daniel de la Touche, 987 - Cohama",
-      "phone": "(98) 3311-8216",
-      "latitude": -2.52755,
-      "longitude": -44.25492,
-      "addressType": "Loja"
-    },
-    {
-      "title": "São Luis Shopping Center",
-      "address": "Loja 135 | Av. Euclides Figueiredo, 1000 - Calhau",
-      "phone": "(98) 3251-3766",
-      "latitude": -2.5138,
-      "longitude": -44.28965,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Imperatriz - Centro",
-      "address": "Rua Simplício Moreira 1657A",
-      "phone": "(99) 3525-9910",
-      "latitude": -5.521791,
-      "longitude": -47.494862,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Shopping Vitória",
-      "address": "2º Piso - Loja 250 | Av. Américo Buaiz, 200 - Enseada do Suá ",
-      "phone": "(27) 3345-1566",
-      "latitude": -20.31264,
-      "longitude": -40.28816,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Shopping Praia da Costa",
-      "address": "3º Piso - Loja 302 | Av. Dr. Olívio Lira, 353 - Praia da Costa",
-      "phone": "(27) 3320-8435",
-      "latitude": -20.3421,
-      "longitude": -40.28967,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Boulevard Vila Velha",
-      "address": "Loja 1038 | Rodovia do Sol, 5000 - Jockey de Itaparica",
-      "phone": "(27) 3535-3395",
-      "latitude": -20.39207,
-      "longitude": -40.31821,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Shopping Pátio Brasil",
-      "address": "1º Piso - Loja 276 | Set. Comercial Sul, Qd. 07 - Asa Sul",
-      "phone": "(61) 3322-8626",
-      "latitude": -15.80431,
-      "longitude": -47.89957,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Shopping Conjunto Nacional",
-      "address": "2º Piso - Loja 2138 A | Set. Diversões Norte Cj. A1 - Asa Norte",
-      "phone": "(61) 3327-4058",
-      "latitude": -15.79423,
-      "longitude": -47.88217,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Cariri Garden Shopping",
-      "address": "Loja 190 | Av. Padre Cícero, 2555 - Triângulo",
-      "phone": "(88) 3571-3723",
-      "latitude": -7.22364,
-      "longitude": -39.32462,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Shopping Riomar",
-      "address": "Piso L2 - Loja 2090 | Rua Desembargador Lauro Nogueira, 1500 - Papicu",
-      "phone": "(85) 3221-6281",
-      "latitude": -3.74112,
-      "longitude": -38.47213,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Via Sul Shopping",
-      "address": "Piso Térreo - Loja 132 | Av. Washington Soares, 4335 - Sapiranga",
-      "phone": "(85) 3278-5981",
-      "latitude": -3.79461,
-      "longitude": -38.47956,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Shopping Aldeota",
-      "address": "2º Piso - Loja 224 | Av. Dom Luis, 500 - Meireles",
-      "phone": "(85) 3458-1580",
-      "latitude": -3.73365,
-      "longitude": -38.49678,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Shopping Iguatemi",
-      "address": "Piso Térreo - Loja A 429 | Av. Washington Soares, 85 - Edson Queiroz",
-      "phone": "(85) 3241-1868",
-      "latitude": -3.74985,
-      "longitude": -38.48799,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Santo Antonio de Jesus - Centro",
-      "address": "Casa A | Rua Landulfo Alves, 154 - Centro",
-      "phone": "(75) 3631-0182",
-      "latitude": -12.96985,
-      "longitude": -39.26174,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Shopping Paralela",
-      "address": "Quadra F - Loja 215 | Av. Luiz Viana Filho, 8544 - Alphaville 1",
-      "phone": "(71) 3414-2476",
-      "latitude": -12.97304,
-      "longitude": -38.5023,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Shopping da Bahia",
-      "address": "3º Piso - Loja S-17 | Av. Tancredo Neves, 148 - Caminho das Árvores",
-      "phone": "(71) 3450-1626",
-      "latitude": -12.97985,
-      "longitude": -38.4635,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Shopping Barra",
-      "address": "Piso L2 - Loja 235 | Av. Centenário, 2992 - Chame-Chame",
-      "phone": "(71) 3033-9427",
-      "latitude": -13.00686,
-      "longitude": -38.52451,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Salvador Shopping",
-      "address": "Piso L1 - Loja 1009 | Av. Tancredo Neves, 2915 - Caminho das Árvores",
-      "phone": "(71) 3019-3305",
-      "latitude": -12.978,
-      "longitude": -38.45474,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Boulevard Shopping",
-      "address": "Loja 242 | Av. João Durval Carneiro, 3665 - São João",
-      "phone": "(75) 3223-1016",
-      "latitude": -12.24227,
-      "longitude": -38.94891,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Luis Eduardo Magalhães",
-      "address": "Sala 2 | Rua Paraná, 279 - Mimoso do Oeste",
-      "phone": "(77) 3628-6569",
-      "latitude": -12.08861,
-      "longitude": -45.79896,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Barreiras Centro",
-      "address": "Praça Castro Alves, 297 - Vila Brasil",
-      "phone": "(77) 3611-2155",
-      "latitude": -12.1487,
-      "longitude": -44.9984,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Amazonas Shopping",
-      "address": "Lojas 233 | Av. Djalma Batista, 482 - Parque 10",
-      "phone": "(92) 3236-0963",
-      "latitude": -3.09437,
-      "longitude": -60.0227,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Manauara Shopping",
-      "address": "Loja 253 - Piso Castanheiras | Av. Mário Ypiranga, 1300 - Adrianópolis",
-      "phone": "(92) 3236-6318",
-      "latitude": -3.10412,
-      "longitude": -60.01179,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Maragogi",
-      "address": "Av. Senador Rui Palmeira, 705 - Litoraneo",
-      "phone": "(82) 3296-2528",
-      "latitude": -9.01037,
-      "longitude": -35.22083,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Maceió Shopping",
-      "address": "Loja 308-A | Av Com. Gustavo Paiva, 2990 - Mangabeiras",
-      "phone": "(82) 3436-9009",
-      "latitude": -9.64788,
-      "longitude": -35.71569,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Breves - Centro",
-      "address": "Av. Rio Branco, 216 - Centro",
-      "phone": "(91) 9-9344-6374",
-      "latitude": -1.68072,
-      "longitude": -50.47952,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Galeria Freguesia",
-      "address": "Bloco 3, Loja 102 | Estrada dos Tres Rios, 200 - Freguesia",
-      "phone": "(21) 2148-8947",
-      "latitude": -22.939185,
-      "longitude": -43.344947,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Caicó - Centro",
-      "address": "Loja 1 | Avenida Seridó, 447, Centro - Caicó",
-      "phone": "(84) 9-9828-4947",
-      "latitude": -6.46004,
-      "longitude": -37.09568,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Agudos - Centro",
-      "address": "Sala 02 | Rua Treze de Maio, 471 - Centro",
-      "phone": "(14) 3261-0486",
-      "latitude": -22.46992,
-      "longitude": -48.98867,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Valença - Centro",
-      "address": "Térreo | Avenida Marques do Herval, 8 - Centro ",
-      "phone": "(75) 3641-3743",
-      "latitude": -13.37266,
-      "longitude": -39.07313,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Assú - Centro",
-      "address": "Av. Senador João Camara, 366 - Centro",
-      "phone": "(84) 3331-4485",
-      "latitude": -5.57471,
-      "longitude": -36.90829,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Shopping Arapiraca",
-      "address": "Loja 102 A | Rua José Jailson Nunes, 493 - Caititus",
-      "phone": "(82) 3539-8944",
-      "latitude": -9.73466,
-      "longitude": -36.65562,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Óbidos - Centro",
-      "address": "Travessa Rui Barbosa, 301 - Centro",
-      "phone": "(93) 9-9119-7483",
-      "latitude": -1.91362,
-      "longitude": -55.51224,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Park Shopping Canoas",
-      "address": "Loja 2085 | Avenida Farroupilha, 4545, Marechal Rondon",
-      "phone": "(51) 3059-9005",
-      "latitude": -29.915886,
-      "longitude": -51.165075,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Blumenau - Centro",
-      "address": "Loja 03 | R. Curt Hering, 320 - Centro",
-      "phone": "(47) 3041-2417",
-      "latitude": -26.92044,
-      "longitude": -49.06606,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Santa Inês - Centro",
-      "address": "Av. Luis Muniz, 1109 - Centro",
-      "phone": "(98) 3653-0156",
-      "latitude": -3.66443,
-      "longitude": -45.38397,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Balsas - Centro",
-      "address": "Rua Gomes de Sousa, 544 - Centro",
-      "phone": "(99) 3541-3580",
-      "latitude": -7.52962,
-      "longitude": -46.03947,
-      "addressType": "Loja"
-    },
-    {
-      "title": "North Shopping Jóquei",
-      "address": "Loja 1086 | Av. Lineu Machado, 419 - Jóquei Clube",
-      "phone": "(85) 3233-5320",
-      "latitude": -3.76331,
-      "longitude": -38.57542,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Apodi - Centro",
-      "address": "Sala A | Rua Governador Dix Sept Rosado, 41 - Nossa Senhora da Conceição",
-      "phone": "",
-      "latitude": -5.66523,
-      "longitude": -37.79907,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Torres - Centro",
-      "address": "Sala 8 | Av. José Bonifácio, 351 - Centro",
-      "phone": "(51) 3156-0285",
-      "latitude": -29.33934,
-      "longitude": -49.73193,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Shopping Bragança ",
-      "address": "Km 53 Loja 1045 | Rod. Alkindar Monteiro Junqueira, S/N - Itapechinga ",
-      "phone": "(11) 4010-5074",
-      "latitude": -22.96914,
-      "longitude": -46.56844,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Vale Sul Shopping",
-      "address": "Quiosque QT19 | Av. Andrômeda, 227 - Jardim Satelite",
-      "phone": "(12) 9-9124-2906",
-      "latitude": -23.2173168,
-      "longitude": -45.8913332,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Formiga - Centro",
-      "address": "Rua Barão de Pinhui, 22 - Centro",
-      "phone": "(37) 3321-3120",
-      "latitude": -20.463962,
-      "longitude": -45.429787,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Galeria Maceió",
-      "address": "Loja 04 | Rua Deputado José Lages, 431 - Ponta Verde ",
-      "phone": "(82) 3027-5003",
-      "latitude": -9.6569675,
-      "longitude": -35.7001258,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Governador Valadares - Centro",
-      "address": "Loja 01 | Rua Barbara Heliodora, 592 - Centro",
-      "phone": "(33) 3225-6525",
-      "latitude": -18.854357,
-      "longitude": -41.944426,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Shopping Mag",
-      "address": "Piso Térreo, Loja 03 | Av. Governador Flávio Ribeiro Coutinho, 115 - Manaira",
-      "phone": "(83) 3048-1039",
-      "latitude": -7.097472,
-      "longitude": -34.833988,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Cajazeiras - Centro",
-      "address": "Rua Padre José Tomas, 209 - Centro",
-      "phone": "(83) 9-9998-1571",
-      "latitude": -6.888712,
-      "longitude": -38.56129,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Cacoal - Centro",
-      "address": "Sala 01 | Av. Porto Velho, 2520 - Centro",
-      "phone": "(69) 3441-1540",
-      "latitude": -11.438741,
-      "longitude": -61.446489,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Shopping Praia de Belas",
-      "address": "Loja 3056 | Av. Praia de Belas, 1181 - Praia de Belas ",
-      "phone": "(51) 3231-9771",
-      "latitude": -30.049526,
-      "longitude": -51.228753,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Guarabira -Centro ",
-      "address": "Rua Costa Beiriz,128",
-      "phone": "(83) 3271-6386",
-      "latitude": -6.851758,
-      "longitude": -35.490248,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Sousa - Centro ",
-      "address": "Rua Cônego José Viana, 32",
-      "phone": "(83) 9 9137-8959",
-      "latitude": -6.765476,
-      "longitude": -38.232121,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Aurora Shopping",
-      "address": "Av. Ayrton Senna da Silva, 400 -Terro, Loja LUC 18/T",
-      "phone": "(43) 3336-0057",
-      "latitude": -23.329017,
-      "longitude": -51.177847,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Soledade - Centro",
-      "address": "Av. Mal Floriano Peixoto,547",
-      "phone": "(54) 3381-2538",
-      "latitude": -28.841323,
-      "longitude": -52.513951,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Bauru Shopping",
-      "address": "Loja 05",
-      "phone": "(14) 3206-9425",
-      "latitude": -22.336333,
-      "longitude": -49.054618,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Mahogany Ecoville",
-      "address": "R. Dep. Heitor Alencar Furtado, 1210 – Loja 08",
-      "phone": "(41) 3149-3870 ",
-      "latitude": -25.437877,
-      "longitude": -49.31889,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Mahogany Currais Novos",
-      "address": "Rua João Pessoa, 82",
-      "phone": "(84) 99624-4542",
-      "latitude": -6.262864,
-      "longitude": -36.516334,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Shopping Conquista Sul",
-      "address": "Av. Juracy Magalhães, 3340",
-      "phone": "(77) 3424-0522",
-      "latitude": -14.89291,
-      "longitude": -40.845136,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Via Verde Shopping",
-      "address": "Estrada da Floresta, 2320 - Q06",
-      "phone": "(68) 99201-4257",
-      "latitude": -9.985888,
-      "longitude": -67.848293,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Sapopemba",
-      "address": "Av. Sapopemba, 3952",
-      "phone": "(11) 2539-5999",
-      "latitude": -23.576005,
-      "longitude": -46.551437,
-      "addressType": "Loja"
-    },
-    {
-      "title": "CD - São José do Rio Preto",
-      "address": "Rua General Glicério, 3045, Centro",
-      "phone": "(17) 32223890",
-      "latitude": -20.811191,
-      "longitude": -49.381902,
-      "addressType": "Revendedor"
-    },
-    {
-      "title": "Confiança Supermercados - Botucatu",
-      "address": "Rua Emílio Cani,\t899 - Loja S 1 - 07",
-      "phone": "(14) 3354-8003",
-      "latitude": -22.900288,
-      "longitude": -48.449464,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Tauá - Centro",
-      "address": "Rua Dondon Feitosa, 457",
-      "phone": "(88) 99810-4040",
-      "latitude": -5.999722,
-      "longitude": -40.293867,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Caratinga - Centro",
-      "address": "Av. Olegário Maciel, 67",
-      "phone": "(33) 3321-4173",
-      "latitude": -19.787321,
-      "longitude": -42.142104,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Francisco Beltrão - Centro",
-      "address": "Av. Júlio Assis Cavalheiro, 624 - Sala 1",
-      "phone": "",
-      "latitude": -26.080228,
-      "longitude": -53.050969,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Tramandaí - Centro",
-      "address": "Rua 24 de Setembro, 241 - Loja 7",
-      "phone": "(51) 3684-6203",
-      "latitude": -29.987723,
-      "longitude": -50.137498,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Limoeiro do Norte - Centro",
-      "address": "Praça Mamede de Oliveira, 264 - Centro",
-      "phone": "(88) 3423-3391",
-      "latitude": -5.157171,
-      "longitude": -38.020815,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Codó - Centro",
-      "address": "Rua Afonso Pena, 437 - Centro",
-      "phone": "(99) 3661-1360",
-      "latitude": -4.453771,
-      "longitude": -43.883235,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Tijucas - Centro",
-      "address": "Avenida Bayer Filho, 984 - Centro",
-      "phone": "(48) 3263-0935",
-      "latitude": -27.242013,
-      "longitude": -48.636506,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Timbaúba - Centro",
-      "address": "Rua Walfredo Ferreira Lima, 60 - Centro",
-      "phone": "",
-      "latitude": -7.510343,
-      "longitude": -35.318035,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Cachoeiro de Itapemirim - Centro",
-      "address": "R. Vinte e Cinco de Março, 33 - Centro",
-      "phone": "(28) 3028-0636",
-      "latitude": -20.848096,
-      "longitude": -41.113041,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Ariquemes - Grandes Areas",
-      "address": "Av. Capitão Silvio, 3790 - Sala 32 - Grandes Areas",
-      "phone": "(69) 3536-6602",
-      "latitude": -9.923561,
-      "longitude": -63.033339,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Resende - Campos Elíseos",
-      "address": "Av. Saturnino Braga, 369 - L2 Q06 - Campos Elíseos",
-      "phone": "",
-      "latitude": -22.466255,
-      "longitude": -44.451619,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Sobral - Dom Expedito",
-      "address": "Av. Monsenhor José Aloisio Pinto, 300 - Q TEMP. 08 - Dom Expedito",
-      "phone": "(88) 2144-1482",
-      "latitude": -3.701721,
-      "longitude": -40.34553,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Nova Friburgo - Centro",
-      "address": "Rua Moisés Amelio, 17 - Loja 107 - Centro",
-      "phone": "",
-      "latitude": -22.289527,
-      "longitude": -42.531367,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Aracati - Centro",
-      "address": "Rua Coronel Alexandrino, 560 - Centro",
-      "phone": "",
-      "latitude": -4.56349,
-      "longitude": -37.771341,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Icó - Centro",
-      "address": "Av. Nogueira Acioly, 1685, Loja 1",
-      "phone": "(88) 2148-0122",
-      "latitude": -6.405296,
-      "longitude": -38.862687,
-      "addressType": "Loja"
-    },
-    {
-      "title": "Jacobina - Centro",
-      "address": "Rua Coronel Teixeira, 170",
-      "phone": "",
-      "latitude": -11.182842,
-      "longitude": -40.51391,
-      "addressType": "Loja"
-    }
-  ]
+    "store": [
+        {
+            "title": "Galeria Anfíbio",
+            "address": "Box 02 | Av. Tamoios, 826 - Centro",
+            "phone": "(14) 3722-1160",
+            "latitude": -21.9295271,
+            "longitude": -50.5135785,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Shopping Picos",
+            "address": "Loja A 47 | Av. Senador Helvídio Nunes, 5.233 - Junco",
+            "phone": "(89) 9-9936-9778",
+            "latitude": -7.07879,
+            "longitude": -41.43578,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Shopping Tropical",
+            "address": "Loja 7, Bloco B4 | Av. Coronel Colares Moreira, 400 - Renascença",
+            "phone": "(98) 3235-6079",
+            "latitude": -2.5075343,
+            "longitude": -44.2991653,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Rio Branco",
+            "address": "Rua Rio de Janeiro, 294 - Base",
+            "phone": "(68) 2002-8398",
+            "latitude": -9.9716718,
+            "longitude": -67.8178805,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Galeria Anfíbio",
+            "address": "Box 02 | Av. Tamoios, 826 - Centro",
+            "phone": "(14) 3722-1160",
+            "latitude": -21.92948,
+            "longitude": -50.51363,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Taubaté - Centro",
+            "address": "R. Duque de Caxias, 189 - Centro",
+            "phone": "(12) 3631-1292",
+            "latitude": -23.02394,
+            "longitude": -45.55314,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Esplanada Shopping",
+            "address": "Loja 228 | Av. Gisele Constantino, 1870 - Parque Morumbi",
+            "phone": "(15) 3211-1928",
+            "latitude": -23.54598,
+            "longitude": -47.46708,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Shopping West Plaza",
+            "address": "Piso Térreo - Loja 1107 - Bl. A | Av. Antártica, 380 - Água Branca",
+            "phone": "(11) 3803-8407",
+            "latitude": -23.52692,
+            "longitude": -46.67465,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Shopping SP Market",
+            "address": "Piso Térreo - Loja A 4-19 | Av. Nações Unidas, 22540 - Jurubatuba",
+            "phone": "(11) 5541-2081",
+            "latitude": -23.67802,
+            "longitude": -46.69801,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Shopping Plaza Sul",
+            "address": "2º Piso - Loja 261 | Praça Leonor Kaupa, 100 - Bosque da Saúde",
+            "phone": "(11) 5058-3863",
+            "latitude": -23.6198,
+            "longitude": -46.62744,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Mooca Plaza Shopping",
+            "address": "Piso L1 - Loja 1108 | R. Cap. Pacheco E Chaves, 313 - Vila Prudente",
+            "phone": "(11) 2219-0513",
+            "latitude": -23.57976,
+            "longitude": -46.59442,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Mooca",
+            "address": "Rua da Mooca, 2509 - Mooca",
+            "phone": "(11) 2292-1065",
+            "latitude": -23.55537,
+            "longitude": -46.60077,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Shopping Boulevard Tatuapé",
+            "address": "Quiosque 21 | Rua Gonçalves Crespo, 78 - Tatuapé",
+            "phone": "",
+            "latitude": -23.53894,
+            "longitude": -46.57639,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Shopping Metrô Tatuapé",
+            "address": "Piso Superior - Loja S27 | R. Domingos Agostim, 91 - Cidade Mãe do Céu",
+            "phone": "(11) 2090-7482",
+            "latitude": -23.5417,
+            "longitude": -46.57673,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Shopping Metrô Santa Cruz",
+            "address": "Piso Passarela - Loja 12 | R. Domingos de Moraes, 2564 - VIla Mariana",
+            "phone": "(11) 3471-8034",
+            "latitude": -23.59908,
+            "longitude": -46.63719,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Shopping Ibirapuera",
+            "address": "Piso Moema - Loja 85 | Av. Ibirapuera, 3103 - Moema",
+            "phone": "(11) 5533-4793",
+            "latitude": -23.61547,
+            "longitude": -46.6621,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Shopping Eldorado",
+            "address": "Piso Térreo - Loja 138 | Av. Rebouças, 3970 - Pinheiros",
+            "phone": "(11) 2197-6068",
+            "latitude": -23.57257,
+            "longitude": -46.69573,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Shopping Center Norte",
+            "address": "Loja 714 | Travessa Casalbuono, 120 - Vila Guilherme",
+            "phone": "(11) 2089-0400",
+            "latitude": -23.51546,
+            "longitude": -46.61789,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Shopping Anália Franco",
+            "address": "Piso Tulipa - Loja 92 | Av. Regente Feijó, 1739 - Água Rasa",
+            "phone": "(11) 2076-0120",
+            "latitude": -23.56151,
+            "longitude": -46.56044,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Shopping Center Vale",
+            "address": "Piso Dutra - Loja S-607 | Av. Deputado Benedito Matarazzo, 9403 - Jardim Oswaldo Cruz",
+            "phone": "(12) 3911-8628",
+            "latitude": -23.20082,
+            "longitude": -45.88035,
+            "addressType": "Loja"
+        },
+        {
+            "title": "São José do Rio Preto - Centro",
+            "address": "Rua General Glicério, 3045 - Centro",
+            "phone": "(17) 3222-3890",
+            "latitude": -20.81119,
+            "longitude": -49.3819,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Park Shopping São Caetano",
+            "address": "1º Piso - Loja 2037 | Al. Terracota, 545 - Santo Antonio",
+            "phone": "(11) 4233-8533",
+            "latitude": -23.61937,
+            "longitude": -46.57526,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Shopping Metrópole",
+            "address": "Loja N08 | Praça Samuel Sabatini, 200 - Centro",
+            "phone": "(11) 4123-1221",
+            "latitude": -23.6927,
+            "longitude": -46.55111,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Praiamar Shopping",
+            "address": "Piso Térreo - Loja 156 | R. Alexandre Martins, 80 - Aparecida",
+            "phone": "(13) 3231-4385",
+            "latitude": -23.97687,
+            "longitude": -46.31058,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Grand Plaza Shopping",
+            "address": "Loja 516 | Av. Industrial, 600 - Jardim",
+            "phone": "(11) 2534-3716",
+            "latitude": -23.64674,
+            "longitude": -46.53379,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Piracicaba Shopping",
+            "address": "Piso Térreo - Loja 143 | Av. Limeira 722 - Vila Resende",
+            "phone": "(19) 3412-5466",
+            "latitude": -22.70401,
+            "longitude": -47.64976,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Shopping União de Osasco",
+            "address": "Piso Voegeli - Loja 194 | Av. dos Autonomistas, 1400 - Vila Yara",
+            "phone": "(11) 3184-4330",
+            "latitude": -23.53901,
+            "longitude": -46.76545,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Marília Shopping",
+            "address": "Piso Térreo - Loja 20 | R. Tucunarés, 500 - Jardim Maria Martha",
+            "phone": "(14) 3301-9895",
+            "latitude": -22.18629,
+            "longitude": -49.96701,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Pátio Limeira Shopping",
+            "address": "Piso Térreo - Loja 216 |  R. Carlos Gomes, 1321 - Centro",
+            "phone": "(19) 3442-3964",
+            "latitude": -22.57095,
+            "longitude": -47.40797,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Itatiba - Centro",
+            "address": "Rua Rangel Pestana, 197 - Centro",
+            "phone": "(11) 4538-4523",
+            "latitude": -23.00518,
+            "longitude": -46.8416,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Itapetininga - Centro",
+            "address": "Rua Silva Jardim, 604 -  Centro",
+            "phone": "(15) 3537-6061",
+            "latitude": -23.58821,
+            "longitude": -48.0495,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Parque Dom Pedro Shopping",
+            "address": "Loja 426 | Av. Guilherme Campos, 500 - Jardim Santa Genebra",
+            "phone": "(19) 3756-7436",
+            "latitude": -22.84793,
+            "longitude": -47.06328,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Campinas Shopping",
+            "address": "Piso Intermediário - Loja 213 | R. Jacy Teixeira de Carmargo, 940 - Jardim do Lago",
+            "phone": "(19) 3229-4189",
+            "latitude": -22.93247,
+            "longitude": -47.07803,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Shopping Tamboré",
+            "address": "Piso Térreo - Loja 84 | Av. Piracema, 669 - Tamboré",
+            "phone": "(11) 2166-9798",
+            "latitude": -23.5043,
+            "longitude": -46.8325,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Assis",
+            "address": "R Floriano Peixoto, 392 - Centro",
+            "phone": "(18) 3322-5416",
+            "latitude": -22.66238,
+            "longitude": -50.41638,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Araras - Centro",
+            "address": "R. Tiradentes, 270 - Centro",
+            "phone": "(19) 3351-4003",
+            "latitude": -22.35521,
+            "longitude": -47.38287,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Capim Dourado Shopping",
+            "address": "Piso Térreo - LUC 65 | Q Av 107 Norte Av. Juscelino Kubitschek, s/n - Plano Diretor Norte",
+            "phone": "(63) 3215-2221",
+            "latitude": -10.18324,
+            "longitude": -48.33717,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Araguaina - Centro",
+            "address": "Sala 1 | R. das Mangueiras, 1232 -Centro",
+            "phone": "(63) 3411-6329",
+            "latitude": -7.18772,
+            "longitude": -48.20763,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Shopping Jardins",
+            "address": "Loja E-36 | Av. Min. Geraldo B. Sobral, 215 - Jardins",
+            "phone": "(79) 3231-9700",
+            "latitude": -10.94323,
+            "longitude": -37.06072,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Itapema",
+            "address": "Avenida Nereu Ramos, 3285 - Meia Praia",
+            "phone": "(47) 3366-5916",
+            "latitude": -27.12677,
+            "longitude": -48.60283,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Florianópolis ",
+            "address": "Rua Presidente Nereu Ramos,19 - Loja 18 - Edif Cent Com Irmão Daux",
+            "phone": "(48) 3338-2412",
+            "latitude": -27.594664,
+            "longitude": -48.550548,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Porto Velho Shopping",
+            "address": "Piso Térreo - Loja 105 | Av. Rio Madeira, 3288 - Floroaldo Pontes Pinto",
+            "phone": "(69) 3218-8070",
+            "latitude": -8.74814,
+            "longitude": -63.87577,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Santa Maria - Centro",
+            "address": "Rua Salvador Isaia Calçadão, 1263 - Centro",
+            "phone": "(55) 3317-3117",
+            "latitude": -29.68642,
+            "longitude": -53.80752,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Bourbon Shopping Wallig",
+            "address": "Loja 257 | Av. Assis Brasil, 2611 - Cristo Redentor",
+            "phone": "(51) 3329-6316",
+            "latitude": -30.01196,
+            "longitude": -51.16079,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Shopping Iguatemi",
+            "address": "2º Piso - Loja 2244 | Av. João Wallig, 1800 - Passo D'Areia",
+            "phone": "(51) 3273-1294",
+            "latitude": -30.02532,
+            "longitude": -51.16212,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Bourbon Shopping Ipiranga",
+            "address": "2º Piso - Loja 211 | Av. Ipiranga, 5200 - Azenha",
+            "phone": "(51) 3352-2198",
+            "latitude": -30.05514,
+            "longitude": -51.18692,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Barra Shopping Sul",
+            "address": "Piso Guaíba - Loja 2090 | Av. Diário de Notícias, 300 - Cristal",
+            "phone": "(51) 3267-1520",
+            "latitude": -30.08449,
+            "longitude": -51.2453,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Shopping da Praça",
+            "address": "Loja 4 A | Rua Morom, 1559 - Centro",
+            "phone": "(54) 3601-5157",
+            "latitude": -28.26182,
+            "longitude": -52.4065,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Ji-Paraná",
+            "address": "Av. Brasil, 654 - Nova Brasília",
+            "phone": "(69) 3423-5133",
+            "latitude": -10.8878,
+            "longitude": -61.92437,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Pau dos Ferros",
+            "address": "Rua Maria Fernandes de Aquino, 49 - Centro",
+            "phone": "(84) 3351-5684",
+            "latitude": -6.11233,
+            "longitude": -38.2052,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Natal Shopping",
+            "address": "Loja 375 | Av. Senador Salgado Filho, 2234 - Candelaria",
+            "phone": "(84) 3025-9965",
+            "latitude": -5.84214,
+            "longitude": -35.21171,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Midway Mall",
+            "address": "Piso L1 - Loja 130A | Av. Bernardo Vieira, 3775 - Tirol",
+            "phone": "(84) 3222-2117",
+            "latitude": -5.81129,
+            "longitude": -35.20623,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Partage Shopping Mossoró",
+            "address": "Loja 72 | Av. Joao da Escossia, 1515 - Doze Anos",
+            "phone": "(84) 3314-0390",
+            "latitude": -5.17215,
+            "longitude": -37.37681,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Volta Redonda",
+            "address": "Rua 25, 169 - Vila Santa Cecília",
+            "phone": "(24) 3348-2211",
+            "latitude": -22.54631,
+            "longitude": -44.07118,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Shopping Americo Silva",
+            "address": "Loja 26 A | R. Barão do Rio Branco, 303 - Centro",
+            "phone": "(24) 2251-1187",
+            "latitude": -22.11563,
+            "longitude": -43.21009,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Galeria Teresópolis",
+            "address": "Loja 11 | R. Francisco Sá, 185 - Várzea",
+            "phone": "(21) 2742-2978",
+            "latitude": -22.41088,
+            "longitude": -42.96767,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Carioca Shopping",
+            "address": "1º Piso, Loja 120 |Av. Vicente de Carvalho, 909 - Vila da Penha",
+            "phone": "(21) 3688-2584",
+            "latitude": -22.85037,
+            "longitude": -43.30906,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Parque Shopping Sulacap",
+            "address": "Loja 221 | Av. Marechal Fontenelle, 3455 - Jardim Sulacap",
+            "phone": "(21) 3500-8600",
+            "latitude": -22.88483,
+            "longitude": -43.40377,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Américas Shopping",
+            "address": "Loja 134 | Av. das Américas, 15500 - Recreio dos Bandeirantes",
+            "phone": "(21) 2442–9639",
+            "latitude": -23.01257,
+            "longitude": -43.46168,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Via Parque Shopping",
+            "address": "1º Piso - Loja 1102 | Av. Ayrton Senna, 3000 - Barra da Tijuca",
+            "phone": "(21) 2421-8669",
+            "latitude": -22.98269,
+            "longitude": -43.36294,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Shopping Tijuca",
+            "address": "2º Piso - Loja 2100 | Av. Maracanã, 987 - Tijuca",
+            "phone": "(21) 3176-0270",
+            "latitude": -22.92197,
+            "longitude": -43.23499,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Shopping Rio Sul",
+            "address": "3º Piso - Loja 301 C14i | Av. Lauro Müller, 116 - Botafogo",
+            "phone": "(21) 2275-2743",
+            "latitude": -22.95723,
+            "longitude": -43.17617,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Recreio Shopping",
+            "address": "1º Piso - Loja 104E - Av. das Américas, 19019 - Recreio dos Bandeirantes",
+            "phone": "(21) 2490-4139",
+            "latitude": -23.0213,
+            "longitude": -43.48841,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Shopping Nova América",
+            "address": "2º Piso - Loja 202 | Av. Pastor Martin Luther King Jr., 126 - Del Castilho",
+            "phone": "(21) 3083-1611",
+            "latitude": -22.87799,
+            "longitude": -43.27194,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Largo do Machado",
+            "address": "Loja 4 |  Largo do Machado, 29 - Catete",
+            "phone": "(21) 2205-1505",
+            "latitude": -22.93146,
+            "longitude": -43.17871,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Ipanema",
+            "address": "Rua Vinícius de Moraes, 74B - Ipanema",
+            "phone": "(21) 2513-3289",
+            "latitude": -22.98468,
+            "longitude": -43.2028,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Copacabana",
+            "address": "Loja F | R. Figueiredo Magalhães, 219 - Copacabana",
+            "phone": "(21) 2549-2975",
+            "latitude": -22.97019,
+            "longitude": -43.1862,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Boulevard Cidade Nova",
+            "address": "Quiosque 8 | R. Neri Pinheiro, 267 - Cidade Nova",
+            "phone": "(21) 2293-9472",
+            "latitude": -22.91172,
+            "longitude": -43.20265,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Botafogo Praia Shopping",
+            "address": "1º Piso - Loja 116 | Praia de Botafogo, 400 - Botafogo",
+            "phone": "(21) 2237-9158",
+            "latitude": -22.94748,
+            "longitude": -43.18342,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Barra Shopping",
+            "address": "Piso Lagoa - Loja 112D | Av. das Américas, 4666 - Barra da Tijuca",
+            "phone": "(21) 3089-1392",
+            "latitude": -22.99761,
+            "longitude": -43.35818,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Rua México",
+            "address": "Loja B | Rua México, 107 - Centro",
+            "phone": "(21) 3197-1446",
+            "latitude": -22.90746,
+            "longitude": -43.17583,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Plaza Shopping",
+            "address": "3º Piso - Loja 369 | Rua XV de Novembro, 8 - Centro",
+            "phone": "(21) 3628-1247 / 3628-1248",
+            "latitude": -22.89694,
+            "longitude": -43.12387,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Shopping Icaraí",
+            "address": "Loja 134 | R. Moreira Cesar, 229 - Icaraí",
+            "phone": "(21) 2610-9066",
+            "latitude": -22.90662,
+            "longitude": -43.1106,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Macaé - Centro",
+            "address": "Loja 2 | Av. Rui Barbosa, 660 - Centro",
+            "phone": "(22) 2762-1617",
+            "latitude": -22.37586,
+            "longitude": -41.77733,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Boulevard Shopping Campos",
+            "address": "Loja 109 E | Av. Dr. Sílvio Bastos Tavares, 330 - Parque dos Rodoviários",
+            "phone": "(22) 2737-9050",
+            "latitude": -21.75524,
+            "longitude": -41.34848,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Cabo Frio - Centro",
+            "address": "Loja 1 | Av. Teixeira e Souza, 58 - Centro",
+            "phone": "(22) 2643-8688",
+            "latitude": -22.892,
+            "longitude": -42.03603,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Teresina - Centro",
+            "address": "Rua Simplício Mendes, 72 - Centro",
+            "phone": "(86) 3221-6817",
+            "latitude": -5.09269,
+            "longitude": -42.81456,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Teresina Shopping",
+            "address": "Loja 142 | Av. Raul Lopes, 1000 - Dos Noivos",
+            "phone": "(86) 3215-0447",
+            "latitude": -5.08668,
+            "longitude": -42.78423,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Santa Cruz do Capibaribe - Centro",
+            "address": "Av. José Moraes da Silva, 49 - Centro",
+            "phone": "(81) 3705-1990",
+            "latitude": -7.95661,
+            "longitude": -36.20268,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Shopping RioMar",
+            "address": "Loja 1151 | Av. República do Líbano, 251 - Pina",
+            "phone": "(81) 3033-3266",
+            "latitude": -8.08681,
+            "longitude": -34.89113,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Shopping Boa Vista",
+            "address": "Loja 217 C | Av. Conde da Boa Vista, 610 - Boa Vista",
+            "phone": "(81) 3125-2655",
+            "latitude": -8.05904,
+            "longitude": -34.88657,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Shopping Tacaruna",
+            "address": "2º Piso - Loja 330 | Av. Gov. Agamenon Magalhães, 153 - Santo Amaro",
+            "phone": "(81) 3221-0144",
+            "latitude": -8.03795,
+            "longitude": -34.87152,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Shopping Recife",
+            "address": "Piso Térreo - Loja PC 64 | R. Padre Carapuceiro, 777 - Boa Viagem",
+            "phone": "(81) 3326-5531",
+            "latitude": -8.12007,
+            "longitude": -34.90504,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Plaza Shopping",
+            "address": "2º Piso - Loja 159 | R. Dr. João Santos Filho, 255 - Casa Forte",
+            "phone": "(81) 3268-3197",
+            "latitude": -8.03309,
+            "longitude": -34.91288,
+            "addressType": "Loja"
+        },
+        {
+            "title": "River Shopping",
+            "address": "Loja 19-B | Av. Monsenhor Angelo Sampaio, 100 - Centro",
+            "phone": "(87) 3861-6453",
+            "latitude": -9.39397,
+            "longitude": -40.4928,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Caruaru Shopping",
+            "address": "Loja 57A |Av. Adjar da Silva Case, 800 - Indianópolis",
+            "phone": "(81) 2104-1611",
+            "latitude": -8.29522,
+            "longitude": -35.95195,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Shopping Difusora",
+            "address": "1º Piso - Loja 95 | Av. Agamenon Magalhães, 444 - Maurício de Nassau",
+            "phone": "(81) 3721-0235",
+            "latitude": -8.2778,
+            "longitude": -35.97159,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Catuaí Shopping Maringá",
+            "address": "Loja 19 | Av. Colombo, 9161 - parque Industrial Bandeirantes",
+            "phone": "(44) 3224-8600",
+            "latitude": -23.42017,
+            "longitude": -51.96955,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Catuaí Shopping Londrina",
+            "address": "Loja E52 | Rua Edwy Taques de Araujo, 600 - Jd. Burle Marx",
+            "phone": "(43) 3336-7600",
+            "latitude": -23.30445,
+            "longitude": -51.16958,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Shopping Curitiba",
+            "address": "Piso L2 - Loja 215 | R. Brigadeiro Franco, 2300 - Batel",
+            "phone": "(41) 3077-8593",
+            "latitude": -25.44098,
+            "longitude": -49.27739,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Cascavel JL Shopping",
+            "address": "Piso L2 - Loja 210 | Av. Toledo, 432 - Centro",
+            "phone": "(45) 3039-3501",
+            "latitude": -24.95019,
+            "longitude": -53.47729,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Patos - Centro",
+            "address": "Sala 02 | Rua Pedro Firmino, 144 - Centro",
+            "phone": "(83) 3423-0615",
+            "latitude": -7.02695,
+            "longitude": -37.27833,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Shopping Tambiá",
+            "address": "2º Piso - Loja 125 |Av. Deputado Odon Bezerra, 184 - Tambiá",
+            "phone": "(83) 3221-4426",
+            "latitude": -7.11596,
+            "longitude": -34.88,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Mangabeira Shopping",
+            "address": "Piso Térreo - Loja P1 - 156 | Av. Hilton Souto Maior, 3901 - Mangabeira",
+            "phone": "(83) 3565-8288",
+            "latitude": -7.16242,
+            "longitude": -34.8304,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Manaíra Shopping",
+            "address": "1º Piso - Loja S-0439 | Av. Flávio Ribeiro Coutinho, 220 - Manaíra",
+            "phone": "(83) 2106-6466",
+            "latitude": -7.098,
+            "longitude": -34.84527,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Partage Shopping",
+            "address": "1º Piso - Loja 80 | Av. Severino Bezerra Cabral, 1057 - Catole",
+            "phone": "(83) 3337-7824",
+            "latitude": -7.23471,
+            "longitude": -35.8689,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Shopping Pátio Marabá",
+            "address": "Quiosque 38 | ARE Folha 30 – Qd 15 – LT 10, s/nº - nova Marabá",
+            "phone": "(94) 9-8166-1600",
+            "latitude": -5.38114,
+            "longitude": -49.1331,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Shopping Grão Pará",
+            "address": "2º Piso - Loja 1084 |Rod. Trabalhadores, S/N - Parque Verde",
+            "phone": "(91) 3231-8646",
+            "latitude": -1.34757,
+            "longitude": -48.471091,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Shopping Pátio Belém - Quiosque",
+            "address": "3º Piso | Tv. Padre Eutíquio, 1078 - Batista Campos",
+            "phone": "(91) 8723-3070",
+            "latitude": -1.45806,
+            "longitude": -48.49539,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Parque Shopping",
+            "address": "Loja 1022 | Rod. Augusto Montenegro, Km 4, 4300 - Parque Verde",
+            "phone": "(91) 3232-1161",
+            "latitude": -1.40232,
+            "longitude": -48.44481,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Castanheira Shopping Center",
+            "address": "2º Piso - Loja 310 | Rod. BR 316, Km 1, s/nº - Castanheira",
+            "phone": "(91) 3250-4207",
+            "latitude": -1.41186,
+            "longitude": -48.47007,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Boulevard Shopping",
+            "address": "2º Piso - Loja 253 | Av. Visconde de Souza Franco, 776 - Reduto",
+            "phone": "(91) 3345-3160 / 3223-4697",
+            "latitude": -1.44634,
+            "longitude": -48.48982,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Mister Shopping",
+            "address": "Loja 114 | Rua Mister Moore, 72 - Centro",
+            "phone": "(32) 3211-3659",
+            "latitude": -21.7594,
+            "longitude": -43.34875,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Boulevard Shopping",
+            "address": "2º Piso - Loja 2048 | Av. dos Andradas, 3000 - Santa Efigênia",
+            "phone": "(31) 2512-6576",
+            "latitude": -19.92001,
+            "longitude": -43.92031,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Campo Grande - Centro",
+            "address": "Rua Rio Grande do Sul, 882 - Jardim dos Estados",
+            "phone": "(67) 3342-9006",
+            "latitude": -20.45741,
+            "longitude": -54.60114,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Shopping Várzea Grande",
+            "address": "1º Piso - Loja 58A |Rua Presidente Arthur Bernardes, S/N - Jardim Aeroporto",
+            "phone": "(65) 3026-2129",
+            "latitude": -15.65643,
+            "longitude": -56.12278,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Shopping Tangará da Serra",
+            "address": "Setor W - Sala 69 | Av. Vereador Nilo Torres, 751-W - Parque Leblon",
+            "phone": "(65) 3326-2169",
+            "latitude": -14.61973,
+            "longitude": -57.48752,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Rondonópólis - Centro",
+            "address": "Rua Otávio Pitaluga, 440 - Vila Aurora I",
+            "phone": "(66) 3022-8774",
+            "latitude": -16.4798343,
+            "longitude": -54.6195973,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Pantanal Shopping",
+            "address": "2º piso - Loja 2065 | Av. Historiador Rubens de Mendonça, 3300 - Jd. Aclimação",
+            "phone": "(65) 3644-4628",
+            "latitude": -15.57657,
+            "longitude": -56.07212,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Colider - Centro",
+            "address": "Av. Marechal Rondon, 965 - Centro",
+            "phone": "(66) 3541-2248",
+            "latitude": -10.81405,
+            "longitude": -55.45341,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Shopping da Ilha",
+            "address": "Piso L2 - Loja 211O | Av. Daniel de la Touche, 987 - Cohama",
+            "phone": "(98) 3311-8216",
+            "latitude": -2.52755,
+            "longitude": -44.25492,
+            "addressType": "Loja"
+        },
+        {
+            "title": "São Luis Shopping Center",
+            "address": "Loja 135 | Av. Euclides Figueiredo, 1000 - Calhau",
+            "phone": "(98) 3251-3766",
+            "latitude": -2.5138,
+            "longitude": -44.28965,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Imperatriz - Centro",
+            "address": "Rua Simplício Moreira 1657A",
+            "phone": "(99) 3525-9910",
+            "latitude": -5.521791,
+            "longitude": -47.494862,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Shopping Vitória",
+            "address": "2º Piso - Loja 250 | Av. Américo Buaiz, 200 - Enseada do Suá ",
+            "phone": "(27) 3345-1566",
+            "latitude": -20.31264,
+            "longitude": -40.28816,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Shopping Praia da Costa",
+            "address": "3º Piso - Loja 302 | Av. Dr. Olívio Lira, 353 - Praia da Costa",
+            "phone": "(27) 3320-8435",
+            "latitude": -20.3421,
+            "longitude": -40.28967,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Boulevard Vila Velha",
+            "address": "Loja 1038 | Rodovia do Sol, 5000 - Jockey de Itaparica",
+            "phone": "(27) 3535-3395",
+            "latitude": -20.39207,
+            "longitude": -40.31821,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Shopping Pátio Brasil",
+            "address": "1º Piso - Loja 276 | Set. Comercial Sul, Qd. 07 - Asa Sul",
+            "phone": "(61) 3322-8626",
+            "latitude": -15.80431,
+            "longitude": -47.89957,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Shopping Conjunto Nacional",
+            "address": "2º Piso - Loja 2138 A | Set. Diversões Norte Cj. A1 - Asa Norte",
+            "phone": "(61) 3327-4058",
+            "latitude": -15.79423,
+            "longitude": -47.88217,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Cariri Garden Shopping",
+            "address": "Loja 190 | Av. Padre Cícero, 2555 - Triângulo",
+            "phone": "(88) 3571-3723",
+            "latitude": -7.22364,
+            "longitude": -39.32462,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Shopping Riomar",
+            "address": "Piso L2 - Loja 2090 | Rua Desembargador Lauro Nogueira, 1500 - Papicu",
+            "phone": "(85) 3221-6281",
+            "latitude": -3.74112,
+            "longitude": -38.47213,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Via Sul Shopping",
+            "address": "Piso Térreo - Loja 132 | Av. Washington Soares, 4335 - Sapiranga",
+            "phone": "(85) 3278-5981",
+            "latitude": -3.79461,
+            "longitude": -38.47956,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Shopping Aldeota",
+            "address": "2º Piso - Loja 224 | Av. Dom Luis, 500 - Meireles",
+            "phone": "(85) 3458-1580",
+            "latitude": -3.73365,
+            "longitude": -38.49678,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Shopping Iguatemi",
+            "address": "Piso Térreo - Loja A 429 | Av. Washington Soares, 85 - Edson Queiroz",
+            "phone": "(85) 3241-1868",
+            "latitude": -3.74985,
+            "longitude": -38.48799,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Santo Antonio de Jesus - Centro",
+            "address": "Casa A | Rua Landulfo Alves, 154 - Centro",
+            "phone": "(75) 3631-0182",
+            "latitude": -12.96985,
+            "longitude": -39.26174,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Shopping Paralela",
+            "address": "Quadra F - Loja 215 | Av. Luiz Viana Filho, 8544 - Alphaville 1",
+            "phone": "(71) 3414-2476",
+            "latitude": -12.97304,
+            "longitude": -38.5023,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Shopping da Bahia",
+            "address": "3º Piso - Loja S-17 | Av. Tancredo Neves, 148 - Caminho das Árvores",
+            "phone": "(71) 3450-1626",
+            "latitude": -12.97985,
+            "longitude": -38.4635,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Shopping Barra",
+            "address": "Piso L2 - Loja 235 | Av. Centenário, 2992 - Chame-Chame",
+            "phone": "(71) 3033-9427",
+            "latitude": -13.00686,
+            "longitude": -38.52451,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Salvador Shopping",
+            "address": "Piso L1 - Loja 1009 | Av. Tancredo Neves, 2915 - Caminho das Árvores",
+            "phone": "(71) 3019-3305",
+            "latitude": -12.978,
+            "longitude": -38.45474,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Boulevard Shopping",
+            "address": "Loja 242 | Av. João Durval Carneiro, 3665 - São João",
+            "phone": "(75) 3223-1016",
+            "latitude": -12.24227,
+            "longitude": -38.94891,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Luis Eduardo Magalhães",
+            "address": "Sala 2 | Rua Paraná, 279 - Mimoso do Oeste",
+            "phone": "(77) 3628-6569",
+            "latitude": -12.08861,
+            "longitude": -45.79896,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Barreiras Centro",
+            "address": "Praça Castro Alves, 297 - Vila Brasil",
+            "phone": "(77) 3611-2155",
+            "latitude": -12.1487,
+            "longitude": -44.9984,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Amazonas Shopping",
+            "address": "Lojas 233 | Av. Djalma Batista, 482 - Parque 10",
+            "phone": "(92) 3236-0963",
+            "latitude": -3.09437,
+            "longitude": -60.0227,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Manauara Shopping",
+            "address": "Loja 253 - Piso Castanheiras | Av. Mário Ypiranga, 1300 - Adrianópolis",
+            "phone": "(92) 3236-6318",
+            "latitude": -3.10412,
+            "longitude": -60.01179,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Maragogi",
+            "address": "Av. Senador Rui Palmeira, 705 - Litoraneo",
+            "phone": "(82) 3296-2528",
+            "latitude": -9.01037,
+            "longitude": -35.22083,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Maceió Shopping",
+            "address": "Loja 308-A | Av Com. Gustavo Paiva, 2990 - Mangabeiras",
+            "phone": "(82) 3436-9009",
+            "latitude": -9.64788,
+            "longitude": -35.71569,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Breves - Centro",
+            "address": "Av. Rio Branco, 216 - Centro",
+            "phone": "(91) 9-9344-6374",
+            "latitude": -1.68072,
+            "longitude": -50.47952,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Galeria Freguesia",
+            "address": "Bloco 3, Loja 102 | Estrada dos Tres Rios, 200 - Freguesia",
+            "phone": "(21) 2148-8947",
+            "latitude": -22.939185,
+            "longitude": -43.344947,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Caicó - Centro",
+            "address": "Loja 1 | Avenida Seridó, 447, Centro - Caicó",
+            "phone": "(84) 9-9828-4947",
+            "latitude": -6.46004,
+            "longitude": -37.09568,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Agudos - Centro",
+            "address": "Sala 02 | Rua Treze de Maio, 471 - Centro",
+            "phone": "(14) 3261-0486",
+            "latitude": -22.46992,
+            "longitude": -48.98867,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Valença - Centro",
+            "address": "Térreo | Avenida Marques do Herval, 8 - Centro ",
+            "phone": "(75) 3641-3743",
+            "latitude": -13.37266,
+            "longitude": -39.07313,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Assú - Centro",
+            "address": "Av. Senador João Camara, 366 - Centro",
+            "phone": "(84) 3331-4485",
+            "latitude": -5.57471,
+            "longitude": -36.90829,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Shopping Arapiraca",
+            "address": "Loja 102 A | Rua José Jailson Nunes, 493 - Caititus",
+            "phone": "(82) 3539-8944",
+            "latitude": -9.73466,
+            "longitude": -36.65562,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Óbidos - Centro",
+            "address": "Travessa Rui Barbosa, 301 - Centro",
+            "phone": "(93) 9-9119-7483",
+            "latitude": -1.91362,
+            "longitude": -55.51224,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Park Shopping Canoas",
+            "address": "Loja 2085 | Avenida Farroupilha, 4545, Marechal Rondon",
+            "phone": "(51) 3059-9005",
+            "latitude": -29.915886,
+            "longitude": -51.165075,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Blumenau - Centro",
+            "address": "Loja 03 | R. Curt Hering, 320 - Centro",
+            "phone": "(47) 3041-2417",
+            "latitude": -26.92044,
+            "longitude": -49.06606,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Santa Inês - Centro",
+            "address": "Av. Luis Muniz, 1109 - Centro",
+            "phone": "(98) 3653-0156",
+            "latitude": -3.66443,
+            "longitude": -45.38397,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Balsas - Centro",
+            "address": "Rua Gomes de Sousa, 544 - Centro",
+            "phone": "(99) 3541-3580",
+            "latitude": -7.52962,
+            "longitude": -46.03947,
+            "addressType": "Loja"
+        },
+        {
+            "title": "North Shopping Jóquei",
+            "address": "Loja 1086 | Av. Lineu Machado, 419 - Jóquei Clube",
+            "phone": "(85) 3233-5320",
+            "latitude": -3.76331,
+            "longitude": -38.57542,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Apodi - Centro",
+            "address": "Sala A | Rua Governador Dix Sept Rosado, 41 - Nossa Senhora da Conceição",
+            "phone": "",
+            "latitude": -5.66523,
+            "longitude": -37.79907,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Torres - Centro",
+            "address": "Sala 8 | Av. José Bonifácio, 351 - Centro",
+            "phone": "(51) 3156-0285",
+            "latitude": -29.33934,
+            "longitude": -49.73193,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Shopping Bragança ",
+            "address": "Km 53 Loja 1045 | Rod. Alkindar Monteiro Junqueira, S/N - Itapechinga ",
+            "phone": "(11) 4010-5074",
+            "latitude": -22.96914,
+            "longitude": -46.56844,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Vale Sul Shopping",
+            "address": "Quiosque QT19 | Av. Andrômeda, 227 - Jardim Satelite",
+            "phone": "(12) 9-9124-2906",
+            "latitude": -23.2173168,
+            "longitude": -45.8913332,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Formiga - Centro",
+            "address": "Rua Barão de Pinhui, 22 - Centro",
+            "phone": "(37) 3321-3120",
+            "latitude": -20.463962,
+            "longitude": -45.429787,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Galeria Maceió",
+            "address": "Loja 04 | Rua Deputado José Lages, 431 - Ponta Verde ",
+            "phone": "(82) 3027-5003",
+            "latitude": -9.6569675,
+            "longitude": -35.7001258,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Governador Valadares - Centro",
+            "address": "Loja 01 | Rua Barbara Heliodora, 592 - Centro",
+            "phone": "(33) 3225-6525",
+            "latitude": -18.854357,
+            "longitude": -41.944426,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Shopping Mag",
+            "address": "Piso Térreo, Loja 03 | Av. Governador Flávio Ribeiro Coutinho, 115 - Manaira",
+            "phone": "(83) 3048-1039",
+            "latitude": -7.097472,
+            "longitude": -34.833988,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Cajazeiras - Centro",
+            "address": "Rua Padre José Tomas, 209 - Centro",
+            "phone": "(83) 9-9998-1571",
+            "latitude": -6.888712,
+            "longitude": -38.56129,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Cacoal - Centro",
+            "address": "Sala 01 | Av. Porto Velho, 2520 - Centro",
+            "phone": "(69) 3441-1540",
+            "latitude": -11.438741,
+            "longitude": -61.446489,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Shopping Praia de Belas",
+            "address": "Loja 3056 | Av. Praia de Belas, 1181 - Praia de Belas ",
+            "phone": "(51) 3231-9771",
+            "latitude": -30.049526,
+            "longitude": -51.228753,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Guarabira -Centro ",
+            "address": "Rua Costa Beiriz,128",
+            "phone": "(83) 3271-6386",
+            "latitude": -6.851758,
+            "longitude": -35.490248,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Sousa - Centro ",
+            "address": "Rua Cônego José Viana, 32",
+            "phone": "(83) 9 9137-8959",
+            "latitude": -6.765476,
+            "longitude": -38.232121,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Aurora Shopping",
+            "address": "Av. Ayrton Senna da Silva, 400 -Terro, Loja LUC 18/T",
+            "phone": "(43) 3336-0057",
+            "latitude": -23.329017,
+            "longitude": -51.177847,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Soledade - Centro",
+            "address": "Av. Mal Floriano Peixoto,547",
+            "phone": "(54) 3381-2538",
+            "latitude": -28.841323,
+            "longitude": -52.513951,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Bauru Shopping",
+            "address": "Loja 05",
+            "phone": "(14) 3206-9425",
+            "latitude": -22.336333,
+            "longitude": -49.054618,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Mahogany Ecoville",
+            "address": "R. Dep. Heitor Alencar Furtado, 1210 – Loja 08",
+            "phone": "(41) 3149-3870 ",
+            "latitude": -25.437877,
+            "longitude": -49.31889,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Mahogany Currais Novos",
+            "address": "Rua João Pessoa, 82",
+            "phone": "(84) 99624-4542",
+            "latitude": -6.262864,
+            "longitude": -36.516334,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Shopping Conquista Sul",
+            "address": "Av. Juracy Magalhães, 3340",
+            "phone": "(77) 3424-0522",
+            "latitude": -14.89291,
+            "longitude": -40.845136,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Via Verde Shopping",
+            "address": "Estrada da Floresta, 2320 - Q06",
+            "phone": "(68) 99201-4257",
+            "latitude": -9.985888,
+            "longitude": -67.848293,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Sapopemba",
+            "address": "Av. Sapopemba, 3952",
+            "phone": "(11) 2539-5999",
+            "latitude": -23.576005,
+            "longitude": -46.551437,
+            "addressType": "Loja"
+        },
+        {
+            "title": "CD - São José do Rio Preto",
+            "address": "Rua General Glicério, 3045, Centro",
+            "phone": "(17) 32223890",
+            "latitude": -20.811191,
+            "longitude": -49.381902,
+            "addressType": "Revendedor"
+        },
+        {
+            "title": "Confiança Supermercados - Botucatu",
+            "address": "Rua Emílio Cani,\t899 - Loja S 1 - 07",
+            "phone": "(14) 3354-8003",
+            "latitude": -22.900288,
+            "longitude": -48.449464,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Tauá - Centro",
+            "address": "Rua Dondon Feitosa, 457",
+            "phone": "(88) 99810-4040",
+            "latitude": -5.999722,
+            "longitude": -40.293867,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Caratinga - Centro",
+            "address": "Av. Olegário Maciel, 67",
+            "phone": "(33) 3321-4173",
+            "latitude": -19.787321,
+            "longitude": -42.142104,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Francisco Beltrão - Centro",
+            "address": "Av. Júlio Assis Cavalheiro, 624 - Sala 1",
+            "phone": "(46) 3035-0624",
+            "latitude": -26.080228,
+            "longitude": -53.050969,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Tramandaí - Centro",
+            "address": "Rua 24 de Setembro, 241 - Loja 7",
+            "phone": "(51) 3684-6203",
+            "latitude": -29.987723,
+            "longitude": -50.137498,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Limoeiro do Norte - Centro",
+            "address": "Praça Mamede de Oliveira, 264 - Centro",
+            "phone": "(88) 3423-3391",
+            "latitude": -5.157171,
+            "longitude": -38.020815,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Codó - Centro",
+            "address": "Rua Afonso Pena, 437 - Centro",
+            "phone": "(99) 3661-1360",
+            "latitude": -4.453771,
+            "longitude": -43.883235,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Tijucas - Centro",
+            "address": "Avenida Bayer Filho, 984 - Centro",
+            "phone": "(48) 3263-0935",
+            "latitude": -27.242013,
+            "longitude": -48.636506,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Timbaúba - Centro",
+            "address": "Rua Walfredo Ferreira Lima, 60 - Centro",
+            "phone": "",
+            "latitude": -7.510343,
+            "longitude": -35.318035,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Cachoeiro de Itapemirim - Centro",
+            "address": "R. Vinte e Cinco de Março, 33 - Centro",
+            "phone": "(28) 3028-0636",
+            "latitude": -20.848096,
+            "longitude": -41.113041,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Ariquemes - Grandes Areas",
+            "address": "Av. Capitão Silvio, 3790 - Sala 32 - Grandes Areas",
+            "phone": "(69) 3536-6602",
+            "latitude": -9.923561,
+            "longitude": -63.033339,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Resende - Campos Elíseos",
+            "address": "Av. Saturnino Braga, 369 - L2 Q06 - Campos Elíseos",
+            "phone": "",
+            "latitude": -22.466255,
+            "longitude": -44.451619,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Sobral - Dom Expedito",
+            "address": "Av. Monsenhor José Aloisio Pinto, 300 - Q TEMP. 08 - Dom Expedito",
+            "phone": "(88) 2144-1482",
+            "latitude": -3.701721,
+            "longitude": -40.34553,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Nova Friburgo - Centro",
+            "address": "Rua Moisés Amelio, 17 - Loja 107 - Centro",
+            "phone": "",
+            "latitude": -22.289527,
+            "longitude": -42.531367,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Aracati - Centro",
+            "address": "Rua Coronel Alexandrino, 560 - Centro",
+            "phone": "",
+            "latitude": -4.56349,
+            "longitude": -37.771341,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Icó - Centro",
+            "address": "Av. Nogueira Acioly, 1685, Loja 1",
+            "phone": "(88) 2148-0122",
+            "latitude": -6.405296,
+            "longitude": -38.862687,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Jacobina - Centro",
+            "address": "Rua Coronel Teixeira, 170",
+            "phone": "(74) 3621-5027",
+            "latitude": -11.182842,
+            "longitude": -40.51391,
+            "addressType": "Loja"
+        },
+        {
+            "title": "Iporá - Centro",
+            "address": "Rua Esmerindo Pereira, 636",
+            "phone": "(64) 3674-1081",
+            "latitude": -16.444381,
+            "longitude": -51.120419,
+            "addressType": "Loja"
+        }
+    ]
 }
