@@ -1,4 +1,4 @@
-{
+<script>var qdStoreLocator_jsStores={
     "store": [
         {
             "title": "Galeria Anfíbio",
@@ -1503,6 +1503,14 @@
             "latitude": -16.444381,
             "longitude": -51.120419,
             "addressType": "Loja"
+        },
+        {
+            "title": "Supermercado Tropical Center - Rondonópolis",
+            "address": "Avenida Governador Julio Jose de Campos, 2673, Loja 6 ",
+            "phone": "(66) 99963-5974",
+            "latitude": -16.47356,
+            "longitude": -54.605452,
+            "addressType": "Loja"
         }
     ]
-}
+};</script>
