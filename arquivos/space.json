@@ -1407,6 +1407,38 @@
       "latitude": -6.49014,
       "longitude": -37.449393,
       "addressType": "Loja"
+    },
+    {
+      "title": "Rondonópolis",
+      "address": "Rua Otavio Pitaluga, 440 - Vila Aurora I",
+      "phone": "(66) 3022-8774",
+      "latitude": -16.475926,
+      "longitude": -54.6236,
+      "addressType": "Loja",
+    },
+    {
+      "title": "Timon",
+      "address": "Av. Piaui, 700 - Centro ",
+      "phone": "(86) 3212-6087",
+      "latitude": -5.0915717,
+      "longitude": -42.823877,
+      "addressType": "Loja",
+    },     
+    {
+      "title": "Guanambi",
+      "address": "Praça Tancredo Neves, 98 - Centro",
+      "phone": "(77) 99124-8004",
+      "latitude": -14.8506159,
+      "longitude": -40.8386069,
+      "addressType": "Loja",
+    },
+    {
+      "title": "Manaus",
+      "address": "Avenida Noel Nutels, 1762 - Cidade Nova ",
+      "phone": "(92) 3304-3785",
+      "latitude": -3.0308083,
+      "longitude": -59.9771708,
+      "addressType": "Loja",
     }
   ]
 }
