@@ -1518,7 +1518,7 @@
             "phone": "(66) 3022-8774",
             "latitude": -16.475926,
             "longitude": -54.6236,
-            "addressType": "Loja",
+            "addressType": "Loja"
         },
         {
             "title": "Timon",
@@ -1526,7 +1526,7 @@
             "phone": "(86) 3212-6087",
             "latitude": -5.0915717,
             "longitude": -42.823877,
-            "addressType": "Loja",
+            "addressType": "Loja"
         },     
         {
             "title": "Guanambi",
@@ -1534,7 +1534,7 @@
             "phone": "(77) 99124-8004",
             "latitude": -14.8506159,
             "longitude": -40.8386069,
-            "addressType": "Loja",
+            "addressType": "Loja"
         },
         {
             "title": "Manaus",
@@ -1542,7 +1542,7 @@
             "phone": "(92) 3304-3785",
             "latitude": -3.0308083,
             "longitude": -59.9771708,
-            "addressType": "Loja",
+            "addressType": "Loja"
         }
     ]
 };</script>
